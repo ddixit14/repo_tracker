@@ -6,6 +6,9 @@ on:
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,8 +23,6 @@ jobs:
           ./repo_status.sh
 
       - name: Commit and Push Changes
-        permissions:
-          contents: write
         run: |
           git config --global user.name 'Deepankar'
           git config --global user.email 'ddixit14@users.noreply.github.com'
