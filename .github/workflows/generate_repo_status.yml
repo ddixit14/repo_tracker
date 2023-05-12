@@ -1,0 +1,25 @@
+name: Generate Stats
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Stats
+        run: |
+          chmod +x repo_status.sh
+          ./repo_status.sh
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add results.md
+          git commit -m "Update stats"
+          git push
