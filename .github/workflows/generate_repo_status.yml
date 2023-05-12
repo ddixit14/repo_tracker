@@ -3,6 +3,9 @@ name: Generate Stats
 on:
   workflow_dispatch:
 
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,8 +21,6 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add results.md
-          git commit -m "Update stats"
+          git commit -m "Updating stats"
           git push
