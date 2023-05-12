@@ -3,6 +3,7 @@ name: Generate Stats
 on:
   schedule:
     - cron: '0 0 * * *'  # Run at 00:00 every day
+  workflow_dispatch:
 
 env:
   GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
