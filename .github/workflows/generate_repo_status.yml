@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "ddixit14@gmail.com"
-          git config --local user.name "Deepankar"
+          git config --local user.email "deepankardixit@google.com"
+          git config --local user.name "ddixit14"
           git add results.md
           git commit -m "Update stats"
           git push
