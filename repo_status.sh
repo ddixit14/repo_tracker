@@ -9,18 +9,20 @@
 
 set -e
 
-repositories=$1
+language=$1
+repositories=$language.txt
 
 # Define the column headers
-echo "| Repository | Open Issues | Open Pull Requests |" > $repositories-results.md
-echo "|------------|-------------|--------------------|" >> $repositories-results.md
+echo "# $language" > $language-results.md
+echo "| Repository | Open Issues | Open Pull Requests |" >> $language-results.md
+echo "|------------|-------------|--------------------|" >> $language-results.md
 
 for repository in $(cat $repositories); do
 
   open_issues_count=$(gh issue list -R googleapis/${repository} -L 100 -s open | wc -l)
   open_pull_requests=$(gh pr list -R googleapis/${repository} -L 100 -s open | wc -l)
 
-  echo "| $repository | $open_issues_count | $open_pull_requests |" >> $repositories-results.md
+  echo "| $repository | $open_issues_count | $open_pull_requests |" >> $language-results.md
 
 done
 

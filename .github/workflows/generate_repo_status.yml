@@ -22,9 +22,10 @@ jobs:
       - name: Generate Stats
         run: |
           chmod +x repo_status.sh
-          ./repo_status.sh java_repositories.txt
-          ./repo_status.sh nodejs_repositories.txt
-          ./repo_status.sh python_repositories.txt
+          ./repo_status.sh java
+          ./repo_status.sh nodejs
+          ./repo_status.sh python
+          cat java-results.md nodejs-results.md python-results.md>README.md
 
       - name: Commit and Push Changes
         run: |
