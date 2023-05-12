@@ -7,7 +7,7 @@
 # 4. open issues count
 # 5. open pull requests count
 
-set +e
+set -e
 
 repositories=$1
 
