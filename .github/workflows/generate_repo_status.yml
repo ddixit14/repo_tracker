@@ -20,7 +20,9 @@ jobs:
       - name: Generate Stats
         run: |
           chmod +x repo_status.sh
-          ./repo_status.sh
+          ./repo_status.sh java_repositories.txt
+          ./repo_status.sh node_repositories.txt
+          ./repo_status.sh python_repositories.txt
 
       - name: Commit and Push Changes
         run: |
