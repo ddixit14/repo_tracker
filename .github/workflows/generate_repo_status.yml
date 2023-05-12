@@ -20,9 +20,10 @@ jobs:
           ./repo_status.sh
 
       - name: Commit and Push Changes
+        permissions:
+          contents: write
         run: |
-          git config --local user.email "deepankardixit@google.com"
-          git config --local user.name "ddixit14"
-          git add results.md
-          git commit -m "Update stats"
+          git config --global user.name 'Deepankar'
+          git config --global user.email 'ddixit14@users.noreply.github.com'
+          git commit -am "Update Repo Status"
           git push
