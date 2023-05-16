@@ -92,7 +92,7 @@
 | java-network-security | 0 | 25 |
 | java-networkconnectivity | 0 | 26 |
 | java-notebooks | 0 | 27 |
-| java-notification | 0 | 30 |
+| java-notification | 0 | 31 |
 | java-optimization | 0 | 28 |
 | java-orchestration-airflow | 0 | 28 |
 | java-orgpolicy | 0 | 5 |

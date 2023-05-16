@@ -92,7 +92,7 @@
 | java-network-security | 0 | 25 |
 | java-networkconnectivity | 0 | 26 |
 | java-notebooks | 0 | 27 |
-| java-notification | 0 | 30 |
+| java-notification | 0 | 31 |
 | java-optimization | 0 | 28 |
 | java-orchestration-airflow | 0 | 28 |
 | java-orgpolicy | 0 | 5 |
@@ -260,7 +260,7 @@
 |------------|-------------|--------------------|
 | python-access-approval | 0 | 0 |
 | python-access-context-manager | 2 | 0 |
-| python-analytics-admin | 1 | 2 |
+| python-analytics-admin | 1 | 1 |
 | python-analytics-data | 11 | 0 |
 | python-api-gateway | 0 | 0 |
 | python-apigee-connect | 0 | 0 |
@@ -358,7 +358,7 @@
 | python-resource-manager | 0 | 1 |
 | python-resource-settings | 0 | 0 |
 | python-retail | 0 | 1 |
-| python-run | 0 | 1 |
+| python-run | 1 | 1 |
 | python-scheduler | 0 | 0 |
 | python-secret-manager | 0 | 0 |
 | python-securitycenter | 0 | 0 |
@@ -377,7 +377,7 @@
 | python-trace | 0 | 0 |
 | python-videointelligence | 2 | 2 |
 | python-video-live-stream | 0 | 1 |
-| python-video-stitcher | 0 | 4 |
+| python-video-stitcher | 0 | 1 |
 | python-video-transcoder | 0 | 0 |
 | python-vm-migration | 0 | 0 |
 | python-vpc-access | 0 | 0 |
