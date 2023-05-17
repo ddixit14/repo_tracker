@@ -107,7 +107,7 @@
 | java-recommender | 0 | 28 |
 | java-redis | 0 | 28 |
 | java-resource-settings | 0 | 25 |
-| java-resourcemanager | 0 | 29 |
+| java-resourcemanager | 0 | 6 |
 | java-retail | 0 | 28 |
 | java-run | 0 | 27 |
 | java-scheduler | 0 | 28 |

@@ -4,7 +4,7 @@
 | python-access-approval | 0 | 0 |
 | python-access-context-manager | 2 | 0 |
 | python-analytics-admin | 1 | 1 |
-| python-analytics-data | 11 | 0 |
+| python-analytics-data | 12 | 0 |
 | python-api-gateway | 0 | 0 |
 | python-apigee-connect | 0 | 0 |
 | python-apigee-registry | 0 | 0 |
@@ -15,7 +15,7 @@
 | python-asset | 0 | 1 |
 | python-assured-workloads | 0 | 1 |
 | python-bare-metal-solution | 0 | 0 |
-| python-batch | 0 | 0 |
+| python-batch | 1 | 1 |
 | python-beyondcorp-appconnections | 0 | 0 |
 | python-beyondcorp-appconnectors | 0 | 0 |
 | python-beyondcorp-appgateways | 0 | 0 |
@@ -44,7 +44,7 @@
 | python-data-fusion | 0 | 0 |
 | python-datalabeling | 0 | 0 |
 | python-dataplex | 0 | 1 |
-| python-dataproc | 0 | 1 |
+| python-dataproc | 1 | 1 |
 | python-dataproc-metastore | 0 | 0 |
 | python-data-qna | 0 | 0 |
 | python-datastream | 0 | 1 |
@@ -73,8 +73,8 @@
 | python-iap | 0 | 0 |
 | python-ids | 0 | 0 |
 | python-iot | 0 | 0 |
-| python-kms | 0 | 1 |
-| python-language | 0 | 0 |
+| python-kms | 0 | 0 |
+| python-language | 1 | 0 |
 | python-life-sciences | 0 | 0 |
 | python-managed-identities | 0 | 0 |
 | python-media-translation | 0 | 0 |
@@ -98,10 +98,10 @@
 | python-recommendations-ai | 0 | 0 |
 | python-recommender | 0 | 0 |
 | python-redis | 0 | 1 |
-| python-resource-manager | 0 | 1 |
+| python-resource-manager | 0 | 0 |
 | python-resource-settings | 0 | 0 |
 | python-retail | 0 | 1 |
-| python-run | 1 | 1 |
+| python-run | 2 | 1 |
 | python-scheduler | 0 | 0 |
 | python-secret-manager | 0 | 0 |
 | python-securitycenter | 0 | 0 |
@@ -119,7 +119,7 @@
 | python-tpu | 0 | 0 |
 | python-trace | 0 | 0 |
 | python-videointelligence | 2 | 2 |
-| python-video-live-stream | 0 | 1 |
+| python-video-live-stream | 0 | 0 |
 | python-video-stitcher | 0 | 1 |
 | python-video-transcoder | 0 | 0 |
 | python-vm-migration | 0 | 0 |
