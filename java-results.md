@@ -2,7 +2,7 @@
 | Repository | Open Issues | Open Pull Requests |
 |------------|-------------|--------------------|
 | api-common-java | 0 | 3 |
-| gax-java | 0 | 4 |
+| gax-java | 0 | 5 |
 | java-accessapproval | 0 | 3 |
 | java-accesscontextmanager | 0 | 26 |
 | java-aiplatform | 0 | 26 |

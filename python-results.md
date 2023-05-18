@@ -120,7 +120,7 @@
 | python-trace | 0 | 0 |
 | python-videointelligence | 2 | 2 |
 | python-video-live-stream | 0 | 0 |
-| python-video-stitcher | 0 | 1 |
+| python-video-stitcher | 0 | 2 |
 | python-video-transcoder | 0 | 0 |
 | python-vm-migration | 0 | 0 |
 | python-vpc-access | 0 | 0 |
