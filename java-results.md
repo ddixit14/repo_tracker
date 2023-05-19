@@ -2,7 +2,7 @@
 | Repository | Open Issues | Open Pull Requests |
 |------------|-------------|--------------------|
 | api-common-java | 0 | 3 |
-| gax-java | 0 | 5 |
+| gax-java | 0 | 4 |
 | java-accessapproval | 0 | 3 |
 | java-accesscontextmanager | 0 | 26 |
 | java-aiplatform | 0 | 26 |
@@ -126,7 +126,7 @@
 | java-tasks | 0 | 29 |
 | java-texttospeech | 0 | 28 |
 | java-tpu | 0 | 25 |
-| java-trace | 0 | 31 |
+| java-trace | 0 | 4 |
 | java-translate | 0 | 28 |
 | java-video-intelligence | 0 | 28 |
 | java-video-live-stream | 0 | 26 |

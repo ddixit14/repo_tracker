@@ -2,7 +2,7 @@
 | Repository | Open Issues | Open Pull Requests |
 |------------|-------------|--------------------|
 | api-common-java | 0 | 3 |
-| gax-java | 0 | 5 |
+| gax-java | 0 | 4 |
 | java-accessapproval | 0 | 3 |
 | java-accesscontextmanager | 0 | 26 |
 | java-aiplatform | 0 | 26 |
@@ -126,7 +126,7 @@
 | java-tasks | 0 | 29 |
 | java-texttospeech | 0 | 28 |
 | java-tpu | 0 | 25 |
-| java-trace | 0 | 31 |
+| java-trace | 0 | 4 |
 | java-translate | 0 | 28 |
 | java-video-intelligence | 0 | 28 |
 | java-video-live-stream | 0 | 26 |
@@ -310,7 +310,7 @@
 | python-dialogflow | 0 | 1 |
 | python-dialogflow-cx | 0 | 2 |
 | python-dlp | 0 | 0 |
-| python-dms | 0 | 0 |
+| python-dms | 0 | 1 |
 | python-documentai | 0 | 0 |
 | python-domains | 0 | 0 |
 | python-edgecontainer | 0 | 0 |
@@ -381,6 +381,6 @@
 | python-video-transcoder | 0 | 0 |
 | python-vm-migration | 0 | 0 |
 | python-vpc-access | 0 | 0 |
-| python-webrisk | 0 | 0 |
+| python-webrisk | 0 | 1 |
 | python-websecurityscanner | 0 | 0 |
 | python-workflows | 0 | 0 |

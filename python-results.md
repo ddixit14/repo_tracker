@@ -53,7 +53,7 @@
 | python-dialogflow | 0 | 1 |
 | python-dialogflow-cx | 0 | 2 |
 | python-dlp | 0 | 0 |
-| python-dms | 0 | 0 |
+| python-dms | 0 | 1 |
 | python-documentai | 0 | 0 |
 | python-domains | 0 | 0 |
 | python-edgecontainer | 0 | 0 |
@@ -124,6 +124,6 @@
 | python-video-transcoder | 0 | 0 |
 | python-vm-migration | 0 | 0 |
 | python-vpc-access | 0 | 0 |
-| python-webrisk | 0 | 0 |
+| python-webrisk | 0 | 1 |
 | python-websecurityscanner | 0 | 0 |
 | python-workflows | 0 | 0 |
