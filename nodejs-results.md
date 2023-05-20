@@ -20,7 +20,7 @@
 | nodejs-dialogflow | 0 | 0 |
 | nodejs-resource-manager | 0 | 0 |
 | nodejs-kms | 0 | 0 |
-| nodejs-iot | 1 | 3 |
+| nodejs-iot | 0 | 0 |
 | nodejs-asset | 0 | 0 |
 | nodejs-security-center | 0 | 0 |
 | nodejs-scheduler | 0 | 0 |
@@ -64,7 +64,7 @@
 | nodejs-binary-authorization | 0 | 0 |
 | nodejs-access-approval | 0 | 0 |
 | nodejs-channel | 0 | 0 |
-| nodejs-retail | 1 | 0 |
+| nodejs-retail | 0 | 0 |
 | nodejs-iam-credentials | 0 | 0 |
 | nodejs-managed-identities | 0 | 0 |
 | nodejs-gke-hub | 0 | 0 |
@@ -75,7 +75,7 @@
 | nodejs-org-policy | 0 | 0 |
 | nodejs-api-gateway | 0 | 0 |
 | nodejs-service-management | 0 | 0 |
-| nodejs-service-control | 0 | 1 |
+| nodejs-service-control | 0 | 0 |
 | nodejs-appengine-admin | 0 | 0 |
 | nodejs-service-usage | 0 | 0 |
 | nodejs-dms | 0 | 0 |
