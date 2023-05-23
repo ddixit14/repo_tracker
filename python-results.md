@@ -3,7 +3,7 @@
 |------------|-------------|--------------------|
 | python-access-approval | 0 | 0 |
 | python-access-context-manager | 2 | 0 |
-| python-analytics-admin | 1 | 1 |
+| python-analytics-admin | 2 | 1 |
 | python-analytics-data | 12 | 0 |
 | python-api-gateway | 0 | 0 |
 | python-apigee-connect | 0 | 0 |
@@ -119,7 +119,7 @@
 | python-tpu | 0 | 0 |
 | python-trace | 0 | 0 |
 | python-videointelligence | 2 | 2 |
-| python-video-live-stream | 0 | 0 |
+| python-video-live-stream | 0 | 1 |
 | python-video-stitcher | 0 | 2 |
 | python-video-transcoder | 0 | 0 |
 | python-vm-migration | 0 | 0 |
