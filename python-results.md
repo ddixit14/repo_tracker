@@ -3,7 +3,7 @@
 |------------|-------------|--------------------|
 | python-access-approval | 0 | 0 |
 | python-access-context-manager | 2 | 1 |
-| python-analytics-admin | 2 | 2 |
+| python-analytics-admin | 3 | 2 |
 | python-analytics-data | 12 | 0 |
 | python-api-gateway | 0 | 0 |
 | python-apigee-connect | 0 | 0 |
@@ -74,7 +74,7 @@
 | python-ids | 0 | 0 |
 | python-iot | 0 | 2 |
 | python-kms | 0 | 1 |
-| python-language | 1 | 1 |
+| python-language | 1 | 2 |
 | python-life-sciences | 0 | 0 |
 | python-managed-identities | 0 | 0 |
 | python-media-translation | 0 | 1 |
