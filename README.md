@@ -16,9 +16,9 @@
 | java-area120-tables | 0 | 1 |
 | java-artifact-registry | 0 | 2 |
 | java-asset | 0 | 3 |
-| java-assured-workloads | 0 | 4 |
+| java-assured-workloads | 0 | 6 |
 | java-automl | 0 | 1 |
-| java-bare-metal-solution | 0 | 3 |
+| java-bare-metal-solution | 0 | 5 |
 | java-batch | 0 | 1 |
 | java-beyondcorp-appconnections | 0 | 1 |
 | java-beyondcorp-appconnectors | 0 | 1 |
@@ -76,7 +76,7 @@
 | java-grafeas | 0 | 2 |
 | java-gsuite-addons | 0 | 1 |
 | java-iam-admin | 0 | 1 |
-| java-iam | 0 | 2 |
+| java-iam | 0 | 3 |
 | java-iamcredentials | 0 | 2 |
 | java-ids | 0 | 1 |
 | java-iot | 0 | 2 |
@@ -92,7 +92,7 @@
 | java-network-security | 0 | 3 |
 | java-networkconnectivity | 0 | 3 |
 | java-notebooks | 0 | 2 |
-| java-notification | 0 | 3 |
+| java-notification | 0 | 4 |
 | java-optimization | 0 | 2 |
 | java-orchestration-airflow | 0 | 4 |
 | java-orgpolicy | 0 | 3 |
@@ -101,7 +101,7 @@
 | java-phishingprotection | 0 | 2 |
 | java-policy-troubleshooter | 0 | 3 |
 | java-private-catalog | 0 | 3 |
-| java-profiler | 0 | 4 |
+| java-profiler | 0 | 6 |
 | java-recaptchaenterprise | 0 | 3 |
 | java-recommendations-ai | 0 | 2 |
 | java-recommender | 0 | 3 |
@@ -149,7 +149,7 @@
 | nodejs-tasks | 0 | 0 |
 | nodejs-speech | 0 | 0 |
 | nodejs-redis | 0 | 0 |
-| nodejs-pubsub | 29 | 4 |
+| nodejs-pubsub | 28 | 1 |
 | nodejs-os-login | 0 | 0 |
 | nodejs-monitoring | 0 | 0 |
 | nodejs-language | 0 | 0 |
