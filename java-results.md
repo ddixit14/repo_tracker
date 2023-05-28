@@ -16,9 +16,9 @@
 | java-area120-tables | 0 | 1 |
 | java-artifact-registry | 0 | 2 |
 | java-asset | 0 | 3 |
-| java-assured-workloads | 0 | 6 |
+| java-assured-workloads | 0 | 10 |
 | java-automl | 0 | 1 |
-| java-bare-metal-solution | 0 | 5 |
+| java-bare-metal-solution | 0 | 7 |
 | java-batch | 0 | 1 |
 | java-beyondcorp-appconnections | 0 | 1 |
 | java-beyondcorp-appconnectors | 0 | 1 |
@@ -101,7 +101,7 @@
 | java-phishingprotection | 0 | 2 |
 | java-policy-troubleshooter | 0 | 3 |
 | java-private-catalog | 0 | 3 |
-| java-profiler | 0 | 6 |
+| java-profiler | 0 | 8 |
 | java-recaptchaenterprise | 0 | 3 |
 | java-recommendations-ai | 0 | 2 |
 | java-recommender | 0 | 3 |
