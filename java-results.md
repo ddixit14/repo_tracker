@@ -16,9 +16,9 @@
 | java-area120-tables | 0 | 1 |
 | java-artifact-registry | 0 | 2 |
 | java-asset | 0 | 3 |
-| java-assured-workloads | 0 | 10 |
+| java-assured-workloads | 0 | 11 |
 | java-automl | 0 | 1 |
-| java-bare-metal-solution | 0 | 7 |
+| java-bare-metal-solution | 0 | 8 |
 | java-batch | 0 | 1 |
 | java-beyondcorp-appconnections | 0 | 1 |
 | java-beyondcorp-appconnectors | 0 | 1 |
@@ -27,7 +27,7 @@
 | java-beyondcorp-clientgateways | 0 | 2 |
 | java-bigquery-data-exchange | 0 | 1 |
 | java-bigqueryconnection | 0 | 3 |
-| java-bigquerydatapolicy | 0 | 7 |
+| java-bigquerydatapolicy | 0 | 8 |
 | java-bigquerydatatransfer | 0 | 1 |
 | java-bigquerymigration | 0 | 0 |
 | java-bigqueryreservation | 0 | 2 |
@@ -76,7 +76,7 @@
 | java-grafeas | 0 | 2 |
 | java-gsuite-addons | 0 | 1 |
 | java-iam-admin | 0 | 1 |
-| java-iam | 0 | 3 |
+| java-iam | 0 | 4 |
 | java-iamcredentials | 0 | 2 |
 | java-ids | 0 | 1 |
 | java-iot | 0 | 2 |
@@ -101,7 +101,7 @@
 | java-phishingprotection | 0 | 2 |
 | java-policy-troubleshooter | 0 | 3 |
 | java-private-catalog | 0 | 3 |
-| java-profiler | 0 | 8 |
+| java-profiler | 0 | 9 |
 | java-recaptchaenterprise | 0 | 3 |
 | java-recommendations-ai | 0 | 2 |
 | java-recommender | 0 | 3 |

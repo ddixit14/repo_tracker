@@ -38,7 +38,7 @@
 | python-contact-center-insights | 0 | 1 |
 | python-container | 0 | 2 |
 | python-containeranalysis | 0 | 1 |
-| python-datacatalog | 0 | 0 |
+| python-datacatalog | 0 | 1 |
 | python-dataflow-client | 0 | 0 |
 | python-dataform | 0 | 1 |
 | python-data-fusion | 0 | 0 |
