@@ -113,7 +113,7 @@
 | python-service-usage | 0 | 0 |
 | python-shell | 0 | 0 |
 | python-storage-transfer | 0 | 0 |
-| python-talent | 0 | 2 |
+| python-talent | 0 | 3 |
 | python-tasks | 0 | 1 |
 | python-texttospeech | 3 | 2 |
 | python-tpu | 0 | 0 |

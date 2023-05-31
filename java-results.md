@@ -16,9 +16,9 @@
 | java-area120-tables | 0 | 1 |
 | java-artifact-registry | 0 | 2 |
 | java-asset | 0 | 3 |
-| java-assured-workloads | 0 | 11 |
+| java-assured-workloads | 0 | 12 |
 | java-automl | 0 | 1 |
-| java-bare-metal-solution | 0 | 8 |
+| java-bare-metal-solution | 0 | 9 |
 | java-batch | 0 | 1 |
 | java-beyondcorp-appconnections | 0 | 1 |
 | java-beyondcorp-appconnectors | 0 | 1 |
@@ -27,7 +27,7 @@
 | java-beyondcorp-clientgateways | 0 | 2 |
 | java-bigquery-data-exchange | 0 | 1 |
 | java-bigqueryconnection | 0 | 3 |
-| java-bigquerydatapolicy | 0 | 8 |
+| java-bigquerydatapolicy | 0 | 9 |
 | java-bigquerydatatransfer | 0 | 1 |
 | java-bigquerymigration | 0 | 0 |
 | java-bigqueryreservation | 0 | 2 |
@@ -101,7 +101,7 @@
 | java-phishingprotection | 0 | 2 |
 | java-policy-troubleshooter | 0 | 3 |
 | java-private-catalog | 0 | 3 |
-| java-profiler | 0 | 9 |
+| java-profiler | 0 | 10 |
 | java-recaptchaenterprise | 0 | 3 |
 | java-recommendations-ai | 0 | 2 |
 | java-recommender | 0 | 3 |
