@@ -116,6 +116,7 @@ java-service-control
 java-service-management
 java-service-usage
 java-servicedirectory
+java-shared-dependencies
 java-shell
 java-speech
 java-storage-transfer
