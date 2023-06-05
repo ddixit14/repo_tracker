@@ -2,7 +2,7 @@ name: Generate Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run at 00:00 every day
+    - cron: '0 1,3,5,6 * * *'
   workflow_dispatch:
 
 env:
@@ -18,18 +18,38 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-
-      - name: Generate Stats
+      
+      - name: Run java update at 1am
         run: |
           chmod +x repo_status.sh
           ./repo_status.sh java
-          ./repo_status.sh nodejs
-          ./repo_status.sh python
-          cat java-results.md nodejs-results.md python-results.md>README.md
-
-      - name: Commit and Push Changes
-        run: |
           git config --global user.name 'Deepankar'
           git config --global user.email 'ddixit14@users.noreply.github.com'
           git commit -am "Update Repo Status"
           git push
+        if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '1' }}
+      
+      - name: Run python update at 1am
+        run: |
+          chmod +x repo_status.sh
+          ./repo_status.sh python
+          git config --global user.name 'Deepankar'
+          git config --global user.email 'ddixit14@users.noreply.github.com'
+          git commit -am "Update Repo Status"
+          git push
+        if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '3' }}
+
+      - name: Run node update at 1am
+        run: |
+          chmod +x repo_status.sh
+          ./repo_status.sh node
+          git config --global user.name 'Deepankar'
+          git config --global user.email 'ddixit14@users.noreply.github.com'
+          git commit -am "Update Repo Status"
+          git push
+        if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '5' }}
+
+      - name: Generate Stats
+        run: |
+          cat java-results.md nodejs-results.md python-results.md>README.md
+          if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '6' }}
