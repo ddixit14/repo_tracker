@@ -22,7 +22,7 @@ jobs:
       - name: Generate Stats
         run: |
           chmod +x repo_status.sh
-          ./repo_status.sh node
+          ./repo_status.sh nodejs
 
       - name: Commit and Push Changes
         run: |
