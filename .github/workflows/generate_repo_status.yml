@@ -27,7 +27,7 @@ jobs:
           git config --global user.email 'ddixit14@users.noreply.github.com'
           git commit -am "Update Repo Status"
           git push
-        if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '1' }}
+        if: ${{ github.schedule_repository == 'repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '1' }}
       
       - name: Run python update at 1am
         run: |
@@ -37,7 +37,7 @@ jobs:
           git config --global user.email 'ddixit14@users.noreply.github.com'
           git commit -am "Update Repo Status"
           git push
-        if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '3' }}
+        if: ${{ github.schedule_repository == 'repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '3' }}
 
       - name: Run node update at 1am
         run: |
@@ -47,7 +47,7 @@ jobs:
           git config --global user.email 'ddixit14@users.noreply.github.com'
           git commit -am "Update Repo Status"
           git push
-        if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '5' }}
+        if: ${{ github.schedule_repository == 'repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '5' }}
 
       - name: Generate Stats
         run: |
@@ -56,4 +56,4 @@ jobs:
           git config --global user.email 'ddixit14@users.noreply.github.com'
           git commit -am "Update Repo Status"
           git push
-          if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '6' }}
+          if: ${{ github.schedule_repository == 'repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '6' }}
