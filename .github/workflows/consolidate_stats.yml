@@ -1,8 +1,8 @@
-name: Generate Stats
+name: Consolidate Stats into readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run at 00:00 every day
+    - cron: '0 6 * * *'  # Run at 00:00 every day
   workflow_dispatch:
 
 env:
@@ -21,10 +21,6 @@ jobs:
 
       - name: Generate Stats
         run: |
-          chmod +x repo_status.sh
-          ./repo_status.sh java
-          ./repo_status.sh nodejs
-          ./repo_status.sh python
           cat java-results.md nodejs-results.md python-results.md>README.md
 
       - name: Commit and Push Changes
