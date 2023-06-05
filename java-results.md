@@ -1,141 +1,141 @@
 # java
-| Repository | Open Issues | Open Pull Requests |
-|------------|-------------|--------------------|
-| api-common-java | 0 | 2 |
-| gax-java | 0 | 6 |
-| java-accessapproval | 0 | 1 |
-| java-accesscontextmanager | 0 | 2 |
-| java-aiplatform | 0 | 1 |
-| java-analytics-admin | 0 | 2 |
-| java-analytics-data | 0 | 1 |
-| java-api-gateway | 0 | 1 |
-| java-apigee-connect | 0 | 0 |
-| java-apigee-registry | 0 | 1 |
-| java-apikeys | 0 | 2 |
-| java-appengine-admin | 0 | 2 |
-| java-area120-tables | 0 | 0 |
-| java-artifact-registry | 0 | 1 |
-| java-asset | 0 | 5 |
-| java-assured-workloads | 0 | 12 |
-| java-automl | 0 | 1 |
-| java-bare-metal-solution | 0 | 10 |
-| java-batch | 0 | 1 |
-| java-beyondcorp-appconnections | 0 | 1 |
-| java-beyondcorp-appconnectors | 0 | 1 |
-| java-beyondcorp-appgateways | 0 | 3 |
-| java-beyondcorp-clientconnectorservices | 0 | 2 |
-| java-beyondcorp-clientgateways | 0 | 2 |
-| java-bigquery-data-exchange | 0 | 0 |
-| java-bigqueryconnection | 0 | 3 |
-| java-bigquerydatapolicy | 0 | 10 |
-| java-bigquerydatatransfer | 0 | 1 |
-| java-bigquerymigration | 0 | 0 |
-| java-bigqueryreservation | 0 | 2 |
-| java-billing | 0 | 1 |
-| java-billingbudgets | 0 | 1 |
-| java-binary-authorization | 0 | 1 |
-| java-certificate-manager | 0 | 1 |
-| java-channel | 0 | 1 |
-| java-cloudbuild | 0 | 2 |
-| java-cloudcommerceconsumerprocurement | 0 | 2 |
-| java-compute | 0 | 3 |
-| java-common-protos | 0 | 4 |
-| java-contact-center-insights | 0 | 1 |
-| java-container | 0 | 15 |
-| java-containeranalysis | 0 | 1 |
-| java-data-fusion | 0 | 1 |
-| java-datacatalog | 0 | 3 |
-| java-dataflow | 0 | 0 |
-| java-dataform | 0 | 1 |
-| java-datalabeling | 0 | 2 |
-| java-dataplex | 0 | 1 |
-| java-dataproc-metastore | 0 | 1 |
-| java-dataproc | 0 | 3 |
-| java-datastream | 0 | 1 |
-| java-debugger-client | 0 | 0 |
-| java-deploy | 0 | 2 |
-| java-dialogflow-cx | 0 | 0 |
-| java-dialogflow | 0 | 3 |
-| java-distributedcloudedge | 0 | 3 |
-| java-dlp | 0 | 1 |
-| java-dms | 0 | 1 |
-| java-dns | 0 | 1 |
-| java-document-ai | 0 | 1 |
-| java-domains | 0 | 2 |
-| java-errorreporting | 0 | 2 |
-| java-essential-contacts | 0 | 0 |
-| java-eventarc-publishing | 0 | 1 |
-| java-eventarc | 0 | 0 |
-| java-filestore | 0 | 0 |
-| java-functions | 0 | 2 |
-| java-game-servers | 0 | 2 |
-| java-gke-backup | 0 | 1 |
-| java-gke-connect-gateway | 0 | 1 |
-| java-gke-multi-cloud | 0 | 1 |
-| java-gkehub | 0 | 1 |
-| java-grafeas | 0 | 2 |
-| java-gsuite-addons | 0 | 0 |
-| java-iam-admin | 0 | 0 |
-| java-iam | 0 | 5 |
-| java-iamcredentials | 0 | 2 |
-| java-ids | 0 | 0 |
-| java-iot | 0 | 2 |
-| java-kms | 0 | 2 |
-| java-language | 0 | 1 |
-| java-life-sciences | 0 | 1 |
-| java-managed-identities | 0 | 1 |
-| java-mediatranslation | 0 | 2 |
-| java-memcache | 0 | 3 |
-| java-monitoring-dashboards | 0 | 2 |
-| java-monitoring | 0 | 5 |
-| java-network-management | 0 | 2 |
-| java-network-security | 0 | 2 |
-| java-networkconnectivity | 0 | 2 |
-| java-notebooks | 0 | 2 |
-| java-notification | 0 | 10 |
-| java-optimization | 0 | 2 |
-| java-orchestration-airflow | 0 | 3 |
-| java-orgpolicy | 0 | 3 |
-| java-os-config | 0 | 3 |
-| java-os-login | 0 | 3 |
-| java-phishingprotection | 0 | 2 |
-| java-policy-troubleshooter | 0 | 2 |
-| java-private-catalog | 0 | 2 |
-| java-profiler | 0 | 10 |
-| java-recaptchaenterprise | 0 | 3 |
-| java-recommendations-ai | 0 | 2 |
-| java-recommender | 0 | 3 |
-| java-redis | 0 | 3 |
-| java-resource-settings | 0 | 1 |
-| java-resourcemanager | 0 | 4 |
-| java-retail | 0 | 4 |
-| java-run | 0 | 2 |
-| java-scheduler | 0 | 3 |
-| java-secretmanager | 0 | 3 |
-| java-security-private-ca | 0 | 1 |
-| java-securitycenter-settings | 0 | 2 |
-| java-securitycenter | 0 | 4 |
-| java-service-control | 0 | 2 |
-| java-service-management | 0 | 2 |
-| java-service-usage | 0 | 3 |
-| java-servicedirectory | 0 | 3 |
-| java-shell | 0 | 1 |
-| java-speech | 0 | 2 |
-| java-storage-transfer | 0 | 2 |
-| java-talent | 0 | 3 |
-| java-tasks | 0 | 4 |
-| java-texttospeech | 0 | 3 |
-| java-tpu | 0 | 1 |
-| java-trace | 0 | 4 |
-| java-translate | 0 | 3 |
-| java-video-intelligence | 0 | 3 |
-| java-video-live-stream | 0 | 2 |
-| java-video-stitcher | 0 | 3 |
-| java-video-transcoder | 0 | 2 |
-| java-vision | 0 | 3 |
-| java-vmmigration | 0 | 2 |
-| java-vpcaccess | 0 | 1 |
-| java-webrisk | 0 | 3 |
-| java-websecurityscanner | 0 | 2 |
-| java-workflow-executions | 0 | 2 |
-| java-workflows | 0 | 0 |
+| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
+|------------|-------------|--------------------|--------------------|--------------------|--------------------|
+| api-common-java | 0 | 2 | true | false | false |
+| gax-java | 0 | 6 | true | false | false |
+| java-accessapproval | 0 | 1 | true | true | false |
+| java-accesscontextmanager | 0 | 2 | false | false | false |
+| java-aiplatform | 0 | 1 | true | false | false |
+| java-analytics-admin | 0 | 2 | true | false | false |
+| java-analytics-data | 0 | 1 | true | false | false |
+| java-api-gateway | 0 | 1 | true | false | false |
+| java-apigee-connect | 0 | 0 | true | false | false |
+| java-apigee-registry | 0 | 1 | true | false | false |
+| java-apikeys | 0 | 2 | true | false | false |
+| java-appengine-admin | 0 | 2 | true | false | false |
+| java-area120-tables | 0 | 0 | true | false | false |
+| java-artifact-registry | 0 | 1 | true | false | false |
+| java-asset | 0 | 5 | true | false | false |
+| java-assured-workloads | 0 | 12 | false | false | false |
+| java-automl | 0 | 1 | true | false | false |
+| java-bare-metal-solution | 0 | 10 | false | false | false |
+| java-batch | 0 | 1 | true | false | false |
+| java-beyondcorp-appconnections | 0 | 1 | true | false | false |
+| java-beyondcorp-appconnectors | 0 | 1 | true | false | false |
+| java-beyondcorp-appgateways | 0 | 3 | true | false | false |
+| java-beyondcorp-clientconnectorservices | 0 | 2 | true | false | false |
+| java-beyondcorp-clientgateways | 0 | 2 | true | false | false |
+| java-bigquery-data-exchange | 0 | 0 | true | false | false |
+| java-bigqueryconnection | 0 | 3 | true | false | false |
+| java-bigquerydatapolicy | 0 | 10 | false | false | false |
+| java-bigquerydatatransfer | 0 | 1 | true | false | false |
+| java-bigquerymigration | 0 | 0 | true | true | true |
+| java-bigqueryreservation | 0 | 2 | true | false | false |
+| java-billing | 0 | 1 | true | false | false |
+| java-billingbudgets | 0 | 1 | true | false | false |
+| java-binary-authorization | 0 | 1 | true | false | false |
+| java-certificate-manager | 0 | 1 | true | false | false |
+| java-channel | 0 | 1 | true | false | false |
+| java-cloudbuild | 0 | 2 | true | false | false |
+| java-cloudcommerceconsumerprocurement | 0 | 2 | true | false | false |
+| java-compute | 0 | 3 | true | false | false |
+| java-common-protos | 0 | 4 | true | false | false |
+| java-contact-center-insights | 0 | 1 | true | false | false |
+| java-container | 0 | 15 | false | false | false |
+| java-containeranalysis | 0 | 1 | true | false | false |
+| java-data-fusion | 0 | 1 | true | false | false |
+| java-datacatalog | 0 | 3 | true | false | false |
+| java-dataflow | 0 | 0 | true | false | false |
+| java-dataform | 0 | 1 | true | false | false |
+| java-datalabeling | 0 | 2 | true | false | false |
+| java-dataplex | 0 | 1 | true | false | false |
+| java-dataproc-metastore | 0 | 1 | true | false | false |
+| java-dataproc | 0 | 3 | true | false | false |
+| java-datastream | 0 | 1 | true | false | false |
+| java-debugger-client | 0 | 0 | true | false | false |
+| java-deploy | 0 | 2 | true | false | false |
+| java-dialogflow-cx | 0 | 0 | true | false | false |
+| java-dialogflow | 0 | 3 | true | false | false |
+| java-distributedcloudedge | 0 | 3 | true | false | false |
+| java-dlp | 0 | 1 | true | false | false |
+| java-dms | 0 | 1 | true | false | false |
+| java-dns | 0 | 1 | false | false | false |
+| java-document-ai | 0 | 1 | true | false | false |
+| java-domains | 0 | 2 | true | false | false |
+| java-errorreporting | 0 | 2 | true | false | false |
+| java-essential-contacts | 0 | 0 | true | false | false |
+| java-eventarc-publishing | 0 | 1 | true | false | false |
+| java-eventarc | 0 | 0 | true | false | false |
+| java-filestore | 0 | 0 | true | false | false |
+| java-functions | 0 | 2 | true | false | false |
+| java-game-servers | 0 | 2 | true | false | false |
+| java-gke-backup | 0 | 1 | true | false | false |
+| java-gke-connect-gateway | 0 | 1 | true | false | false |
+| java-gke-multi-cloud | 0 | 1 | true | false | false |
+| java-gkehub | 0 | 1 | true | false | false |
+| java-grafeas | 0 | 2 | false | false | false |
+| java-gsuite-addons | 0 | 0 | true | false | false |
+| java-iam-admin | 0 | 0 | true | false | false |
+| java-iam | 0 | 5 | false | false | false |
+| java-iamcredentials | 0 | 2 | true | false | false |
+| java-ids | 0 | 0 | true | false | false |
+| java-iot | 0 | 2 | true | false | false |
+| java-kms | 0 | 2 | true | false | false |
+| java-language | 0 | 1 | true | false | false |
+| java-life-sciences | 0 | 1 | true | false | false |
+| java-managed-identities | 0 | 1 | true | false | false |
+| java-mediatranslation | 0 | 2 | true | false | false |
+| java-memcache | 0 | 3 | true | false | false |
+| java-monitoring-dashboards | 0 | 2 | true | false | false |
+| java-monitoring | 0 | 5 | true | false | false |
+| java-network-management | 0 | 2 | true | false | false |
+| java-network-security | 0 | 2 | true | false | false |
+| java-networkconnectivity | 0 | 2 | true | false | false |
+| java-notebooks | 0 | 2 | true | false | false |
+| java-notification | 0 | 10 | false | false | false |
+| java-optimization | 0 | 2 | true | false | false |
+| java-orchestration-airflow | 0 | 3 | true | false | false |
+| java-orgpolicy | 0 | 3 | true | false | false |
+| java-os-config | 0 | 3 | true | false | false |
+| java-os-login | 0 | 3 | true | false | false |
+| java-phishingprotection | 0 | 2 | true | false | false |
+| java-policy-troubleshooter | 0 | 2 | true | false | false |
+| java-private-catalog | 0 | 2 | true | false | false |
+| java-profiler | 0 | 10 | false | false | false |
+| java-recaptchaenterprise | 0 | 3 | true | false | false |
+| java-recommendations-ai | 0 | 2 | true | false | false |
+| java-recommender | 0 | 3 | true | false | false |
+| java-redis | 0 | 3 | true | false | false |
+| java-resource-settings | 0 | 1 | true | false | false |
+| java-resourcemanager | 0 | 4 | true | false | false |
+| java-retail | 0 | 4 | true | false | false |
+| java-run | 0 | 2 | true | false | false |
+| java-scheduler | 0 | 3 | true | false | false |
+| java-secretmanager | 0 | 3 | true | false | false |
+| java-security-private-ca | 0 | 1 | true | false | false |
+| java-securitycenter-settings | 0 | 2 | true | false | false |
+| java-securitycenter | 0 | 4 | true | false | false |
+| java-service-control | 0 | 2 | true | false | false |
+| java-service-management | 0 | 2 | true | false | false |
+| java-service-usage | 0 | 3 | true | false | false |
+| java-servicedirectory | 0 | 3 | true | false | false |
+| java-shell | 0 | 1 | true | false | false |
+| java-speech | 0 | 2 | true | false | false |
+| java-storage-transfer | 0 | 2 | true | false | false |
+| java-talent | 0 | 3 | true | false | false |
+| java-tasks | 0 | 4 | true | false | false |
+| java-texttospeech | 0 | 3 | true | false | false |
+| java-tpu | 0 | 1 | true | false | false |
+| java-trace | 0 | 4 | true | true | false |
+| java-translate | 0 | 3 | true | false | false |
+| java-video-intelligence | 0 | 3 | true | false | false |
+| java-video-live-stream | 0 | 2 | true | false | false |
+| java-video-stitcher | 0 | 3 | true | false | false |
+| java-video-transcoder | 0 | 2 | true | false | false |
+| java-vision | 0 | 3 | true | false | false |
+| java-vmmigration | 0 | 2 | true | false | false |
+| java-vpcaccess | 0 | 1 | true | false | false |
+| java-webrisk | 0 | 3 | true | false | false |
+| java-websecurityscanner | 0 | 2 | true | false | false |
+| java-workflow-executions | 0 | 2 | true | false | false |
+| java-workflows | 0 | 0 | true | false | false |
