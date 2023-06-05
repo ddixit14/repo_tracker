@@ -52,4 +52,8 @@ jobs:
       - name: Generate Stats
         run: |
           cat java-results.md nodejs-results.md python-results.md>README.md
+          git config --global user.name 'Deepankar'
+          git config --global user.email 'ddixit14@users.noreply.github.com'
+          git commit -am "Update Repo Status"
+          git push
           if: ${{ github.schedule_repository == 'ddixit14/repo_tracker' && github.schedule_event == 'cron' && github.schedule_job == '6' }}
