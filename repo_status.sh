@@ -42,7 +42,7 @@ for repository in $(cat $repositories); do
 
   if [[ $language == "nodejs" ]]; then
       output_readme=$(curl -s https://raw.githubusercontent.com/googleapis/${repository}/main/README.md)
-      if [[ $output_readme == *"REPOSITORY IS DEPRECATED"* ]]; then
+      if [[ $output_readme == *"REPOSITORY IS DEPRECATED"* ]] || [[ $output_readme == *"REPOSITORY HAS BEEN ARCHIVED"* ]] ; then
         is_present_readme=true
       else
         is_present_readme=false
