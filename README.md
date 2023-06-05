@@ -312,7 +312,7 @@
 | python-dlp | 0 | 0 |
 | python-dms | 0 | 0 |
 | python-documentai | 0 | 0 |
-| python-domains | 0 | 0 |
+| python-domains | 1 | 2 |
 | python-edgecontainer | 0 | 0 |
 | python-essential-contacts | 0 | 0 |
 | python-eventarc | 0 | 0 |
@@ -327,7 +327,7 @@
 | python-grpc-google-iam-v1 | 2 | 1 |
 | python-gsuiteaddons | 0 | 0 |
 | python-iam | 3 | 0 |
-| python-iap | 0 | 0 |
+| python-iap | 1 | 2 |
 | python-ids | 0 | 0 |
 | python-iot | 0 | 1 |
 | python-kms | 0 | 0 |
@@ -372,7 +372,7 @@
 | python-storage-transfer | 0 | 0 |
 | python-talent | 0 | 0 |
 | python-tasks | 0 | 0 |
-| python-texttospeech | 3 | 1 |
+| python-texttospeech | 2 | 1 |
 | python-tpu | 0 | 0 |
 | python-trace | 0 | 0 |
 | python-videointelligence | 2 | 0 |
