@@ -29,9 +29,20 @@ for repository in $(cat $repositories); do
       else
          is_present_readme=false
       fi
-  else
+  fi
+
+  if [[ $language == "java" ]]; then
       output_readme=$(curl -s https://raw.githubusercontent.com/googleapis/${repository}/main/README.md)
       if [[ $output_readme == *"library has moved to"* ]]; then
+        is_present_readme=true
+      else
+        is_present_readme=false
+      fi
+  fi
+
+  if [[ $language == "nodejs" ]]; then
+      output_readme=$(curl -s https://raw.githubusercontent.com/googleapis/${repository}/main/README.md)
+      if [[ $output_readme == *"REPOSITORY IS DEPRECATED"* ]]; then
         is_present_readme=true
       else
         is_present_readme=false
