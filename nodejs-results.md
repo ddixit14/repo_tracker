@@ -7,7 +7,7 @@
 | nodejs-text-to-speech | 0 | 0 | true | false | true |
 | nodejs-tasks | 0 | 0 | true | false | true |
 | nodejs-speech | 0 | 0 | true | false | true |
-| nodejs-redis | 0 | 0 | false | false | true |
+| nodejs-redis | 0 | 0 | true | false | true |
 | nodejs-pubsub | 31 | 2 | false | false | false |
 | nodejs-os-login | 0 | 0 | true | false | true |
 | nodejs-monitoring | 0 | 0 | true | false | true |
@@ -59,7 +59,7 @@
 | nodejs-video-transcoder | 0 | 0 | true | false | true |
 | nodejs-ai-platform | 0 | 0 | true | false | true |
 | nodejs-data-qna | 0 | 0 | true | false | true |
-| nodejs-artifact-registry | 0 | 0 | false | false | true |
+| nodejs-artifact-registry | 0 | 0 | true | false | true |
 | nodejs-web-security-scanner | 0 | 0 | true | false | true |
 | nodejs-binary-authorization | 0 | 0 | true | false | true |
 | nodejs-access-approval | 0 | 0 | true | false | true |
