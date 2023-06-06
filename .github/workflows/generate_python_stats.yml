@@ -2,7 +2,7 @@ name: Generate Python Stats
 
 on:
   schedule:
-     - cron: '0 3 * * *' # Run the python script at 1 AM
+     - cron: '0 4 * * *' # Run the python script at 4 AM
   workflow_dispatch:
 
 env:
