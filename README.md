@@ -4,7 +4,7 @@
 | api-common-java | 0 | 2 | true | false | false |
 | gax-java | 0 | 6 | true | false | false |
 | java-accessapproval | 0 | 1 | true | true | false |
-| java-accesscontextmanager | 0 | 2 | false | false | false |
+| java-accesscontextmanager | 0 | 2 | true | false | false |
 | java-aiplatform | 0 | 1 | true | false | false |
 | java-analytics-admin | 0 | 2 | true | false | false |
 | java-analytics-data | 0 | 1 | true | false | false |
@@ -16,9 +16,9 @@
 | java-area120-tables | 0 | 0 | true | false | false |
 | java-artifact-registry | 0 | 1 | true | false | false |
 | java-asset | 0 | 5 | true | false | false |
-| java-assured-workloads | 0 | 12 | false | false | false |
+| java-assured-workloads | 0 | 2 | true | false | false |
 | java-automl | 0 | 1 | true | false | false |
-| java-bare-metal-solution | 0 | 10 | false | false | false |
+| java-bare-metal-solution | 0 | 2 | true | false | false |
 | java-batch | 0 | 1 | true | false | false |
 | java-beyondcorp-appconnections | 0 | 1 | true | false | false |
 | java-beyondcorp-appconnectors | 0 | 1 | true | false | false |
@@ -27,7 +27,7 @@
 | java-beyondcorp-clientgateways | 0 | 2 | true | false | false |
 | java-bigquery-data-exchange | 0 | 0 | true | false | false |
 | java-bigqueryconnection | 0 | 3 | true | false | false |
-| java-bigquerydatapolicy | 0 | 10 | false | false | false |
+| java-bigquerydatapolicy | 0 | 11 | false | false | false |
 | java-bigquerydatatransfer | 0 | 1 | true | false | false |
 | java-bigquerymigration | 0 | 0 | true | true | true |
 | java-bigqueryreservation | 0 | 2 | true | false | false |
@@ -119,6 +119,7 @@
 | java-service-management | 0 | 2 | true | false | false |
 | java-service-usage | 0 | 3 | true | false | false |
 | java-servicedirectory | 0 | 3 | true | false | false |
+| java-shared-dependencies | 0 | 12 | true | false | false |
 | java-shell | 0 | 1 | true | false | false |
 | java-speech | 0 | 2 | true | false | false |
 | java-storage-transfer | 0 | 2 | true | false | false |
@@ -140,121 +141,121 @@
 | java-workflow-executions | 0 | 2 | true | false | false |
 | java-workflows | 0 | 0 | true | false | false |
 # nodejs
-| Repository | Open Issues | Open Pull Requests |
-|------------|-------------|--------------------|
-| nodejs-vision | 0 | 0 |
-| nodejs-video-intelligence | 0 | 0 |
-| nodejs-translate | 0 | 0 |
-| nodejs-text-to-speech | 0 | 0 |
-| nodejs-tasks | 0 | 0 |
-| nodejs-speech | 0 | 0 |
-| nodejs-redis | 0 | 0 |
-| nodejs-pubsub | 30 | 2 |
-| nodejs-os-login | 0 | 0 |
-| nodejs-monitoring | 0 | 0 |
-| nodejs-language | 0 | 0 |
-| nodejs-dlp | 0 | 0 |
-| nodejs-dataproc | 0 | 0 |
-| nodejs-compute | 0 | 0 |
-| nodejs-cloud-container | 0 | 0 |
-| nodejs-bigquery-data-transfer | 0 | 0 |
-| nodejs-dialogflow | 0 | 0 |
-| nodejs-resource-manager | 0 | 0 |
-| nodejs-kms | 0 | 0 |
-| nodejs-iot | 0 | 0 |
-| nodejs-asset | 0 | 0 |
-| nodejs-security-center | 0 | 0 |
-| nodejs-scheduler | 0 | 0 |
-| nodejs-recaptcha-enterprise | 0 | 0 |
-| nodejs-datacatalog | 0 | 0 |
-| nodejs-datalabeling | 0 | 0 |
-| nodejs-web-risk | 0 | 0 |
-| nodejs-containeranalysis | 0 | 0 |
-| nodejs-cloudbuild | 0 | 0 |
-| nodejs-grafeas | 0 | 0 |
-| nodejs-phishing-protection | 0 | 0 |
-| nodejs-monitoring-dashboards | 0 | 0 |
-| nodejs-billing-budgets | 0 | 0 |
-| nodejs-recommender | 0 | 0 |
-| nodejs-secret-manager | 0 | 0 |
-| nodejs-talent | 0 | 0 |
-| nodejs-billing | 0 | 0 |
-| nodejs-game-servers | 0 | 0 |
-| nodejs-service-directory | 0 | 0 |
-| nodejs-media-translation | 0 | 0 |
-| nodejs-document-ai | 0 | 0 |
-| nodejs-memcache | 0 | 0 |
-| nodejs-os-config | 0 | 0 |
-| nodejs-dialogflow | 0 | 0 |
-| nodejs-bigquery-connection | 0 | 0 |
-| nodejs-functions | 0 | 0 |
-| nodejs-analytics-admin | 1 | 3 |
-| nodejs-bigquery-reservation | 0 | 0 |
-| nodejs-dialogflow-cx | 0 | 0 |
-| nodejs-analytics-data | 0 | 0 |
-| nodejs-notebooks | 0 | 0 |
-| nodejs-assured-workloads | 0 | 0 |
-| nodejs-workflows | 0 | 0 |
-| nodejs-area120-tables | 0 | 0 |
-| nodejs-security-private-ca | 0 | 0 |
-| nodejs-video-transcoder | 0 | 0 |
-| nodejs-ai-platform | 0 | 0 |
-| nodejs-data-qna | 0 | 0 |
-| nodejs-artifact-registry | 0 | 0 |
-| nodejs-web-security-scanner | 0 | 0 |
-| nodejs-binary-authorization | 0 | 0 |
-| nodejs-access-approval | 0 | 0 |
-| nodejs-channel | 0 | 0 |
-| nodejs-retail | 0 | 0 |
-| nodejs-iam-credentials | 0 | 0 |
-| nodejs-managed-identities | 0 | 0 |
-| nodejs-gke-hub | 0 | 0 |
-| nodejs-domains | 0 | 0 |
-| nodejs-network-connectivity | 0 | 0 |
-| nodejs-policy-troubleshooter | 0 | 0 |
-| nodejs-dataproc-metastore | 0 | 0 |
-| nodejs-org-policy | 0 | 0 |
-| nodejs-api-gateway | 0 | 0 |
-| nodejs-service-management | 0 | 0 |
-| nodejs-service-control | 0 | 0 |
-| nodejs-appengine-admin | 0 | 0 |
-| nodejs-service-usage | 0 | 0 |
-| nodejs-dms | 0 | 0 |
-| nodejs-resource-manager | 0 | 0 |
-| nodejs-essential-contacts | 0 | 0 |
-| nodejs-cloud-tpu | 0 | 0 |
-| nodejs-apigee-connect | 0 | 0 |
-| nodejs-cloud-shell | 0 | 0 |
-| nodejs-vpc-access | 0 | 0 |
-| nodejs-private-catalog | 0 | 0 |
-| nodejs-life-sciences | 0 | 0 |
-| nodejs-gke-connect-gateway | 0 | 0 |
-| nodejs-contact-center-insights | 0 | 0 |
-| nodejs-resource-settings | 0 | 0 |
-| nodejs-dataflow | 0 | 0 |
-| nodejs-eventarc | 0 | 0 |
-| nodejs-filestore | 0 | 0 |
-| nodejs-network-management | 0 | 0 |
-| nodejs-iap | 0 | 0 |
-| nodejs-storage-transfer | 0 | 0 |
-| nodejs-orchestration-airflow | 0 | 0 |
-| nodejs-datastream | 0 | 0 |
-| nodejs-deploy | 0 | 0 |
-| nodejs-network-security | 0 | 0 |
-| nodejs-data-fusion | 0 | 0 |
-| nodejs-access-context-manager | 0 | 0 |
-| nodejs-vmmigration | 0 | 0 |
-| nodejs-ids | 0 | 0 |
-| nodejs-dataplex | 0 | 0 |
-| nodejs-video-live-stream | 0 | 0 |
-| nodejs-eventarc-publishing | 0 | 0 |
-| nodejs-certificate-manager | 0 | 0 |
-| nodejs-cloud-optimization | 0 | 0 |
-| nodejs-run | 0 | 0 |
-| nodejs-bigquery-data-exchange | 0 | 0 |
-| nodejs-gke-backup | 0 | 0 |
-| nodejs-bare-metal-solution | 0 | 0 |
-| nodejs-video-stitcher | 0 | 0 |
+| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
+|------------|-------------|--------------------|--------------------|--------------------|--------------------|
+| nodejs-vision | 0 | 0 | true | false | true |
+| nodejs-video-intelligence | 0 | 0 | true | false | true |
+| nodejs-translate | 0 | 0 | true | false | true |
+| nodejs-text-to-speech | 0 | 0 | true | false | true |
+| nodejs-tasks | 0 | 0 | true | false | true |
+| nodejs-speech | 0 | 0 | true | false | true |
+| nodejs-redis | 0 | 0 | true | false | true |
+| nodejs-pubsub | 31 | 2 | false | false | false |
+| nodejs-os-login | 0 | 0 | true | false | true |
+| nodejs-monitoring | 0 | 0 | true | false | true |
+| nodejs-language | 0 | 0 | true | false | true |
+| nodejs-dlp | 0 | 0 | true | false | true |
+| nodejs-dataproc | 0 | 0 | true | false | true |
+| nodejs-compute | 0 | 0 | true | false | true |
+| nodejs-cloud-container | 0 | 0 | true | false | true |
+| nodejs-bigquery-data-transfer | 0 | 0 | true | false | true |
+| nodejs-dialogflow | 0 | 0 | true | false | true |
+| nodejs-resource-manager | 0 | 0 | true | false | true |
+| nodejs-kms | 0 | 0 | true | false | true |
+| nodejs-iot | 0 | 0 | true | false | true |
+| nodejs-asset | 0 | 0 | true | false | true |
+| nodejs-security-center | 0 | 0 | true | false | true |
+| nodejs-scheduler | 0 | 0 | true | false | true |
+| nodejs-recaptcha-enterprise | 0 | 0 | true | false | true |
+| nodejs-datacatalog | 0 | 0 | true | false | true |
+| nodejs-datalabeling | 0 | 0 | true | false | true |
+| nodejs-web-risk | 0 | 0 | true | false | true |
+| nodejs-containeranalysis | 0 | 0 | true | false | true |
+| nodejs-cloudbuild | 0 | 0 | true | false | true |
+| nodejs-grafeas | 0 | 0 | true | false | true |
+| nodejs-phishing-protection | 0 | 0 | true | false | true |
+| nodejs-monitoring-dashboards | 0 | 0 | true | false | true |
+| nodejs-billing-budgets | 0 | 0 | true | false | true |
+| nodejs-recommender | 0 | 0 | true | false | true |
+| nodejs-secret-manager | 0 | 0 | true | false | true |
+| nodejs-talent | 0 | 0 | true | false | true |
+| nodejs-billing | 0 | 0 | true | false | true |
+| nodejs-game-servers | 0 | 0 | true | false | true |
+| nodejs-service-directory | 0 | 0 | true | false | true |
+| nodejs-media-translation | 0 | 0 | true | false | true |
+| nodejs-document-ai | 0 | 0 | true | false | true |
+| nodejs-memcache | 0 | 0 | true | false | true |
+| nodejs-os-config | 0 | 0 | true | false | true |
+| nodejs-dialogflow | 0 | 0 | true | false | true |
+| nodejs-bigquery-connection | 0 | 0 | true | false | true |
+| nodejs-functions | 0 | 0 | true | false | true |
+| nodejs-analytics-admin | 1 | 3 | true | false | false |
+| nodejs-bigquery-reservation | 0 | 0 | true | false | true |
+| nodejs-dialogflow-cx | 0 | 0 | true | false | true |
+| nodejs-analytics-data | 0 | 0 | true | false | true |
+| nodejs-notebooks | 0 | 0 | true | false | true |
+| nodejs-assured-workloads | 0 | 0 | true | false | true |
+| nodejs-workflows | 0 | 0 | true | false | true |
+| nodejs-area120-tables | 0 | 0 | true | false | true |
+| nodejs-security-private-ca | 0 | 0 | true | false | true |
+| nodejs-video-transcoder | 0 | 0 | true | false | true |
+| nodejs-ai-platform | 0 | 0 | true | false | true |
+| nodejs-data-qna | 0 | 0 | true | false | true |
+| nodejs-artifact-registry | 0 | 0 | true | false | true |
+| nodejs-web-security-scanner | 0 | 0 | true | false | true |
+| nodejs-binary-authorization | 0 | 0 | true | false | true |
+| nodejs-access-approval | 0 | 0 | true | false | true |
+| nodejs-channel | 0 | 0 | true | false | true |
+| nodejs-retail | 0 | 0 | true | false | true |
+| nodejs-iam-credentials | 0 | 0 | true | false | true |
+| nodejs-managed-identities | 0 | 0 | true | false | true |
+| nodejs-gke-hub | 0 | 0 | true | false | true |
+| nodejs-domains | 0 | 0 | true | false | true |
+| nodejs-network-connectivity | 0 | 0 | true | false | true |
+| nodejs-policy-troubleshooter | 0 | 0 | true | false | true |
+| nodejs-dataproc-metastore | 0 | 0 | true | false | true |
+| nodejs-org-policy | 0 | 0 | true | false | true |
+| nodejs-api-gateway | 0 | 0 | true | false | true |
+| nodejs-service-management | 0 | 0 | true | false | true |
+| nodejs-service-control | 0 | 0 | true | false | true |
+| nodejs-appengine-admin | 0 | 0 | true | false | true |
+| nodejs-service-usage | 0 | 0 | true | false | true |
+| nodejs-dms | 0 | 0 | true | false | true |
+| nodejs-resource-manager | 0 | 0 | true | false | true |
+| nodejs-essential-contacts | 0 | 0 | true | false | true |
+| nodejs-cloud-tpu | 0 | 0 | true | false | true |
+| nodejs-apigee-connect | 0 | 0 | true | false | true |
+| nodejs-cloud-shell | 0 | 0 | true | false | true |
+| nodejs-vpc-access | 0 | 0 | true | false | true |
+| nodejs-private-catalog | 0 | 0 | true | false | true |
+| nodejs-life-sciences | 0 | 0 | true | false | true |
+| nodejs-gke-connect-gateway | 0 | 0 | true | false | true |
+| nodejs-contact-center-insights | 0 | 0 | true | false | true |
+| nodejs-resource-settings | 0 | 0 | true | false | true |
+| nodejs-dataflow | 0 | 0 | true | false | true |
+| nodejs-eventarc | 0 | 0 | true | false | true |
+| nodejs-filestore | 0 | 0 | true | false | true |
+| nodejs-network-management | 0 | 0 | true | false | true |
+| nodejs-iap | 0 | 0 | true | false | true |
+| nodejs-storage-transfer | 0 | 0 | true | false | true |
+| nodejs-orchestration-airflow | 0 | 0 | true | false | true |
+| nodejs-datastream | 0 | 0 | true | false | true |
+| nodejs-deploy | 0 | 0 | true | false | true |
+| nodejs-network-security | 0 | 0 | true | false | true |
+| nodejs-data-fusion | 0 | 0 | true | false | true |
+| nodejs-access-context-manager | 0 | 0 | true | false | true |
+| nodejs-vmmigration | 0 | 0 | true | false | true |
+| nodejs-ids | 0 | 0 | true | false | true |
+| nodejs-dataplex | 0 | 0 | true | false | true |
+| nodejs-video-live-stream | 0 | 0 | true | false | true |
+| nodejs-eventarc-publishing | 0 | 0 | true | false | true |
+| nodejs-certificate-manager | 0 | 0 | true | false | true |
+| nodejs-cloud-optimization | 0 | 0 | true | false | true |
+| nodejs-run | 0 | 0 | true | false | true |
+| nodejs-bigquery-data-exchange | 0 | 0 | true | false | true |
+| nodejs-gke-backup | 0 | 0 | true | false | true |
+| nodejs-bare-metal-solution | 0 | 0 | true | false | true |
+| nodejs-video-stitcher | 0 | 0 | true | false | true |
 # python
 | Repository | Open Issues | Open Pull Requests |
 |------------|-------------|--------------------|
