@@ -2,7 +2,7 @@ name: Consolidate Stats into readme
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Run at 00:00 every day
+    - cron: '0 7 * * *'  # Run at 00:00 every day
   workflow_dispatch:
 
 env:
