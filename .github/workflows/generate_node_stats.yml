@@ -2,7 +2,7 @@ name: Generate Node Stats
 
 on:
   schedule:
-     - cron: '0 5 * * *' # Run the java script at 1 AM
+     - cron: '0 5 * * *' # Run the node script at 5 AM
   workflow_dispatch:
 
 env:
