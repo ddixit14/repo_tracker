@@ -4,7 +4,7 @@
 | api-common-java | 0 | 2 | true | false | false |
 | gax-java | 0 | 6 | true | false | false |
 | java-accessapproval | 0 | 1 | true | true | false |
-| java-accesscontextmanager | 0 | 2 | false | false | false |
+| java-accesscontextmanager | 0 | 2 | true | false | false |
 | java-aiplatform | 0 | 1 | true | false | false |
 | java-analytics-admin | 0 | 2 | true | false | false |
 | java-analytics-data | 0 | 1 | true | false | false |
@@ -16,9 +16,9 @@
 | java-area120-tables | 0 | 0 | true | false | false |
 | java-artifact-registry | 0 | 1 | true | false | false |
 | java-asset | 0 | 5 | true | false | false |
-| java-assured-workloads | 0 | 12 | false | false | false |
+| java-assured-workloads | 0 | 2 | true | false | false |
 | java-automl | 0 | 1 | true | false | false |
-| java-bare-metal-solution | 0 | 10 | false | false | false |
+| java-bare-metal-solution | 0 | 2 | true | false | false |
 | java-batch | 0 | 1 | true | false | false |
 | java-beyondcorp-appconnections | 0 | 1 | true | false | false |
 | java-beyondcorp-appconnectors | 0 | 1 | true | false | false |
@@ -27,7 +27,7 @@
 | java-beyondcorp-clientgateways | 0 | 2 | true | false | false |
 | java-bigquery-data-exchange | 0 | 0 | true | false | false |
 | java-bigqueryconnection | 0 | 3 | true | false | false |
-| java-bigquerydatapolicy | 0 | 10 | false | false | false |
+| java-bigquerydatapolicy | 0 | 11 | false | false | false |
 | java-bigquerydatatransfer | 0 | 1 | true | false | false |
 | java-bigquerymigration | 0 | 0 | true | true | true |
 | java-bigqueryreservation | 0 | 2 | true | false | false |
@@ -119,6 +119,7 @@
 | java-service-management | 0 | 2 | true | false | false |
 | java-service-usage | 0 | 3 | true | false | false |
 | java-servicedirectory | 0 | 3 | true | false | false |
+| java-shared-dependencies | 0 | 12 | true | false | false |
 | java-shell | 0 | 1 | true | false | false |
 | java-speech | 0 | 2 | true | false | false |
 | java-storage-transfer | 0 | 2 | true | false | false |
