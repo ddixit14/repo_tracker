@@ -257,131 +257,131 @@
 | nodejs-bare-metal-solution | 0 | 0 | true | false | true |
 | nodejs-video-stitcher | 0 | 0 | true | false | true |
 # python
-| Repository | Open Issues | Open Pull Requests |
-|------------|-------------|--------------------|
-| python-access-approval | 0 | 0 |
-| python-access-context-manager | 2 | 0 |
-| python-analytics-admin | 3 | 1 |
-| python-analytics-data | 12 | 0 |
-| python-api-gateway | 0 | 0 |
-| python-apigee-connect | 0 | 1 |
-| python-apigee-registry | 0 | 0 |
-| python-api-keys | 0 | 0 |
-| python-appengine-admin | 0 | 0 |
-| python-area120-tables | 0 | 1 |
-| python-artifact-registry | 0 | 0 |
-| python-asset | 0 | 1 |
-| python-assured-workloads | 0 | 1 |
-| python-bare-metal-solution | 0 | 0 |
-| python-batch | 1 | 0 |
-| python-beyondcorp-appconnections | 0 | 0 |
-| python-beyondcorp-appconnectors | 0 | 0 |
-| python-beyondcorp-appgateways | 0 | 0 |
-| python-beyondcorp-clientconnectorservices | 0 | 0 |
-| python-beyondcorp-clientgateways | 0 | 0 |
-| python-bigquery-analyticshub | 0 | 0 |
-| python-bigquery-connection | 0 | 0 |
-| python-bigquery-data-exchange | 0 | 0 |
-| python-bigquery-datapolicies | 0 | 0 |
-| python-bigquery-datatransfer | 2 | 0 |
-| python-bigquery-migration | 1 | 1 |
-| python-bigquery-reservation | 0 | 1 |
-| python-billing | 0 | 0 |
-| python-billingbudgets | 0 | 0 |
-| python-binary-authorization | 0 | 0 |
-| python-certificate-manager | 0 | 0 |
-| python-channel | 0 | 0 |
-| python-cloudbuild | 0 | 0 |
-| python-compute | 1 | 0 |
-| python-contact-center-insights | 0 | 0 |
-| python-container | 0 | 0 |
-| python-containeranalysis | 0 | 0 |
-| python-datacatalog | 0 | 0 |
-| python-dataflow-client | 0 | 0 |
-| python-dataform | 0 | 0 |
-| python-data-fusion | 0 | 0 |
-| python-datalabeling | 0 | 0 |
-| python-dataplex | 0 | 0 |
-| python-dataproc | 1 | 1 |
-| python-dataproc-metastore | 0 | 0 |
-| python-data-qna | 0 | 0 |
-| python-datastream | 0 | 0 |
-| python-debugger-client | 0 | 1 |
-| python-deploy | 0 | 0 |
-| python-dialogflow | 0 | 0 |
-| python-dialogflow-cx | 0 | 1 |
-| python-dlp | 0 | 0 |
-| python-dms | 0 | 0 |
-| python-documentai | 0 | 0 |
-| python-domains | 1 | 2 |
-| python-edgecontainer | 0 | 0 |
-| python-essential-contacts | 0 | 0 |
-| python-eventarc | 0 | 0 |
-| python-eventarc-publishing | 0 | 0 |
-| python-filestore | 0 | 0 |
-| python-functions | 0 | 0 |
-| python-game-servers | 0 | 0 |
-| python-gke-backup | 0 | 0 |
-| python-gke-connect-gateway | 0 | 0 |
-| python-gke-hub | 1 | 0 |
-| python-gke-multicloud | 0 | 0 |
-| python-grpc-google-iam-v1 | 2 | 1 |
-| python-gsuiteaddons | 0 | 0 |
-| python-iam | 3 | 0 |
-| python-iap | 1 | 2 |
-| python-ids | 0 | 0 |
-| python-iot | 0 | 1 |
-| python-kms | 0 | 0 |
-| python-language | 1 | 0 |
-| python-life-sciences | 0 | 0 |
-| python-managed-identities | 0 | 0 |
-| python-media-translation | 0 | 0 |
-| python-memcache | 0 | 0 |
-| python-monitoring-dashboards | 2 | 0 |
-| python-monitoring-metrics-scopes | 0 | 0 |
-| python-network-connectivity | 0 | 0 |
-| python-network-management | 0 | 0 |
-| python-network-security | 0 | 0 |
-| python-network-services | 0 | 0 |
-| python-notebooks | 0 | 0 |
-| python-optimization | 0 | 0 |
-| python-orchestration-airflow | 0 | 0 |
-| python-org-policy | 1 | 0 |
-| python-os-config | 0 | 0 |
-| python-oslogin | 0 | 2 |
-| python-phishingprotection | 0 | 0 |
-| python-policy-troubleshooter | 0 | 0 |
-| python-private-catalog | 0 | 0 |
-| python-recaptcha-enterprise | 0 | 0 |
-| python-recommendations-ai | 0 | 0 |
-| python-recommender | 0 | 0 |
-| python-redis | 0 | 0 |
-| python-resource-manager | 0 | 0 |
-| python-resource-settings | 0 | 0 |
-| python-retail | 0 | 0 |
-| python-run | 2 | 0 |
-| python-scheduler | 0 | 0 |
-| python-secret-manager | 0 | 0 |
-| python-securitycenter | 0 | 0 |
-| python-security-private-ca | 0 | 0 |
-| python-security-public-ca | 0 | 0 |
-| python-service-control | 0 | 0 |
-| python-service-directory | 0 | 0 |
-| python-service-management | 1 | 1 |
-| python-service-usage | 0 | 0 |
-| python-shell | 0 | 0 |
-| python-storage-transfer | 0 | 0 |
-| python-talent | 0 | 0 |
-| python-tasks | 0 | 0 |
-| python-texttospeech | 2 | 1 |
-| python-tpu | 0 | 0 |
-| python-trace | 0 | 0 |
-| python-videointelligence | 2 | 0 |
-| python-video-live-stream | 0 | 0 |
-| python-video-stitcher | 0 | 0 |
-| python-video-transcoder | 0 | 0 |
-| python-vm-migration | 0 | 0 |
-| python-vpc-access | 0 | 0 |
-| python-webrisk | 0 | 0 |
-| python-websecurityscanner | 0 | 0 |
-| python-workflows | 0 | 0 |
+| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
+|------------|-------------|--------------------|--------------------|--------------------|--------------------|
+| python-access-approval | 0 | 0 | true | false | true |
+| python-access-context-manager | 2 | 0 | false | false | false |
+| python-analytics-admin | 3 | 1 | false | false | false |
+| python-analytics-data | 12 | 0 | false | false | false |
+| python-api-gateway | 0 | 0 | true | false | true |
+| python-apigee-connect | 0 | 0 | true | false | true |
+| python-apigee-registry | 0 | 0 | true | false | true |
+| python-api-keys | 0 | 0 | true | false | true |
+| python-appengine-admin | 0 | 0 | false | false | false |
+| python-area120-tables | 0 | 0 | true | false | true |
+| python-artifact-registry | 0 | 0 | true | false | true |
+| python-asset | 0 | 1 | false | false | false |
+| python-assured-workloads | 0 | 1 | false | false | false |
+| python-bare-metal-solution | 0 | 0 | true | false | true |
+| python-batch | 1 | 0 | false | false | false |
+| python-beyondcorp-appconnections | 0 | 0 | true | false | true |
+| python-beyondcorp-appconnectors | 0 | 0 | true | false | true |
+| python-beyondcorp-appgateways | 0 | 0 | true | false | true |
+| python-beyondcorp-clientconnectorservices | 0 | 0 | true | false | true |
+| python-beyondcorp-clientgateways | 0 | 0 | true | false | true |
+| python-bigquery-analyticshub | 0 | 0 | true | false | true |
+| python-bigquery-connection | 0 | 0 | false | false | false |
+| python-bigquery-data-exchange | 0 | 0 | true | false | true |
+| python-bigquery-datapolicies | 0 | 0 | true | false | true |
+| python-bigquery-datatransfer | 2 | 0 | false | false | false |
+| python-bigquery-migration | 1 | 1 | false | false | false |
+| python-bigquery-reservation | 0 | 1 | false | false | false |
+| python-billing | 0 | 0 | true | false | true |
+| python-billingbudgets | 0 | 0 | true | false | true |
+| python-binary-authorization | 0 | 0 | false | false | false |
+| python-certificate-manager | 0 | 0 | true | false | true |
+| python-channel | 0 | 0 | true | false | true |
+| python-cloudbuild | 0 | 0 | false | false | false |
+| python-compute | 1 | 0 | false | false | false |
+| python-contact-center-insights | 0 | 0 | true | false | true |
+| python-container | 0 | 1 | false | false | false |
+| python-containeranalysis | 0 | 0 | false | false | false |
+| python-datacatalog | 0 | 0 | true | false | true |
+| python-dataflow-client | 0 | 0 | false | false | false |
+| python-dataform | 0 | 0 | true | false | true |
+| python-data-fusion | 0 | 0 | true | false | true |
+| python-datalabeling | 0 | 0 | true | false | true |
+| python-dataplex | 0 | 0 | true | false | true |
+| python-dataproc | 1 | 1 | false | false | false |
+| python-dataproc-metastore | 0 | 0 | true | false | true |
+| python-data-qna | 0 | 0 | true | false | true |
+| python-datastream | 0 | 0 | true | false | true |
+| python-debugger-client | 0 | 1 | false | false | false |
+| python-deploy | 0 | 0 | true | false | true |
+| python-dialogflow | 0 | 0 | false | false | false |
+| python-dialogflow-cx | 0 | 1 | false | false | false |
+| python-dlp | 0 | 0 | false | false | false |
+| python-dms | 0 | 0 | true | false | true |
+| python-documentai | 0 | 0 | true | false | true |
+| python-domains | 0 | 0 | true | false | true |
+| python-edgecontainer | 0 | 0 | true | false | true |
+| python-essential-contacts | 0 | 0 | true | false | true |
+| python-eventarc | 0 | 0 | true | false | true |
+| python-eventarc-publishing | 0 | 0 | true | false | true |
+| python-filestore | 0 | 0 | false | false | false |
+| python-functions | 0 | 0 | true | false | true |
+| python-game-servers | 0 | 0 | false | false | false |
+| python-gke-backup | 0 | 0 | false | false | false |
+| python-gke-connect-gateway | 0 | 0 | true | false | false |
+| python-gke-hub | 1 | 0 | false | false | false |
+| python-gke-multicloud | 0 | 0 | false | false | false |
+| python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
+| python-gsuiteaddons | 0 | 0 | false | false | false |
+| python-iam | 3 | 0 | false | false | false |
+| python-iap | 1 | 0 | true | false | true |
+| python-ids | 0 | 0 | true | false | true |
+| python-iot | 0 | 1 | false | false | false |
+| python-kms | 0 | 0 | false | false | false |
+| python-language | 1 | 0 | false | false | false |
+| python-life-sciences | 0 | 0 | false | false | false |
+| python-managed-identities | 0 | 0 | false | false | false |
+| python-media-translation | 0 | 0 | true | false | true |
+| python-memcache | 0 | 0 | true | false | true |
+| python-monitoring-dashboards | 2 | 0 | false | false | false |
+| python-monitoring-metrics-scopes | 0 | 0 | true | false | true |
+| python-network-connectivity | 0 | 0 | true | false | true |
+| python-network-management | 0 | 0 | true | false | true |
+| python-network-security | 0 | 0 | true | false | true |
+| python-network-services | 0 | 0 | false | false | false |
+| python-notebooks | 0 | 0 | true | false | true |
+| python-optimization | 0 | 0 | false | false | false |
+| python-orchestration-airflow | 0 | 0 | true | false | true |
+| python-org-policy | 1 | 0 | false | false | false |
+| python-os-config | 0 | 0 | false | false | false |
+| python-oslogin | 0 | 2 | false | false | false |
+| python-phishingprotection | 0 | 0 | true | false | true |
+| python-policy-troubleshooter | 0 | 0 | true | false | true |
+| python-private-catalog | 0 | 0 | true | false | true |
+| python-recaptcha-enterprise | 0 | 0 | true | false | true |
+| python-recommendations-ai | 0 | 0 | true | false | true |
+| python-recommender | 0 | 0 | true | false | true |
+| python-redis | 0 | 0 | true | false | true |
+| python-resource-manager | 0 | 0 | true | false | true |
+| python-resource-settings | 0 | 0 | true | false | true |
+| python-retail | 0 | 0 | false | false | false |
+| python-run | 2 | 0 | false | false | false |
+| python-scheduler | 0 | 0 | false | false | false |
+| python-secret-manager | 0 | 0 | true | false | true |
+| python-securitycenter | 0 | 0 | true | false | true |
+| python-security-private-ca | 0 | 0 | true | false | true |
+| python-security-public-ca | 0 | 0 | true | false | true |
+| python-service-control | 0 | 0 | true | false | true |
+| python-service-directory | 0 | 0 | true | false | true |
+| python-service-management | 1 | 1 | false | false | false |
+| python-service-usage | 0 | 0 | true | false | true |
+| python-shell | 0 | 0 | true | false | true |
+| python-storage-transfer | 0 | 0 | false | false | true |
+| python-talent | 0 | 0 | true | false | true |
+| python-tasks | 0 | 0 | false | false | false |
+| python-texttospeech | 2 | 1 | false | false | false |
+| python-tpu | 0 | 0 | true | false | true |
+| python-trace | 0 | 0 | false | false | false |
+| python-videointelligence | 2 | 0 | false | false | false |
+| python-video-live-stream | 0 | 0 | false | false | false |
+| python-video-stitcher | 0 | 0 | false | false | false |
+| python-video-transcoder | 0 | 0 | false | false | false |
+| python-vm-migration | 0 | 0 | true | false | true |
+| python-vpc-access | 0 | 0 | true | false | true |
+| python-webrisk | 0 | 0 | true | false | true |
+| python-websecurityscanner | 0 | 0 | true | false | true |
+| python-workflows | 0 | 0 | false | false | false |
