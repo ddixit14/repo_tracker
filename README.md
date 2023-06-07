@@ -27,7 +27,7 @@
 | java-beyondcorp-clientgateways | 0 | 2 | true | false | false |
 | java-bigquery-data-exchange | 0 | 0 | true | false | false |
 | java-bigqueryconnection | 0 | 3 | true | false | false |
-| java-bigquerydatapolicy | 0 | 11 | false | false | false |
+| java-bigquerydatapolicy | 0 | 10 | true | false | false |
 | java-bigquerydatatransfer | 0 | 1 | true | false | false |
 | java-bigquerymigration | 0 | 0 | true | true | true |
 | java-bigqueryreservation | 0 | 2 | true | false | false |
@@ -41,7 +41,7 @@
 | java-compute | 0 | 3 | true | false | false |
 | java-common-protos | 0 | 4 | true | false | false |
 | java-contact-center-insights | 0 | 1 | true | false | false |
-| java-container | 0 | 15 | false | false | false |
+| java-container | 0 | 5 | true | false | false |
 | java-containeranalysis | 0 | 1 | true | false | false |
 | java-data-fusion | 0 | 1 | true | false | false |
 | java-datacatalog | 0 | 3 | true | false | false |
@@ -59,7 +59,7 @@
 | java-distributedcloudedge | 0 | 3 | true | false | false |
 | java-dlp | 0 | 1 | true | false | false |
 | java-dms | 0 | 1 | true | false | false |
-| java-dns | 0 | 1 | false | false | false |
+| java-dns | 0 | 1 | true | false | false |
 | java-document-ai | 0 | 1 | true | false | false |
 | java-domains | 0 | 2 | true | false | false |
 | java-errorreporting | 0 | 2 | true | false | false |
@@ -73,10 +73,10 @@
 | java-gke-connect-gateway | 0 | 1 | true | false | false |
 | java-gke-multi-cloud | 0 | 1 | true | false | false |
 | java-gkehub | 0 | 1 | true | false | false |
-| java-grafeas | 0 | 2 | false | false | false |
+| java-grafeas | 0 | 2 | true | false | false |
 | java-gsuite-addons | 0 | 0 | true | false | false |
 | java-iam-admin | 0 | 0 | true | false | false |
-| java-iam | 0 | 5 | false | false | false |
+| java-iam | 0 | 5 | true | false | false |
 | java-iamcredentials | 0 | 2 | true | false | false |
 | java-ids | 0 | 0 | true | false | false |
 | java-iot | 0 | 2 | true | false | false |
@@ -92,7 +92,7 @@
 | java-network-security | 0 | 2 | true | false | false |
 | java-networkconnectivity | 0 | 2 | true | false | false |
 | java-notebooks | 0 | 2 | true | false | false |
-| java-notification | 0 | 10 | false | false | false |
+| java-notification | 0 | 10 | true | false | false |
 | java-optimization | 0 | 2 | true | false | false |
 | java-orchestration-airflow | 0 | 3 | true | false | false |
 | java-orgpolicy | 0 | 3 | true | false | false |
@@ -101,7 +101,7 @@
 | java-phishingprotection | 0 | 2 | true | false | false |
 | java-policy-troubleshooter | 0 | 2 | true | false | false |
 | java-private-catalog | 0 | 2 | true | false | false |
-| java-profiler | 0 | 10 | false | false | false |
+| java-profiler | 0 | 2 | true | false | false |
 | java-recaptchaenterprise | 0 | 3 | true | false | false |
 | java-recommendations-ai | 0 | 2 | true | false | false |
 | java-recommender | 0 | 3 | true | false | false |
@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |
 | nodejs-speech | 0 | 0 | true | false | true |
 | nodejs-redis | 0 | 0 | true | false | true |
-| nodejs-pubsub | 31 | 2 | false | false | false |
+| nodejs-pubsub | 31 | 1 | false | false | false |
 | nodejs-os-login | 0 | 0 | true | false | true |
 | nodejs-monitoring | 0 | 0 | true | false | true |
 | nodejs-language | 0 | 0 | true | false | true |
@@ -294,7 +294,7 @@
 | python-cloudbuild | 0 | 0 | false | false | false |
 | python-compute | 1 | 0 | false | false | false |
 | python-contact-center-insights | 0 | 0 | true | false | true |
-| python-container | 0 | 1 | false | false | false |
+| python-container | 0 | 0 | false | false | false |
 | python-containeranalysis | 0 | 0 | false | false | false |
 | python-datacatalog | 0 | 0 | true | false | true |
 | python-dataflow-client | 0 | 0 | false | false | false |
@@ -324,7 +324,7 @@
 | python-gke-backup | 0 | 0 | false | false | false |
 | python-gke-connect-gateway | 0 | 0 | true | false | false |
 | python-gke-hub | 1 | 0 | false | false | false |
-| python-gke-multicloud | 0 | 0 | false | false | false |
+| python-gke-multicloud | 0 | 1 | false | false | false |
 | python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
 | python-gsuiteaddons | 0 | 0 | false | false | false |
 | python-iam | 3 | 0 | false | false | false |
@@ -333,8 +333,8 @@
 | python-iot | 0 | 1 | false | false | false |
 | python-kms | 0 | 0 | false | false | false |
 | python-language | 1 | 0 | false | false | false |
-| python-life-sciences | 0 | 0 | false | false | false |
-| python-managed-identities | 0 | 0 | false | false | false |
+| python-life-sciences | 0 | 1 | false | false | false |
+| python-managed-identities | 0 | 1 | false | false | false |
 | python-media-translation | 0 | 0 | true | false | true |
 | python-memcache | 0 | 0 | true | false | true |
 | python-monitoring-dashboards | 2 | 0 | false | false | false |
@@ -370,7 +370,7 @@
 | python-service-management | 1 | 1 | false | false | false |
 | python-service-usage | 0 | 0 | true | false | true |
 | python-shell | 0 | 0 | true | false | true |
-| python-storage-transfer | 0 | 0 | false | false | true |
+| python-storage-transfer | 0 | 0 | false | false | false |
 | python-talent | 0 | 0 | true | false | true |
 | python-tasks | 0 | 0 | false | false | false |
 | python-texttospeech | 2 | 1 | false | false | false |
