@@ -36,7 +36,7 @@
 | python-cloudbuild | 0 | 0 | false | false | false |
 | python-compute | 1 | 0 | false | false | false |
 | python-contact-center-insights | 0 | 0 | true | false | true |
-| python-container | 0 | 1 | false | false | false |
+| python-container | 0 | 0 | false | false | false |
 | python-containeranalysis | 0 | 0 | false | false | false |
 | python-datacatalog | 0 | 0 | true | false | true |
 | python-dataflow-client | 0 | 0 | false | false | false |
@@ -66,7 +66,7 @@
 | python-gke-backup | 0 | 0 | false | false | false |
 | python-gke-connect-gateway | 0 | 0 | true | false | false |
 | python-gke-hub | 1 | 0 | false | false | false |
-| python-gke-multicloud | 0 | 0 | false | false | false |
+| python-gke-multicloud | 0 | 1 | false | false | false |
 | python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
 | python-gsuiteaddons | 0 | 0 | false | false | false |
 | python-iam | 3 | 0 | false | false | false |
@@ -75,8 +75,8 @@
 | python-iot | 0 | 1 | false | false | false |
 | python-kms | 0 | 0 | false | false | false |
 | python-language | 1 | 0 | false | false | false |
-| python-life-sciences | 0 | 0 | false | false | false |
-| python-managed-identities | 0 | 0 | false | false | false |
+| python-life-sciences | 0 | 1 | false | false | false |
+| python-managed-identities | 0 | 1 | false | false | false |
 | python-media-translation | 0 | 0 | true | false | true |
 | python-memcache | 0 | 0 | true | false | true |
 | python-monitoring-dashboards | 2 | 0 | false | false | false |
@@ -112,7 +112,7 @@
 | python-service-management | 1 | 1 | false | false | false |
 | python-service-usage | 0 | 0 | true | false | true |
 | python-shell | 0 | 0 | true | false | true |
-| python-storage-transfer | 0 | 0 | false | false | true |
+| python-storage-transfer | 0 | 0 | false | false | false |
 | python-talent | 0 | 0 | true | false | true |
 | python-tasks | 0 | 0 | false | false | false |
 | python-texttospeech | 2 | 1 | false | false | false |
