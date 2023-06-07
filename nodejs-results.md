@@ -8,7 +8,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |
 | nodejs-speech | 0 | 0 | true | false | true |
 | nodejs-redis | 0 | 0 | true | false | true |
-| nodejs-pubsub | 31 | 2 | false | false | false |
+| nodejs-pubsub | 31 | 1 | false | false | false |
 | nodejs-os-login | 0 | 0 | true | false | true |
 | nodejs-monitoring | 0 | 0 | true | false | true |
 | nodejs-language | 0 | 0 | true | false | true |
