@@ -1,8 +1,8 @@
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 2 | true | false | false |
-| gax-java | 0 | 6 | true | false | false |
+| api-common-java | 0 | 1 | true | false | false |
+| gax-java | 0 | 5 | true | false | false |
 | java-accessapproval | 0 | 1 | true | true | false |
 | java-accesscontextmanager | 0 | 2 | true | false | false |
 | java-aiplatform | 0 | 1 | true | false | false |
@@ -15,7 +15,7 @@
 | java-appengine-admin | 0 | 2 | true | false | false |
 | java-area120-tables | 0 | 0 | true | false | false |
 | java-artifact-registry | 0 | 1 | true | false | false |
-| java-asset | 0 | 5 | true | false | false |
+| java-asset | 0 | 6 | true | false | false |
 | java-assured-workloads | 0 | 2 | true | false | false |
 | java-automl | 0 | 1 | true | false | false |
 | java-bare-metal-solution | 0 | 2 | true | false | false |
