@@ -15,7 +15,7 @@
 | python-asset | 0 | 1 | false | false | false |
 | python-assured-workloads | 0 | 1 | false | false | false |
 | python-bare-metal-solution | 0 | 0 | true | false | true |
-| python-batch | 1 | 0 | false | false | false |
+| python-batch | 0 | 0 | false | false | false |
 | python-beyondcorp-appconnections | 0 | 0 | true | false | true |
 | python-beyondcorp-appconnectors | 0 | 0 | true | false | true |
 | python-beyondcorp-appgateways | 0 | 0 | true | false | true |
@@ -64,7 +64,7 @@
 | python-functions | 0 | 0 | true | false | true |
 | python-game-servers | 0 | 0 | false | false | false |
 | python-gke-backup | 0 | 0 | false | false | false |
-| python-gke-connect-gateway | 0 | 0 | true | false | false |
+| python-gke-connect-gateway | 1 | 2 | true | false | false |
 | python-gke-hub | 1 | 0 | false | false | false |
 | python-gke-multicloud | 0 | 1 | false | false | false |
 | python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
@@ -74,7 +74,7 @@
 | python-ids | 0 | 0 | true | false | true |
 | python-iot | 0 | 1 | false | false | false |
 | python-kms | 0 | 0 | false | false | false |
-| python-language | 1 | 0 | false | false | false |
+| python-language | 0 | 0 | false | false | false |
 | python-life-sciences | 0 | 1 | false | false | false |
 | python-managed-identities | 0 | 1 | false | false | false |
 | python-media-translation | 0 | 0 | true | false | true |
