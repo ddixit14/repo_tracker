@@ -1,8 +1,8 @@
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 2 | true | false | false |
-| gax-java | 0 | 6 | true | false | false |
+| api-common-java | 0 | 1 | true | false | false |
+| gax-java | 0 | 5 | true | false | false |
 | java-accessapproval | 0 | 1 | true | true | false |
 | java-accesscontextmanager | 0 | 2 | true | false | false |
 | java-aiplatform | 0 | 1 | true | false | false |
@@ -15,7 +15,7 @@
 | java-appengine-admin | 0 | 2 | true | false | false |
 | java-area120-tables | 0 | 0 | true | false | false |
 | java-artifact-registry | 0 | 1 | true | false | false |
-| java-asset | 0 | 5 | true | false | false |
+| java-asset | 0 | 6 | true | false | false |
 | java-assured-workloads | 0 | 2 | true | false | false |
 | java-automl | 0 | 1 | true | false | false |
 | java-bare-metal-solution | 0 | 2 | true | false | false |
@@ -273,7 +273,7 @@
 | python-asset | 0 | 1 | false | false | false |
 | python-assured-workloads | 0 | 1 | false | false | false |
 | python-bare-metal-solution | 0 | 0 | true | false | true |
-| python-batch | 1 | 0 | false | false | false |
+| python-batch | 0 | 0 | false | false | false |
 | python-beyondcorp-appconnections | 0 | 0 | true | false | true |
 | python-beyondcorp-appconnectors | 0 | 0 | true | false | true |
 | python-beyondcorp-appgateways | 0 | 0 | true | false | true |
@@ -322,7 +322,7 @@
 | python-functions | 0 | 0 | true | false | true |
 | python-game-servers | 0 | 0 | false | false | false |
 | python-gke-backup | 0 | 0 | false | false | false |
-| python-gke-connect-gateway | 0 | 0 | true | false | false |
+| python-gke-connect-gateway | 1 | 2 | true | false | false |
 | python-gke-hub | 1 | 0 | false | false | false |
 | python-gke-multicloud | 0 | 1 | false | false | false |
 | python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
@@ -332,7 +332,7 @@
 | python-ids | 0 | 0 | true | false | true |
 | python-iot | 0 | 1 | false | false | false |
 | python-kms | 0 | 0 | false | false | false |
-| python-language | 1 | 0 | false | false | false |
+| python-language | 0 | 0 | false | false | false |
 | python-life-sciences | 0 | 1 | false | false | false |
 | python-managed-identities | 0 | 1 | false | false | false |
 | python-media-translation | 0 | 0 | true | false | true |
