@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |
 | nodejs-speech | 0 | 0 | true | false | true |
 | nodejs-redis | 0 | 0 | true | false | true |
-| nodejs-pubsub | 31 | 1 | false | false | false |
+| nodejs-pubsub | 30 | 1 | false | false | false |
 | nodejs-os-login | 0 | 0 | true | false | true |
 | nodejs-monitoring | 0 | 0 | true | false | true |
 | nodejs-language | 0 | 0 | true | false | true |
@@ -324,7 +324,7 @@
 | python-gke-backup | 0 | 0 | false | false | false |
 | python-gke-connect-gateway | 1 | 2 | true | false | false |
 | python-gke-hub | 1 | 0 | false | false | false |
-| python-gke-multicloud | 0 | 1 | false | false | false |
+| python-gke-multicloud | 0 | 0 | true | false | true |
 | python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
 | python-gsuiteaddons | 0 | 0 | false | false | false |
 | python-iam | 3 | 0 | false | false | false |
@@ -333,8 +333,8 @@
 | python-iot | 0 | 1 | false | false | false |
 | python-kms | 0 | 0 | false | false | false |
 | python-language | 0 | 0 | false | false | false |
-| python-life-sciences | 0 | 1 | false | false | false |
-| python-managed-identities | 0 | 1 | false | false | false |
+| python-life-sciences | 0 | 0 | true | false | true |
+| python-managed-identities | 0 | 0 | true | false | true |
 | python-media-translation | 0 | 0 | true | false | true |
 | python-memcache | 0 | 0 | true | false | true |
 | python-monitoring-dashboards | 2 | 0 | false | false | false |
