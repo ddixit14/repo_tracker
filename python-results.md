@@ -34,7 +34,7 @@
 | python-certificate-manager | 0 | 0 | true | false | true |
 | python-channel | 0 | 0 | true | false | true |
 | python-cloudbuild | 0 | 0 | false | false | false |
-| python-compute | 1 | 0 | false | false | false |
+| python-compute | 2 | 0 | false | false | false |
 | python-contact-center-insights | 0 | 0 | true | false | true |
 | python-container | 0 | 0 | false | false | false |
 | python-containeranalysis | 0 | 0 | false | false | false |
