@@ -4,7 +4,7 @@
 | python-access-approval | 0 | 0 | true | false | true |
 | python-access-context-manager | 2 | 0 | false | false | false |
 | python-analytics-admin | 3 | 1 | false | false | false |
-| python-analytics-data | 12 | 0 | false | false | false |
+| python-analytics-data | 12 | 1 | false | false | false |
 | python-api-gateway | 0 | 0 | true | false | true |
 | python-apigee-connect | 0 | 0 | true | false | true |
 | python-apigee-registry | 0 | 0 | true | false | true |
@@ -22,11 +22,11 @@
 | python-beyondcorp-clientconnectorservices | 0 | 0 | true | false | true |
 | python-beyondcorp-clientgateways | 0 | 0 | true | false | true |
 | python-bigquery-analyticshub | 0 | 0 | true | false | true |
-| python-bigquery-connection | 0 | 0 | false | false | false |
+| python-bigquery-connection | 0 | 1 | false | false | false |
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
 | python-bigquery-datatransfer | 2 | 0 | false | false | false |
-| python-bigquery-migration | 1 | 1 | false | false | false |
+| python-bigquery-migration | 1 | 2 | false | false | false |
 | python-bigquery-reservation | 0 | 1 | false | false | false |
 | python-billing | 0 | 0 | true | false | true |
 | python-billingbudgets | 0 | 0 | true | false | true |
@@ -100,7 +100,7 @@
 | python-redis | 0 | 0 | true | false | true |
 | python-resource-manager | 0 | 0 | true | false | true |
 | python-resource-settings | 0 | 0 | true | false | true |
-| python-retail | 0 | 0 | false | false | false |
+| python-retail | 0 | 1 | false | false | false |
 | python-run | 2 | 0 | false | false | false |
 | python-scheduler | 0 | 0 | false | false | false |
 | python-secret-manager | 0 | 0 | true | false | true |
@@ -118,10 +118,10 @@
 | python-texttospeech | 2 | 1 | false | false | false |
 | python-tpu | 0 | 0 | true | false | true |
 | python-trace | 0 | 0 | false | false | false |
-| python-videointelligence | 2 | 0 | false | false | false |
-| python-video-live-stream | 0 | 0 | false | false | false |
-| python-video-stitcher | 0 | 0 | false | false | false |
-| python-video-transcoder | 0 | 0 | false | false | false |
+| python-videointelligence | 2 | 1 | false | false | false |
+| python-video-live-stream | 0 | 1 | false | false | false |
+| python-video-stitcher | 0 | 1 | false | false | false |
+| python-video-transcoder | 0 | 1 | false | false | false |
 | python-vm-migration | 0 | 0 | true | false | true |
 | python-vpc-access | 0 | 0 | true | false | true |
 | python-webrisk | 0 | 0 | true | false | true |
