@@ -22,7 +22,7 @@
 | python-beyondcorp-clientconnectorservices | 0 | 0 | true | false | true |
 | python-beyondcorp-clientgateways | 0 | 0 | true | false | true |
 | python-bigquery-analyticshub | 0 | 0 | true | false | true |
-| python-bigquery-connection | 0 | 1 | false | false | false |
+| python-bigquery-connection | 0 | 0 | false | false | false |
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
 | python-bigquery-datatransfer | 2 | 0 | false | false | false |
@@ -36,7 +36,7 @@
 | python-cloudbuild | 0 | 0 | false | false | false |
 | python-compute | 2 | 0 | false | false | false |
 | python-contact-center-insights | 0 | 0 | true | false | true |
-| python-container | 0 | 0 | false | false | false |
+| python-container | 0 | 1 | false | false | false |
 | python-containeranalysis | 0 | 0 | false | false | false |
 | python-datacatalog | 0 | 0 | true | false | true |
 | python-dataflow-client | 0 | 0 | false | false | false |
@@ -51,7 +51,7 @@
 | python-debugger-client | 0 | 1 | false | false | false |
 | python-deploy | 0 | 0 | true | false | true |
 | python-dialogflow | 0 | 0 | false | false | false |
-| python-dialogflow-cx | 0 | 1 | false | false | false |
+| python-dialogflow-cx | 0 | 2 | false | false | false |
 | python-dlp | 0 | 0 | false | false | false |
 | python-dms | 0 | 0 | true | false | true |
 | python-documentai | 0 | 0 | true | false | true |
@@ -63,9 +63,9 @@
 | python-filestore | 0 | 0 | false | false | false |
 | python-functions | 0 | 0 | true | false | true |
 | python-game-servers | 0 | 0 | false | false | false |
-| python-gke-backup | 0 | 0 | false | false | false |
+| python-gke-backup | 0 | 1 | false | false | false |
 | python-gke-connect-gateway | 1 | 2 | true | false | false |
-| python-gke-hub | 1 | 0 | false | false | false |
+| python-gke-hub | 0 | 0 | false | false | false |
 | python-gke-multicloud | 0 | 0 | true | false | true |
 | python-grpc-google-iam-v1 | 2 | 1 | false | false | false |
 | python-gsuiteaddons | 0 | 0 | false | false | false |
@@ -100,7 +100,7 @@
 | python-redis | 0 | 0 | true | false | true |
 | python-resource-manager | 0 | 0 | true | false | true |
 | python-resource-settings | 0 | 0 | true | false | true |
-| python-retail | 0 | 1 | false | false | false |
+| python-retail | 0 | 0 | false | false | false |
 | python-run | 2 | 0 | false | false | false |
 | python-scheduler | 0 | 0 | false | false | false |
 | python-secret-manager | 0 | 0 | true | false | true |
@@ -119,9 +119,9 @@
 | python-tpu | 0 | 0 | true | false | true |
 | python-trace | 0 | 0 | false | false | false |
 | python-videointelligence | 2 | 1 | false | false | false |
-| python-video-live-stream | 0 | 1 | false | false | false |
+| python-video-live-stream | 0 | 0 | false | false | false |
 | python-video-stitcher | 0 | 1 | false | false | false |
-| python-video-transcoder | 0 | 1 | false | false | false |
+| python-video-transcoder | 0 | 0 | false | false | false |
 | python-vm-migration | 0 | 0 | true | false | true |
 | python-vpc-access | 0 | 0 | true | false | true |
 | python-webrisk | 0 | 0 | true | false | true |
