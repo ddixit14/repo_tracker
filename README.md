@@ -261,8 +261,8 @@
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|
 | python-access-approval | 0 | 0 | true | false | true |
 | python-access-context-manager | 2 | 0 | false | false | false |
-| python-analytics-admin | 3 | 1 | false | false | false |
-| python-analytics-data | 12 | 1 | false | false | false |
+| python-analytics-admin | 3 | 0 | false | false | false |
+| python-analytics-data | 12 | 0 | false | false | false |
 | python-api-gateway | 0 | 0 | true | false | true |
 | python-apigee-connect | 0 | 0 | true | false | true |
 | python-apigee-registry | 0 | 0 | true | false | true |
@@ -273,7 +273,7 @@
 | python-asset | 0 | 1 | false | false | false |
 | python-assured-workloads | 0 | 1 | false | false | false |
 | python-bare-metal-solution | 0 | 0 | true | false | true |
-| python-batch | 0 | 0 | false | false | false |
+| python-batch | 0 | 1 | false | false | false |
 | python-beyondcorp-appconnections | 0 | 0 | true | false | true |
 | python-beyondcorp-appconnectors | 0 | 0 | true | false | true |
 | python-beyondcorp-appgateways | 0 | 0 | true | false | true |
@@ -284,7 +284,7 @@
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
 | python-bigquery-datatransfer | 2 | 0 | false | false | false |
-| python-bigquery-migration | 1 | 2 | false | false | false |
+| python-bigquery-migration | 1 | 1 | false | false | false |
 | python-bigquery-reservation | 0 | 1 | false | false | false |
 | python-billing | 0 | 0 | true | false | true |
 | python-billingbudgets | 0 | 0 | true | false | true |
@@ -294,7 +294,7 @@
 | python-cloudbuild | 0 | 0 | false | false | false |
 | python-compute | 2 | 0 | false | false | false |
 | python-contact-center-insights | 0 | 0 | true | false | true |
-| python-container | 0 | 1 | false | false | false |
+| python-container | 0 | 0 | false | false | false |
 | python-containeranalysis | 0 | 0 | false | false | false |
 | python-datacatalog | 0 | 0 | true | false | true |
 | python-dataflow-client | 0 | 0 | false | false | false |
@@ -321,7 +321,7 @@
 | python-filestore | 0 | 0 | false | false | false |
 | python-functions | 0 | 0 | true | false | true |
 | python-game-servers | 0 | 0 | false | false | false |
-| python-gke-backup | 0 | 1 | false | false | false |
+| python-gke-backup | 0 | 0 | false | false | false |
 | python-gke-connect-gateway | 1 | 2 | true | false | false |
 | python-gke-hub | 0 | 0 | false | false | false |
 | python-gke-multicloud | 0 | 0 | true | false | true |
@@ -358,8 +358,8 @@
 | python-redis | 0 | 0 | true | false | true |
 | python-resource-manager | 0 | 0 | true | false | true |
 | python-resource-settings | 0 | 0 | true | false | true |
-| python-retail | 0 | 0 | false | false | false |
-| python-run | 2 | 0 | false | false | false |
+| python-retail | 0 | 1 | false | false | false |
+| python-run | 0 | 0 | false | false | false |
 | python-scheduler | 0 | 0 | false | false | false |
 | python-secret-manager | 0 | 0 | true | false | true |
 | python-securitycenter | 0 | 0 | true | false | true |
@@ -376,10 +376,10 @@
 | python-texttospeech | 2 | 1 | false | false | false |
 | python-tpu | 0 | 0 | true | false | true |
 | python-trace | 0 | 0 | false | false | false |
-| python-videointelligence | 2 | 1 | false | false | false |
+| python-videointelligence | 2 | 0 | false | false | false |
 | python-video-live-stream | 0 | 0 | false | false | false |
-| python-video-stitcher | 0 | 1 | false | false | false |
-| python-video-transcoder | 0 | 0 | false | false | false |
+| python-video-stitcher | 0 | 0 | false | false | false |
+| python-video-transcoder | 0 | 1 | false | false | false |
 | python-vm-migration | 0 | 0 | true | false | true |
 | python-vpc-access | 0 | 0 | true | false | true |
 | python-webrisk | 0 | 0 | true | false | true |
