@@ -1,8 +1,8 @@
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 1 | true | true | false |
-| gax-java | 0 | 5 | true | true | false |
+| api-common-java | 0 | 2 | true | true | false |
+| gax-java | 0 | 6 | true | true | false |
 | java-accessapproval | 0 | 1 | true | true | false |
 | java-accesscontextmanager | 0 | 2 | true | true | false |
 | java-aiplatform | 0 | 1 | true | true | false |
@@ -39,7 +39,7 @@
 | java-cloudbuild | 0 | 2 | true | true | false |
 | java-cloudcommerceconsumerprocurement | 0 | 2 | true | true | false |
 | java-compute | 0 | 3 | true | true | false |
-| java-common-protos | 0 | 4 | true | true | false |
+| java-common-protos | 0 | 5 | true | true | false |
 | java-contact-center-insights | 0 | 1 | true | true | false |
 | java-container | 0 | 4 | true | true | false |
 | java-containeranalysis | 0 | 1 | true | true | false |
@@ -119,7 +119,7 @@
 | java-service-management | 0 | 2 | true | true | false |
 | java-service-usage | 0 | 3 | true | true | false |
 | java-servicedirectory | 0 | 3 | true | true | false |
-| java-shared-dependencies | 0 | 12 | true | true | false |
+| java-shared-dependencies | 0 | 13 | true | true | false |
 | java-shell | 0 | 1 | true | true | false |
 | java-speech | 0 | 2 | true | true | false |
 | java-storage-transfer | 0 | 2 | true | true | false |
@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |
 | nodejs-speech | 0 | 0 | true | false | true |
 | nodejs-redis | 0 | 0 | true | false | true |
-| nodejs-pubsub | 30 | 1 | false | false | false |
+| nodejs-pubsub | 31 | 1 | false | false | false |
 | nodejs-os-login | 0 | 0 | true | false | true |
 | nodejs-monitoring | 0 | 0 | true | false | true |
 | nodejs-language | 0 | 0 | true | false | true |
@@ -273,7 +273,7 @@
 | python-asset | 0 | 1 | false | false | false |
 | python-assured-workloads | 0 | 1 | false | false | false |
 | python-bare-metal-solution | 0 | 0 | true | false | true |
-| python-batch | 0 | 1 | false | false | false |
+| python-batch | 0 | 0 | false | false | false |
 | python-beyondcorp-appconnections | 0 | 0 | true | false | true |
 | python-beyondcorp-appconnectors | 0 | 0 | true | false | true |
 | python-beyondcorp-appgateways | 0 | 0 | true | false | true |
@@ -284,8 +284,8 @@
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
 | python-bigquery-datatransfer | 2 | 0 | false | false | false |
-| python-bigquery-migration | 1 | 1 | false | false | false |
-| python-bigquery-reservation | 0 | 1 | false | false | false |
+| python-bigquery-migration | 1 | 2 | false | false | false |
+| python-bigquery-reservation | 0 | 2 | false | false | false |
 | python-billing | 0 | 0 | true | false | true |
 | python-billingbudgets | 0 | 0 | true | false | true |
 | python-binary-authorization | 0 | 0 | false | false | false |
@@ -358,7 +358,7 @@
 | python-redis | 0 | 0 | true | false | true |
 | python-resource-manager | 0 | 0 | true | false | true |
 | python-resource-settings | 0 | 0 | true | false | true |
-| python-retail | 0 | 1 | false | false | false |
+| python-retail | 0 | 0 | false | false | false |
 | python-run | 0 | 0 | false | false | false |
 | python-scheduler | 0 | 0 | false | false | false |
 | python-secret-manager | 0 | 0 | true | false | true |
@@ -379,7 +379,7 @@
 | python-videointelligence | 2 | 0 | false | false | false |
 | python-video-live-stream | 0 | 0 | false | false | false |
 | python-video-stitcher | 0 | 0 | false | false | false |
-| python-video-transcoder | 0 | 1 | false | false | false |
+| python-video-transcoder | 0 | 0 | false | false | false |
 | python-vm-migration | 0 | 0 | true | false | true |
 | python-vpc-access | 0 | 0 | true | false | true |
 | python-webrisk | 0 | 0 | true | false | true |
