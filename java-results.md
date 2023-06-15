@@ -1,8 +1,8 @@
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 1 | true | true | false |
-| gax-java | 0 | 5 | true | true | false |
+| api-common-java | 0 | 2 | true | true | false |
+| gax-java | 0 | 6 | true | true | false |
 | java-accessapproval | 0 | 1 | true | true | false |
 | java-accesscontextmanager | 0 | 2 | true | true | false |
 | java-aiplatform | 0 | 1 | true | true | false |
@@ -39,7 +39,7 @@
 | java-cloudbuild | 0 | 2 | true | true | false |
 | java-cloudcommerceconsumerprocurement | 0 | 2 | true | true | false |
 | java-compute | 0 | 3 | true | true | false |
-| java-common-protos | 0 | 4 | true | true | false |
+| java-common-protos | 0 | 5 | true | true | false |
 | java-contact-center-insights | 0 | 1 | true | true | false |
 | java-container | 0 | 4 | true | true | false |
 | java-containeranalysis | 0 | 1 | true | true | false |
@@ -119,7 +119,7 @@
 | java-service-management | 0 | 2 | true | true | false |
 | java-service-usage | 0 | 3 | true | true | false |
 | java-servicedirectory | 0 | 3 | true | true | false |
-| java-shared-dependencies | 0 | 12 | true | true | false |
+| java-shared-dependencies | 0 | 13 | true | true | false |
 | java-shell | 0 | 1 | true | true | false |
 | java-speech | 0 | 2 | true | true | false |
 | java-storage-transfer | 0 | 2 | true | true | false |
