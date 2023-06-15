@@ -15,7 +15,7 @@
 | python-asset | 0 | 1 | false | false | false |
 | python-assured-workloads | 0 | 1 | false | false | false |
 | python-bare-metal-solution | 0 | 0 | true | false | true |
-| python-batch | 0 | 1 | false | false | false |
+| python-batch | 0 | 0 | false | false | false |
 | python-beyondcorp-appconnections | 0 | 0 | true | false | true |
 | python-beyondcorp-appconnectors | 0 | 0 | true | false | true |
 | python-beyondcorp-appgateways | 0 | 0 | true | false | true |
@@ -26,8 +26,8 @@
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
 | python-bigquery-datatransfer | 2 | 0 | false | false | false |
-| python-bigquery-migration | 1 | 1 | false | false | false |
-| python-bigquery-reservation | 0 | 1 | false | false | false |
+| python-bigquery-migration | 1 | 2 | false | false | false |
+| python-bigquery-reservation | 0 | 2 | false | false | false |
 | python-billing | 0 | 0 | true | false | true |
 | python-billingbudgets | 0 | 0 | true | false | true |
 | python-binary-authorization | 0 | 0 | false | false | false |
@@ -100,7 +100,7 @@
 | python-redis | 0 | 0 | true | false | true |
 | python-resource-manager | 0 | 0 | true | false | true |
 | python-resource-settings | 0 | 0 | true | false | true |
-| python-retail | 0 | 1 | false | false | false |
+| python-retail | 0 | 0 | false | false | false |
 | python-run | 0 | 0 | false | false | false |
 | python-scheduler | 0 | 0 | false | false | false |
 | python-secret-manager | 0 | 0 | true | false | true |
@@ -121,7 +121,7 @@
 | python-videointelligence | 2 | 0 | false | false | false |
 | python-video-live-stream | 0 | 0 | false | false | false |
 | python-video-stitcher | 0 | 0 | false | false | false |
-| python-video-transcoder | 0 | 1 | false | false | false |
+| python-video-transcoder | 0 | 0 | false | false | false |
 | python-vm-migration | 0 | 0 | true | false | true |
 | python-vpc-access | 0 | 0 | true | false | true |
 | python-webrisk | 0 | 0 | true | false | true |
