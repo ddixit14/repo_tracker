@@ -51,7 +51,7 @@
 | python-debugger-client | 0 | 1 | false | false | false |
 | python-deploy | 0 | 0 | true | false | true |
 | python-dialogflow | 0 | 0 | false | false | false |
-| python-dialogflow-cx | 0 | 2 | false | false | false |
+| python-dialogflow-cx | 0 | 1 | false | false | false |
 | python-dlp | 0 | 0 | false | false | false |
 | python-dms | 0 | 0 | true | false | true |
 | python-documentai | 0 | 0 | true | false | true |
