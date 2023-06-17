@@ -15,7 +15,7 @@
 | java-appengine-admin | 0 | 2 | true | true | false |
 | java-area120-tables | 0 | 0 | true | true | false |
 | java-artifact-registry | 0 | 1 | true | true | false |
-| java-asset | 0 | 6 | true | true | false |
+| java-asset | 0 | 7 | true | true | false |
 | java-assured-workloads | 0 | 2 | true | true | false |
 | java-automl | 0 | 1 | true | true | false |
 | java-bare-metal-solution | 0 | 2 | true | true | false |
@@ -283,7 +283,7 @@
 | python-bigquery-connection | 0 | 0 | false | false | false |
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
-| python-bigquery-datatransfer | 2 | 0 | false | false | false |
+| python-bigquery-datatransfer | 0 | 0 | false | false | false |
 | python-bigquery-migration | 1 | 2 | false | false | false |
 | python-bigquery-reservation | 0 | 2 | false | false | false |
 | python-billing | 0 | 0 | true | false | true |
@@ -309,7 +309,7 @@
 | python-debugger-client | 0 | 1 | false | false | false |
 | python-deploy | 0 | 0 | true | false | true |
 | python-dialogflow | 0 | 0 | false | false | false |
-| python-dialogflow-cx | 0 | 1 | false | false | false |
+| python-dialogflow-cx | 0 | 2 | false | false | false |
 | python-dlp | 0 | 0 | false | false | false |
 | python-dms | 0 | 0 | true | false | true |
 | python-documentai | 0 | 0 | true | false | true |
