@@ -92,7 +92,7 @@
 | java-network-security | 0 | 2 | true | true | false |
 | java-networkconnectivity | 0 | 2 | true | true | false |
 | java-notebooks | 0 | 2 | true | true | false |
-| java-notification | 0 | 10 | true | true | false |
+| java-notification | 0 | 11 | true | true | false |
 | java-optimization | 0 | 2 | true | true | false |
 | java-orchestration-airflow | 0 | 3 | true | true | false |
 | java-orgpolicy | 0 | 3 | true | true | false |
@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |
 | nodejs-speech | 0 | 0 | true | false | true |
 | nodejs-redis | 0 | 0 | true | false | true |
-| nodejs-pubsub | 31 | 1 | false | false | false |
+| nodejs-pubsub | 33 | 1 | false | false | false |
 | nodejs-os-login | 0 | 0 | true | false | true |
 | nodejs-monitoring | 0 | 0 | true | false | true |
 | nodejs-language | 0 | 0 | true | false | true |
