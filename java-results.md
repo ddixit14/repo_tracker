@@ -92,7 +92,7 @@
 | java-network-security | 0 | 2 | true | true | false |
 | java-networkconnectivity | 0 | 2 | true | true | false |
 | java-notebooks | 0 | 2 | true | true | false |
-| java-notification | 0 | 10 | true | true | false |
+| java-notification | 0 | 11 | true | true | false |
 | java-optimization | 0 | 2 | true | true | false |
 | java-orchestration-airflow | 0 | 3 | true | true | false |
 | java-orgpolicy | 0 | 3 | true | true | false |
