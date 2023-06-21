@@ -3,7 +3,7 @@
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|
 | python-access-approval | 0 | 0 | true | false | true |
 | python-access-context-manager | 2 | 0 | false | false | false |
-| python-analytics-admin | 3 | 0 | false | false | false |
+| python-analytics-admin | 3 | 1 | false | false | false |
 | python-analytics-data | 12 | 0 | false | false | false |
 | python-api-gateway | 0 | 0 | true | false | true |
 | python-apigee-connect | 0 | 0 | true | false | true |
@@ -26,7 +26,7 @@
 | python-bigquery-data-exchange | 0 | 0 | true | false | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true |
 | python-bigquery-datatransfer | 0 | 0 | false | false | false |
-| python-bigquery-migration | 1 | 2 | false | false | false |
+| python-bigquery-migration | 1 | 1 | false | false | false |
 | python-bigquery-reservation | 0 | 2 | false | false | false |
 | python-billing | 0 | 0 | true | false | true |
 | python-billingbudgets | 0 | 0 | true | false | true |
@@ -50,8 +50,8 @@
 | python-datastream | 0 | 0 | true | false | true |
 | python-debugger-client | 0 | 1 | false | false | false |
 | python-deploy | 0 | 0 | true | false | true |
-| python-dialogflow | 0 | 0 | false | false | false |
-| python-dialogflow-cx | 0 | 2 | false | false | false |
+| python-dialogflow | 0 | 1 | false | false | false |
+| python-dialogflow-cx | 0 | 1 | false | false | false |
 | python-dlp | 0 | 0 | false | false | false |
 | python-dms | 0 | 0 | true | false | true |
 | python-documentai | 0 | 0 | true | false | true |
@@ -120,8 +120,8 @@
 | python-trace | 0 | 0 | false | false | false |
 | python-videointelligence | 2 | 0 | false | false | false |
 | python-video-live-stream | 0 | 0 | false | false | false |
-| python-video-stitcher | 0 | 0 | false | false | false |
-| python-video-transcoder | 0 | 0 | false | false | false |
+| python-video-stitcher | 0 | 1 | false | false | false |
+| python-video-transcoder | 0 | 1 | false | false | false |
 | python-vm-migration | 0 | 0 | true | false | true |
 | python-vpc-access | 0 | 0 | true | false | true |
 | python-webrisk | 0 | 0 | true | false | true |
