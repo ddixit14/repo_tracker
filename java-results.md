@@ -1,142 +1,142 @@
 # java
-| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |
-|------------|-------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 2 | true | true | false |
-| gax-java | 0 | 6 | true | true | false |
-| java-accessapproval | 0 | 1 | true | true | false |
-| java-accesscontextmanager | 0 | 2 | true | true | false |
-| java-aiplatform | 0 | 1 | true | true | false |
-| java-analytics-admin | 0 | 2 | true | true | false |
-| java-analytics-data | 0 | 1 | true | true | false |
-| java-api-gateway | 0 | 1 | true | true | false |
-| java-apigee-connect | 0 | 0 | true | true | false |
-| java-apigee-registry | 0 | 1 | true | true | false |
-| java-apikeys | 0 | 2 | true | true | false |
-| java-appengine-admin | 0 | 2 | true | true | false |
-| java-area120-tables | 0 | 0 | true | true | false |
-| java-artifact-registry | 0 | 1 | true | true | false |
-| java-asset | 0 | 8 | true | true | false |
-| java-assured-workloads | 0 | 2 | true | true | false |
-| java-automl | 0 | 1 | true | true | false |
-| java-bare-metal-solution | 0 | 2 | true | true | false |
-| java-batch | 0 | 1 | true | true | false |
-| java-beyondcorp-appconnections | 0 | 1 | true | true | false |
-| java-beyondcorp-appconnectors | 0 | 1 | true | true | false |
-| java-beyondcorp-appgateways | 0 | 3 | true | true | false |
-| java-beyondcorp-clientconnectorservices | 0 | 2 | true | true | false |
-| java-beyondcorp-clientgateways | 0 | 2 | true | true | false |
-| java-bigquery-data-exchange | 0 | 0 | true | true | false |
-| java-bigqueryconnection | 0 | 3 | true | true | false |
-| java-bigquerydatapolicy | 0 | 10 | true | true | false |
-| java-bigquerydatatransfer | 0 | 1 | true | true | false |
-| java-bigquerymigration | 0 | 0 | true | true | true |
-| java-bigqueryreservation | 0 | 2 | true | true | false |
-| java-billing | 0 | 1 | true | true | false |
-| java-billingbudgets | 0 | 1 | true | true | false |
-| java-binary-authorization | 0 | 1 | true | true | false |
-| java-certificate-manager | 0 | 1 | true | true | false |
-| java-channel | 0 | 1 | true | true | false |
-| java-cloudbuild | 0 | 2 | true | true | false |
-| java-cloudcommerceconsumerprocurement | 0 | 2 | true | true | false |
-| java-compute | 0 | 3 | true | true | false |
-| java-common-protos | 0 | 5 | true | true | false |
-| java-contact-center-insights | 0 | 1 | true | true | false |
-| java-container | 0 | 4 | true | true | false |
-| java-containeranalysis | 0 | 1 | true | true | false |
-| java-data-fusion | 0 | 1 | true | true | false |
-| java-datacatalog | 0 | 2 | true | true | false |
-| java-dataflow | 0 | 0 | true | true | false |
-| java-dataform | 0 | 1 | true | true | false |
-| java-datalabeling | 0 | 2 | true | true | false |
-| java-dataplex | 0 | 1 | true | true | false |
-| java-dataproc-metastore | 0 | 1 | true | true | false |
-| java-dataproc | 0 | 3 | true | true | false |
-| java-datastream | 0 | 1 | true | true | false |
-| java-debugger-client | 0 | 0 | true | true | false |
-| java-deploy | 0 | 2 | true | true | false |
-| java-dialogflow-cx | 0 | 0 | true | true | false |
-| java-dialogflow | 0 | 3 | true | true | false |
-| java-distributedcloudedge | 0 | 3 | true | true | false |
-| java-dlp | 0 | 1 | true | true | false |
-| java-dms | 0 | 1 | true | true | false |
-| java-dns | 0 | 1 | true | true | false |
-| java-document-ai | 0 | 1 | true | true | false |
-| java-domains | 0 | 2 | true | true | false |
-| java-errorreporting | 0 | 2 | true | true | false |
-| java-essential-contacts | 0 | 0 | true | true | false |
-| java-eventarc-publishing | 0 | 1 | true | true | false |
-| java-eventarc | 0 | 0 | true | true | false |
-| java-filestore | 0 | 0 | true | true | false |
-| java-functions | 0 | 2 | true | true | false |
-| java-game-servers | 0 | 2 | true | true | false |
-| java-gke-backup | 0 | 1 | true | true | false |
-| java-gke-connect-gateway | 0 | 1 | true | true | false |
-| java-gke-multi-cloud | 0 | 1 | true | true | false |
-| java-gkehub | 0 | 1 | true | true | false |
-| java-grafeas | 0 | 2 | true | true | false |
-| java-gsuite-addons | 0 | 0 | true | true | false |
-| java-iam-admin | 0 | 0 | true | true | false |
-| java-iam | 0 | 5 | true | true | false |
-| java-iamcredentials | 0 | 2 | true | true | false |
-| java-ids | 0 | 0 | true | true | false |
-| java-iot | 0 | 2 | true | true | false |
-| java-kms | 0 | 2 | true | true | false |
-| java-language | 0 | 1 | true | true | false |
-| java-life-sciences | 0 | 1 | true | true | false |
-| java-managed-identities | 0 | 1 | true | true | false |
-| java-mediatranslation | 0 | 2 | true | true | false |
-| java-memcache | 0 | 3 | true | true | false |
-| java-monitoring-dashboards | 0 | 2 | true | true | false |
-| java-monitoring | 0 | 5 | true | true | false |
-| java-network-management | 0 | 2 | true | true | false |
-| java-network-security | 0 | 2 | true | true | false |
-| java-networkconnectivity | 0 | 2 | true | true | false |
-| java-notebooks | 0 | 2 | true | true | false |
-| java-notification | 0 | 11 | true | true | false |
-| java-optimization | 0 | 2 | true | true | false |
-| java-orchestration-airflow | 0 | 3 | true | true | false |
-| java-orgpolicy | 0 | 3 | true | true | false |
-| java-os-config | 0 | 3 | true | true | false |
-| java-os-login | 0 | 3 | true | true | false |
-| java-phishingprotection | 0 | 2 | true | true | false |
-| java-policy-troubleshooter | 0 | 2 | true | true | false |
-| java-private-catalog | 0 | 2 | true | true | false |
-| java-profiler | 0 | 2 | true | true | false |
-| java-recaptchaenterprise | 0 | 3 | true | true | false |
-| java-recommendations-ai | 0 | 2 | true | true | false |
-| java-recommender | 0 | 3 | true | true | false |
-| java-redis | 0 | 3 | true | true | false |
-| java-resource-settings | 0 | 1 | true | true | false |
-| java-resourcemanager | 0 | 4 | true | true | false |
-| java-retail | 0 | 4 | true | true | false |
-| java-run | 0 | 2 | true | true | false |
-| java-scheduler | 0 | 3 | true | true | false |
-| java-secretmanager | 0 | 3 | true | true | false |
-| java-security-private-ca | 0 | 1 | true | true | false |
-| java-securitycenter-settings | 0 | 2 | true | true | false |
-| java-securitycenter | 0 | 4 | true | true | false |
-| java-service-control | 0 | 2 | true | true | false |
-| java-service-management | 0 | 2 | true | true | false |
-| java-service-usage | 0 | 3 | true | true | false |
-| java-servicedirectory | 0 | 3 | true | true | false |
-| java-shared-dependencies | 0 | 13 | true | true | false |
-| java-shell | 0 | 1 | true | true | false |
-| java-speech | 0 | 2 | true | true | false |
-| java-storage-transfer | 0 | 2 | true | true | false |
-| java-talent | 0 | 3 | true | true | false |
-| java-tasks | 0 | 4 | true | true | false |
-| java-texttospeech | 0 | 3 | true | true | false |
-| java-tpu | 0 | 1 | true | true | false |
-| java-trace | 0 | 4 | true | true | false |
-| java-translate | 0 | 3 | true | true | false |
-| java-video-intelligence | 0 | 3 | true | true | false |
-| java-video-live-stream | 0 | 2 | true | true | false |
-| java-video-stitcher | 0 | 3 | true | true | false |
-| java-video-transcoder | 0 | 2 | true | true | false |
-| java-vision | 0 | 3 | true | true | false |
-| java-vmmigration | 0 | 2 | true | true | false |
-| java-vpcaccess | 0 | 1 | true | true | false |
-| java-webrisk | 0 | 3 | true | true | false |
-| java-websecurityscanner | 0 | 2 | true | true | false |
-| java-workflow-executions | 0 | 2 | true | true | false |
-| java-workflows | 0 | 0 | true | true | false |
+| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived | Code Exists |
+|------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| api-common-java | 0 | 2 | true | true | false | true |
+| gax-java | 0 | 6 | true | true | false | true |
+| java-accessapproval | 0 | 1 | true | true | false | true |
+| java-accesscontextmanager | 0 | 2 | true | true | false | true |
+| java-aiplatform | 0 | 1 | true | true | false | true |
+| java-analytics-admin | 0 | 2 | true | true | false | true |
+| java-analytics-data | 0 | 1 | true | true | false | true |
+| java-api-gateway | 0 | 1 | true | true | false | true |
+| java-apigee-connect | 0 | 0 | true | true | false | true |
+| java-apigee-registry | 0 | 1 | true | true | false | true |
+| java-apikeys | 0 | 2 | true | true | false | true |
+| java-appengine-admin | 0 | 2 | true | true | false | true |
+| java-area120-tables | 0 | 0 | true | true | false | true |
+| java-artifact-registry | 0 | 1 | true | true | false | true |
+| java-asset | 0 | 9 | true | true | false | true |
+| java-assured-workloads | 0 | 2 | true | true | false | true |
+| java-automl | 0 | 1 | true | true | false | true |
+| java-bare-metal-solution | 0 | 2 | true | true | false | true |
+| java-batch | 0 | 1 | true | true | false | true |
+| java-beyondcorp-appconnections | 0 | 1 | true | true | false | true |
+| java-beyondcorp-appconnectors | 0 | 1 | true | true | false | true |
+| java-beyondcorp-appgateways | 0 | 3 | true | true | false | true |
+| java-beyondcorp-clientconnectorservices | 0 | 2 | true | true | false | true |
+| java-beyondcorp-clientgateways | 0 | 2 | true | true | false | true |
+| java-bigquery-data-exchange | 0 | 0 | true | true | false | true |
+| java-bigqueryconnection | 0 | 3 | true | true | false | true |
+| java-bigquerydatapolicy | 0 | 10 | true | true | false | true |
+| java-bigquerydatatransfer | 0 | 1 | true | true | false | true |
+| java-bigquerymigration | 0 | 0 | true | true | true | false |
+| java-bigqueryreservation | 0 | 2 | true | true | false | true |
+| java-billing | 0 | 1 | true | true | false | true |
+| java-billingbudgets | 0 | 1 | true | true | false | true |
+| java-binary-authorization | 0 | 1 | true | true | false | true |
+| java-certificate-manager | 0 | 1 | true | true | false | true |
+| java-channel | 0 | 1 | true | true | false | true |
+| java-cloudbuild | 0 | 2 | true | true | false | true |
+| java-cloudcommerceconsumerprocurement | 0 | 2 | true | true | false | true |
+| java-compute | 0 | 3 | true | true | false | true |
+| java-common-protos | 0 | 5 | true | true | false | true |
+| java-contact-center-insights | 0 | 1 | true | true | false | true |
+| java-container | 0 | 4 | true | true | false | true |
+| java-containeranalysis | 0 | 1 | true | true | false | true |
+| java-data-fusion | 0 | 1 | true | true | false | true |
+| java-datacatalog | 0 | 2 | true | true | false | true |
+| java-dataflow | 0 | 0 | true | true | false | true |
+| java-dataform | 0 | 1 | true | true | false | true |
+| java-datalabeling | 0 | 2 | true | true | false | true |
+| java-dataplex | 0 | 1 | true | true | false | true |
+| java-dataproc-metastore | 0 | 1 | true | true | false | true |
+| java-dataproc | 0 | 3 | true | true | false | true |
+| java-datastream | 0 | 1 | true | true | false | true |
+| java-debugger-client | 0 | 0 | true | true | false | true |
+| java-deploy | 0 | 2 | true | true | false | true |
+| java-dialogflow-cx | 0 | 0 | true | true | false | true |
+| java-dialogflow | 0 | 3 | true | true | false | true |
+| java-distributedcloudedge | 0 | 3 | true | true | false | true |
+| java-dlp | 0 | 1 | true | true | false | true |
+| java-dms | 0 | 1 | true | true | false | true |
+| java-dns | 0 | 1 | true | true | false | true |
+| java-document-ai | 0 | 1 | true | true | false | true |
+| java-domains | 0 | 2 | true | true | false | true |
+| java-errorreporting | 0 | 2 | true | true | false | true |
+| java-essential-contacts | 0 | 0 | true | true | false | true |
+| java-eventarc-publishing | 0 | 1 | true | true | false | true |
+| java-eventarc | 0 | 0 | true | true | false | true |
+| java-filestore | 0 | 0 | true | true | false | true |
+| java-functions | 0 | 2 | true | true | false | true |
+| java-game-servers | 0 | 2 | true | true | false | true |
+| java-gke-backup | 0 | 1 | true | true | false | true |
+| java-gke-connect-gateway | 0 | 1 | true | true | false | true |
+| java-gke-multi-cloud | 0 | 1 | true | true | false | true |
+| java-gkehub | 0 | 1 | true | true | false | true |
+| java-grafeas | 0 | 2 | true | true | false | true |
+| java-gsuite-addons | 0 | 0 | true | true | false | true |
+| java-iam-admin | 0 | 0 | true | true | false | true |
+| java-iam | 0 | 5 | true | true | false | true |
+| java-iamcredentials | 0 | 2 | true | true | false | true |
+| java-ids | 0 | 0 | true | true | false | true |
+| java-iot | 0 | 2 | true | true | false | true |
+| java-kms | 0 | 2 | true | true | false | true |
+| java-language | 0 | 1 | true | true | false | true |
+| java-life-sciences | 0 | 1 | true | true | false | true |
+| java-managed-identities | 0 | 1 | true | true | false | true |
+| java-mediatranslation | 0 | 2 | true | true | false | true |
+| java-memcache | 0 | 3 | true | true | false | true |
+| java-monitoring-dashboards | 0 | 2 | true | true | false | true |
+| java-monitoring | 0 | 5 | true | true | false | true |
+| java-network-management | 0 | 2 | true | true | false | true |
+| java-network-security | 0 | 2 | true | true | false | true |
+| java-networkconnectivity | 0 | 2 | true | true | false | true |
+| java-notebooks | 0 | 2 | true | true | false | true |
+| java-notification | 0 | 11 | true | true | false | true |
+| java-optimization | 0 | 2 | true | true | false | true |
+| java-orchestration-airflow | 0 | 3 | true | true | false | true |
+| java-orgpolicy | 0 | 3 | true | true | false | true |
+| java-os-config | 0 | 3 | true | true | false | true |
+| java-os-login | 0 | 3 | true | true | false | true |
+| java-phishingprotection | 0 | 2 | true | true | false | true |
+| java-policy-troubleshooter | 0 | 2 | true | true | false | true |
+| java-private-catalog | 0 | 2 | true | true | false | true |
+| java-profiler | 0 | 2 | true | true | false | true |
+| java-recaptchaenterprise | 0 | 3 | true | true | false | true |
+| java-recommendations-ai | 0 | 2 | true | true | false | true |
+| java-recommender | 0 | 3 | true | true | false | true |
+| java-redis | 0 | 3 | true | true | false | true |
+| java-resource-settings | 0 | 1 | true | true | false | true |
+| java-resourcemanager | 0 | 4 | true | true | false | true |
+| java-retail | 0 | 4 | true | true | false | true |
+| java-run | 0 | 2 | true | true | false | true |
+| java-scheduler | 0 | 3 | true | true | false | true |
+| java-secretmanager | 0 | 3 | true | true | false | true |
+| java-security-private-ca | 0 | 1 | true | true | false | true |
+| java-securitycenter-settings | 0 | 2 | true | true | false | true |
+| java-securitycenter | 0 | 4 | true | true | false | true |
+| java-service-control | 0 | 2 | true | true | false | true |
+| java-service-management | 0 | 2 | true | true | false | true |
+| java-service-usage | 0 | 3 | true | true | false | true |
+| java-servicedirectory | 0 | 3 | true | true | false | true |
+| java-shared-dependencies | 0 | 13 | true | true | false | true |
+| java-shell | 0 | 1 | true | true | false | true |
+| java-speech | 0 | 2 | true | true | false | true |
+| java-storage-transfer | 0 | 2 | true | true | false | true |
+| java-talent | 0 | 3 | true | true | false | true |
+| java-tasks | 0 | 4 | true | true | false | true |
+| java-texttospeech | 0 | 3 | true | true | false | true |
+| java-tpu | 0 | 1 | true | true | false | true |
+| java-trace | 0 | 4 | true | true | false | true |
+| java-translate | 0 | 3 | true | true | false | true |
+| java-video-intelligence | 0 | 3 | true | true | false | true |
+| java-video-live-stream | 0 | 2 | true | true | false | true |
+| java-video-stitcher | 0 | 3 | true | true | false | true |
+| java-video-transcoder | 0 | 2 | true | true | false | true |
+| java-vision | 0 | 3 | true | true | false | true |
+| java-vmmigration | 0 | 2 | true | true | false | true |
+| java-vpcaccess | 0 | 1 | true | true | false | true |
+| java-webrisk | 0 | 3 | true | true | false | true |
+| java-websecurityscanner | 0 | 2 | true | true | false | true |
+| java-workflow-executions | 0 | 2 | true | true | false | true |
+| java-workflows | 0 | 0 | true | true | false | true |
