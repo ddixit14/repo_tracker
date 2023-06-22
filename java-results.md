@@ -15,7 +15,7 @@
 | java-appengine-admin | 0 | 2 | true | true | false |
 | java-area120-tables | 0 | 0 | true | true | false |
 | java-artifact-registry | 0 | 1 | true | true | false |
-| java-asset | 0 | 7 | true | true | false |
+| java-asset | 0 | 8 | true | true | false |
 | java-assured-workloads | 0 | 2 | true | true | false |
 | java-automl | 0 | 1 | true | true | false |
 | java-bare-metal-solution | 0 | 2 | true | true | false |
