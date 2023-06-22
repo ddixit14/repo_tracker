@@ -11,11 +11,11 @@ set -e
 
 language=$1
 repositories=$language.txt
-
+code_exists=true
 # Define the column headers
 echo "# $language" > $language-results.md
-echo "| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived |" >> $language-results.md
-echo "|------------|-------------|--------------------|--------------------|--------------------|--------------------|" >> $language-results.md
+echo "| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived | Code Exists |" >> $language-results.md
+echo "|------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|" >> $language-results.md
 
 for repository in $(cat $repositories); do
 
@@ -38,6 +38,7 @@ for repository in $(cat $repositories); do
       else
         is_present_readme=false
       fi
+      code_exists=$(./file_existence.sh ${repository})
   fi
 
   if [[ $language == "nodejs" ]]; then
@@ -63,6 +64,6 @@ for repository in $(cat $repositories); do
       is_public_archive=false
   fi
 
-  echo "| $repository | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $is_public_archive |" >> $language-results.md
+  echo "| $repository | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $is_public_archive | $code_exists |" >> $language-results.md
 
 done

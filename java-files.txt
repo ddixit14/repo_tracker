@@ -1,0 +1,5 @@
+.github
+.github/release-trigger.yml
+LICENSE
+README.md
+SECURITY.md
