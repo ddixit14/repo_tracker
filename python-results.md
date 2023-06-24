@@ -4,7 +4,7 @@
 | python-access-approval | 0 | 0 | true | false | true | true |
 | python-access-context-manager | 2 | 0 | false | false | false | true |
 | python-analytics-admin | 3 | 1 | false | false | false | true |
-| python-analytics-data | 12 | 0 | false | false | false | true |
+| python-analytics-data | 12 | 1 | false | false | false | true |
 | python-api-gateway | 0 | 0 | true | false | true | true |
 | python-apigee-connect | 0 | 0 | true | false | true | true |
 | python-apigee-registry | 0 | 0 | true | false | true | true |
@@ -22,11 +22,11 @@
 | python-beyondcorp-clientconnectorservices | 0 | 0 | true | false | true | true |
 | python-beyondcorp-clientgateways | 0 | 0 | true | false | true | true |
 | python-bigquery-analyticshub | 0 | 0 | true | false | true | true |
-| python-bigquery-connection | 0 | 0 | false | false | false | true |
+| python-bigquery-connection | 0 | 1 | false | false | false | true |
 | python-bigquery-data-exchange | 0 | 0 | true | false | true | true |
 | python-bigquery-datapolicies | 0 | 0 | true | false | true | true |
 | python-bigquery-datatransfer | 0 | 1 | false | false | false | true |
-| python-bigquery-migration | 1 | 1 | false | false | false | true |
+| python-bigquery-migration | 1 | 2 | false | false | false | true |
 | python-bigquery-reservation | 0 | 2 | false | false | false | true |
 | python-billing | 0 | 0 | true | false | true | true |
 | python-billingbudgets | 0 | 0 | true | false | true | true |
@@ -34,7 +34,7 @@
 | python-certificate-manager | 0 | 0 | true | false | true | true |
 | python-channel | 0 | 0 | true | false | true | true |
 | python-cloudbuild | 0 | 0 | false | false | false | true |
-| python-compute | 2 | 0 | false | false | false | true |
+| python-compute | 3 | 0 | false | false | false | true |
 | python-contact-center-insights | 0 | 0 | true | false | true | true |
 | python-container | 0 | 0 | false | false | false | true |
 | python-containeranalysis | 0 | 0 | false | false | false | true |
@@ -118,7 +118,7 @@
 | python-texttospeech | 2 | 1 | false | false | false | true |
 | python-tpu | 0 | 0 | true | false | true | true |
 | python-trace | 0 | 0 | false | false | false | true |
-| python-videointelligence | 2 | 0 | false | false | false | true |
+| python-videointelligence | 2 | 1 | false | false | false | true |
 | python-video-live-stream | 0 | 1 | false | false | false | true |
 | python-video-stitcher | 0 | 1 | false | false | false | true |
 | python-video-transcoder | 0 | 1 | false | false | false | true |
