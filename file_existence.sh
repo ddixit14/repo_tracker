@@ -22,7 +22,7 @@ contents_2=$(cat $file_2)
 #echo "files that should exist:" $contents_2
 # Check if the contents of the two files are equal
 if [[ "$contents_1" == "$contents_2" ]]; then
-  echo "false"
-else
   echo "true"
+else
+  echo "false"
 fi
