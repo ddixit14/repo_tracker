@@ -12,7 +12,7 @@ done
 sort -o files_in_repo.txt files_in_repo.txt
 
 file_1=files_in_repo.txt
-file_2=expected-files-java.txt.txt
+file_2=expected-files-java.txt
 # Read the contents of the first file
 contents_1=$(cat $file_1)
 #echo "files in repo are:" $contents_1
