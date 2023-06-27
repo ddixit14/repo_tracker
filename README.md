@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true | true |
 | nodejs-speech | 0 | 0 | true | false | true | true |
 | nodejs-redis | 0 | 0 | true | false | true | true |
-| nodejs-pubsub | 21 | 1 | false | false | false | true |
+| nodejs-pubsub | 21 | 2 | false | false | false | true |
 | nodejs-os-login | 0 | 0 | true | false | true | true |
 | nodejs-monitoring | 0 | 0 | true | false | true | true |
 | nodejs-language | 0 | 0 | true | false | true | true |
@@ -321,7 +321,7 @@
 | python-filestore | 0 | 0 | false | false | false | true |
 | python-functions | 0 | 0 | true | false | true | true |
 | python-game-servers | 0 | 0 | false | false | false | true |
-| python-gke-backup | 0 | 0 | false | false | false | true |
+| python-gke-backup | 0 | 1 | false | false | false | true |
 | python-gke-connect-gateway | 1 | 2 | true | false | false | true |
 | python-gke-hub | 0 | 0 | false | false | false | true |
 | python-gke-multicloud | 0 | 0 | true | false | true | true |
@@ -370,13 +370,13 @@
 | python-service-management | 1 | 1 | false | false | false | true |
 | python-service-usage | 0 | 0 | true | false | true | true |
 | python-shell | 0 | 0 | true | false | true | true |
-| python-storage-transfer | 0 | 0 | false | false | false | true |
+| python-storage-transfer | 0 | 1 | false | false | false | true |
 | python-talent | 0 | 0 | true | false | true | true |
 | python-tasks | 0 | 0 | false | false | false | true |
 | python-texttospeech | 2 | 1 | false | false | false | true |
 | python-tpu | 0 | 0 | true | false | true | true |
 | python-trace | 0 | 0 | false | false | false | true |
-| python-videointelligence | 2 | 1 | false | false | false | true |
+| python-videointelligence | 3 | 1 | false | false | false | true |
 | python-video-live-stream | 0 | 1 | false | false | false | true |
 | python-video-stitcher | 0 | 1 | false | false | false | true |
 | python-video-transcoder | 0 | 1 | false | false | false | true |
