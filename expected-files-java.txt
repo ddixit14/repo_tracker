@@ -1,4 +1,5 @@
 .github
+.github/release-please.yml
 .github/release-trigger.yml
 LICENSE
 README.md
