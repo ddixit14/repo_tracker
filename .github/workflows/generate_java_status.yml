@@ -28,5 +28,6 @@ jobs:
         run: |
           git config --global user.name 'Deepankar'
           git config --global user.email 'ddixit14@users.noreply.github.com'
-          git commit -am "Update Repo Status"
+          git add java-results.md
+          git commit -m "Update Repo Status"
           git push
