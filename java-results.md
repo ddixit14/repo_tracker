@@ -29,7 +29,7 @@
 | java-bigqueryconnection | 0 | 3 | true | true | false | false |
 | java-bigquerydatapolicy | 0 | 10 | true | true | false | false |
 | java-bigquerydatatransfer | 0 | 1 | true | true | false | false |
-| java-bigquerymigration | 0 | 0 | true | true | true | true |
+| java-bigquerymigration | 0 | 0 | true | true | true | false |
 | java-bigqueryreservation | 0 | 2 | true | true | false | false |
 | java-billing | 0 | 1 | true | true | false | false |
 | java-billingbudgets | 0 | 1 | true | true | false | false |
@@ -127,7 +127,7 @@
 | java-tasks | 0 | 4 | true | true | false | false |
 | java-texttospeech | 0 | 3 | true | true | false | false |
 | java-tpu | 0 | 1 | true | true | false | false |
-| java-trace | 0 | 4 | true | true | false | false |
+| java-trace | 0 | 4 | true | true | false | true |
 | java-translate | 0 | 3 | true | true | false | false |
 | java-video-intelligence | 0 | 3 | true | true | false | false |
 | java-video-live-stream | 0 | 2 | true | true | false | false |
