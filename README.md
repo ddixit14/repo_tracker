@@ -1,38 +1,38 @@
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived | Code Deleted |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 2 | true | true | false | false |
-| gax-java | 0 | 6 | true | true | false | false |
-| java-accessapproval | 0 | 1 | true | true | false | false |
-| java-accesscontextmanager | 1 | 0 | true | true | false | false |
-| java-aiplatform | 0 | 1 | true | true | false | false |
-| java-analytics-admin | 0 | 2 | true | true | false | false |
-| java-analytics-data | 0 | 1 | true | true | false | false |
-| java-api-gateway | 0 | 1 | true | true | false | false |
-| java-apigee-connect | 0 | 0 | true | true | false | false |
-| java-apigee-registry | 0 | 1 | true | true | false | false |
-| java-apikeys | 0 | 2 | true | true | false | false |
-| java-appengine-admin | 0 | 2 | true | true | false | false |
-| java-area120-tables | 0 | 0 | true | true | false | false |
-| java-artifact-registry | 0 | 1 | true | true | false | false |
-| java-asset | 0 | 9 | true | true | false | false |
-| java-assured-workloads | 0 | 2 | true | true | false | false |
-| java-automl | 0 | 1 | true | true | false | false |
-| java-bare-metal-solution | 0 | 2 | true | true | false | false |
+| api-common-java | 0 | 3 | true | true | false | false |
+| gax-java | 1 | 7 | true | true | false | false |
+| java-accessapproval | 0 | 2 | true | true | false | false |
+| java-accesscontextmanager | 1 | 1 | true | true | false | false |
+| java-aiplatform | 0 | 2 | true | true | false | false |
+| java-analytics-admin | 0 | 2 | true | true | false | true |
+| java-analytics-data | 0 | 2 | true | true | false | false |
+| java-api-gateway | 0 | 1 | true | true | false | true |
+| java-apigee-connect | 0 | 1 | true | true | false | false |
+| java-apigee-registry | 0 | 2 | true | true | false | false |
+| java-apikeys | 0 | 2 | true | true | false | true |
+| java-appengine-admin | 0 | 2 | true | true | false | true |
+| java-area120-tables | 0 | 1 | true | true | false | false |
+| java-artifact-registry | 0 | 1 | true | true | false | true |
+| java-asset | 0 | 9 | true | true | false | true |
+| java-assured-workloads | 0 | 2 | true | true | false | true |
+| java-automl | 0 | 2 | true | true | false | false |
+| java-bare-metal-solution | 0 | 2 | true | true | false | true |
 | java-batch | 0 | 1 | true | true | false | false |
 | java-beyondcorp-appconnections | 0 | 1 | true | true | false | false |
 | java-beyondcorp-appconnectors | 0 | 1 | true | true | false | false |
 | java-beyondcorp-appgateways | 0 | 3 | true | true | false | false |
 | java-beyondcorp-clientconnectorservices | 0 | 2 | true | true | false | false |
 | java-beyondcorp-clientgateways | 0 | 2 | true | true | false | false |
-| java-bigquery-data-exchange | 0 | 0 | true | true | false | false |
+| java-bigquery-data-exchange | 0 | 1 | true | true | false | false |
 | java-bigqueryconnection | 0 | 3 | true | true | false | false |
-| java-bigquerydatapolicy | 0 | 10 | true | true | false | false |
-| java-bigquerydatatransfer | 0 | 1 | true | true | false | false |
+| java-bigquerydatapolicy | 0 | 10 | true | true | false | true |
+| java-bigquerydatatransfer | 0 | 2 | true | true | false | false |
 | java-bigquerymigration | 0 | 0 | true | true | true | false |
-| java-bigqueryreservation | 0 | 2 | true | true | false | false |
-| java-billing | 0 | 1 | true | true | false | false |
-| java-billingbudgets | 0 | 1 | true | true | false | false |
+| java-bigqueryreservation | 0 | 3 | true | true | false | false |
+| java-billing | 0 | 2 | true | true | false | false |
+| java-billingbudgets | 0 | 2 | true | true | false | false |
 | java-binary-authorization | 0 | 1 | true | true | false | false |
 | java-certificate-manager | 0 | 1 | true | true | false | false |
 | java-channel | 0 | 1 | true | true | false | false |
@@ -40,53 +40,53 @@
 | java-cloudcommerceconsumerprocurement | 0 | 2 | true | true | false | false |
 | java-compute | 0 | 3 | true | true | false | false |
 | java-common-protos | 0 | 5 | true | true | false | false |
-| java-contact-center-insights | 0 | 1 | true | true | false | false |
+| java-contact-center-insights | 0 | 2 | true | true | false | false |
 | java-container | 0 | 4 | true | true | false | false |
-| java-containeranalysis | 0 | 1 | true | true | false | false |
+| java-containeranalysis | 0 | 2 | true | true | false | false |
 | java-data-fusion | 0 | 1 | true | true | false | false |
-| java-datacatalog | 0 | 2 | true | true | false | false |
-| java-dataflow | 0 | 0 | true | true | false | false |
+| java-datacatalog | 0 | 3 | true | true | false | false |
+| java-dataflow | 0 | 1 | true | true | false | false |
 | java-dataform | 0 | 1 | true | true | false | false |
 | java-datalabeling | 0 | 2 | true | true | false | false |
 | java-dataplex | 0 | 1 | true | true | false | false |
 | java-dataproc-metastore | 0 | 1 | true | true | false | false |
 | java-dataproc | 0 | 3 | true | true | false | false |
 | java-datastream | 0 | 1 | true | true | false | false |
-| java-debugger-client | 0 | 0 | true | true | false | false |
+| java-debugger-client | 0 | 1 | true | true | false | false |
 | java-deploy | 0 | 2 | true | true | false | false |
-| java-dialogflow-cx | 0 | 0 | true | true | false | false |
-| java-dialogflow | 0 | 3 | true | true | false | false |
+| java-dialogflow-cx | 0 | 1 | true | true | false | false |
+| java-dialogflow | 0 | 4 | true | true | false | false |
 | java-distributedcloudedge | 0 | 3 | true | true | false | false |
-| java-dlp | 0 | 1 | true | true | false | false |
+| java-dlp | 0 | 2 | true | true | false | false |
 | java-dms | 0 | 1 | true | true | false | false |
-| java-dns | 0 | 1 | true | true | false | false |
-| java-document-ai | 0 | 1 | true | true | false | false |
+| java-dns | 0 | 2 | true | true | false | false |
+| java-document-ai | 0 | 2 | true | true | false | false |
 | java-domains | 0 | 2 | true | true | false | false |
-| java-errorreporting | 0 | 2 | true | true | false | false |
-| java-essential-contacts | 0 | 0 | true | true | false | false |
+| java-errorreporting | 0 | 0 | true | true | false | false |
+| java-essential-contacts | 0 | 1 | true | true | false | false |
 | java-eventarc-publishing | 0 | 1 | true | true | false | false |
 | java-eventarc | 0 | 0 | true | true | false | false |
 | java-filestore | 0 | 0 | true | true | false | false |
 | java-functions | 0 | 2 | true | true | false | false |
-| java-game-servers | 0 | 2 | true | true | false | false |
+| java-game-servers | 0 | 3 | true | true | false | false |
 | java-gke-backup | 0 | 1 | true | true | false | false |
-| java-gke-connect-gateway | 0 | 1 | true | true | false | false |
+| java-gke-connect-gateway | 0 | 2 | true | true | false | false |
 | java-gke-multi-cloud | 0 | 1 | true | true | false | false |
 | java-gkehub | 0 | 1 | true | true | false | false |
 | java-grafeas | 0 | 2 | true | true | false | false |
 | java-gsuite-addons | 0 | 0 | true | true | false | false |
 | java-iam-admin | 0 | 0 | true | true | false | false |
-| java-iam | 0 | 5 | true | true | false | false |
+| java-iam | 0 | 6 | true | true | false | false |
 | java-iamcredentials | 0 | 2 | true | true | false | false |
 | java-ids | 0 | 0 | true | true | false | false |
 | java-iot | 0 | 2 | true | true | false | false |
-| java-kms | 0 | 2 | true | true | false | false |
-| java-language | 0 | 1 | true | true | false | false |
+| java-kms | 0 | 3 | true | true | false | false |
+| java-language | 0 | 2 | true | true | false | false |
 | java-life-sciences | 0 | 1 | true | true | false | false |
 | java-managed-identities | 0 | 1 | true | true | false | false |
 | java-mediatranslation | 0 | 2 | true | true | false | false |
 | java-memcache | 0 | 3 | true | true | false | false |
-| java-monitoring-dashboards | 0 | 2 | true | true | false | false |
+| java-monitoring-dashboards | 0 | 3 | true | true | false | false |
 | java-monitoring | 0 | 5 | true | true | false | false |
 | java-network-management | 0 | 2 | true | true | false | false |
 | java-network-security | 0 | 2 | true | true | false | false |
@@ -127,7 +127,7 @@
 | java-tasks | 0 | 4 | true | true | false | false |
 | java-texttospeech | 0 | 3 | true | true | false | false |
 | java-tpu | 0 | 1 | true | true | false | false |
-| java-trace | 0 | 4 | true | true | false | true |
+| java-trace | 0 | 4 | true | true | false | false |
 | java-translate | 0 | 3 | true | true | false | false |
 | java-video-intelligence | 0 | 3 | true | true | false | false |
 | java-video-live-stream | 0 | 2 | true | true | false | false |
@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |  |
 | nodejs-speech | 0 | 0 | true | false | true |  |
 | nodejs-redis | 0 | 0 | true | false | true |  |
-| nodejs-pubsub | 21 | 1 | false | false | false |  |
+| nodejs-pubsub | 21 | 2 | false | false | false |  |
 | nodejs-os-login | 0 | 0 | true | false | true |  |
 | nodejs-monitoring | 0 | 0 | true | false | true |  |
 | nodejs-language | 0 | 0 | true | false | true |  |
@@ -291,10 +291,10 @@
 | python-binary-authorization | 0 | 0 | false | false | false |  |
 | python-certificate-manager | 0 | 0 | true | false | true |  |
 | python-channel | 0 | 0 | true | false | true |  |
-| python-cloudbuild | 0 | 1 | false | false | false |  |
+| python-cloudbuild | 0 | 2 | false | false | false |  |
 | python-compute | 3 | 0 | false | false | false |  |
 | python-contact-center-insights | 0 | 0 | true | false | true |  |
-| python-container | 0 | 0 | false | false | false |  |
+| python-container | 0 | 1 | false | false | false |  |
 | python-containeranalysis | 0 | 0 | false | false | false |  |
 | python-datacatalog | 0 | 0 | true | false | true |  |
 | python-dataflow-client | 0 | 0 | false | false | false |  |
@@ -330,7 +330,7 @@
 | python-iam | 3 | 0 | false | false | false |  |
 | python-iap | 1 | 0 | true | false | true |  |
 | python-ids | 0 | 0 | true | false | true |  |
-| python-iot | 0 | 1 | false | false | false |  |
+| python-iot | 0 | 2 | false | false | false |  |
 | python-kms | 0 | 0 | false | false | false |  |
 | python-language | 0 | 0 | false | false | false |  |
 | python-life-sciences | 0 | 0 | true | false | true |  |
@@ -346,7 +346,7 @@
 | python-notebooks | 0 | 0 | true | false | true |  |
 | python-optimization | 0 | 0 | false | false | false |  |
 | python-orchestration-airflow | 0 | 0 | true | false | true |  |
-| python-org-policy | 1 | 0 | false | false | false |  |
+| python-org-policy | 1 | 1 | false | false | false |  |
 | python-os-config | 0 | 0 | false | false | false |  |
 | python-oslogin | 0 | 2 | false | false | false |  |
 | python-phishingprotection | 0 | 0 | true | false | true |  |
@@ -359,7 +359,7 @@
 | python-resource-manager | 0 | 0 | true | false | true |  |
 | python-resource-settings | 0 | 0 | true | false | true |  |
 | python-retail | 0 | 1 | false | false | false |  |
-| python-run | 0 | 0 | false | false | false |  |
+| python-run | 0 | 1 | false | false | false |  |
 | python-scheduler | 0 | 0 | false | false | false |  |
 | python-secret-manager | 0 | 0 | true | false | true |  |
 | python-securitycenter | 0 | 0 | true | false | true |  |
@@ -370,13 +370,13 @@
 | python-service-management | 1 | 1 | false | false | false |  |
 | python-service-usage | 0 | 0 | true | false | true |  |
 | python-shell | 0 | 0 | true | false | true |  |
-| python-storage-transfer | 0 | 1 | false | false | false |  |
+| python-storage-transfer | 0 | 0 | false | false | false |  |
 | python-talent | 0 | 0 | true | false | true |  |
 | python-tasks | 0 | 0 | false | false | false |  |
 | python-texttospeech | 2 | 1 | false | false | false |  |
 | python-tpu | 0 | 0 | true | false | true |  |
 | python-trace | 0 | 0 | false | false | false |  |
-| python-videointelligence | 3 | 2 | false | false | false |  |
+| python-videointelligence | 3 | 1 | false | false | false |  |
 | python-video-live-stream | 0 | 1 | false | false | false |  |
 | python-video-stitcher | 0 | 1 | false | false | false |  |
 | python-video-transcoder | 0 | 0 | false | false | false |  |
