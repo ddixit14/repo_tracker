@@ -150,7 +150,7 @@
 | nodejs-tasks | 0 | 0 | true | false | true |  |
 | nodejs-speech | 0 | 0 | true | false | true |  |
 | nodejs-redis | 0 | 0 | true | false | true |  |
-| nodejs-pubsub | 21 | 2 | false | false | false |  |
+| nodejs-pubsub | 22 | 2 | false | false | false |  |
 | nodejs-os-login | 0 | 0 | true | false | true |  |
 | nodejs-monitoring | 0 | 0 | true | false | true |  |
 | nodejs-language | 0 | 0 | true | false | true |  |
@@ -262,7 +262,7 @@
 | python-access-approval | 0 | 0 | true | false | true |  |
 | python-access-context-manager | 2 | 0 | false | false | false |  |
 | python-analytics-admin | 3 | 1 | false | false | false |  |
-| python-analytics-data | 12 | 1 | false | false | false |  |
+| python-analytics-data | 13 | 1 | false | false | false |  |
 | python-api-gateway | 0 | 0 | true | false | true |  |
 | python-apigee-connect | 0 | 0 | true | false | true |  |
 | python-apigee-registry | 0 | 0 | true | false | true |  |
@@ -291,8 +291,8 @@
 | python-binary-authorization | 0 | 0 | false | false | false |  |
 | python-certificate-manager | 0 | 0 | true | false | true |  |
 | python-channel | 0 | 0 | true | false | true |  |
-| python-cloudbuild | 0 | 2 | false | false | false |  |
-| python-compute | 3 | 0 | false | false | false |  |
+| python-cloudbuild | 0 | 0 | false | false | false |  |
+| python-compute | 3 | 1 | false | false | false |  |
 | python-contact-center-insights | 0 | 0 | true | false | true |  |
 | python-container | 0 | 1 | false | false | false |  |
 | python-containeranalysis | 0 | 0 | false | false | false |  |
@@ -330,7 +330,7 @@
 | python-iam | 3 | 0 | false | false | false |  |
 | python-iap | 1 | 0 | true | false | true |  |
 | python-ids | 0 | 0 | true | false | true |  |
-| python-iot | 0 | 2 | false | false | false |  |
+| python-iot | 0 | 1 | false | false | false |  |
 | python-kms | 0 | 0 | false | false | false |  |
 | python-language | 0 | 0 | false | false | false |  |
 | python-life-sciences | 0 | 0 | true | false | true |  |
@@ -346,7 +346,7 @@
 | python-notebooks | 0 | 0 | true | false | true |  |
 | python-optimization | 0 | 0 | false | false | false |  |
 | python-orchestration-airflow | 0 | 0 | true | false | true |  |
-| python-org-policy | 1 | 1 | false | false | false |  |
+| python-org-policy | 1 | 0 | false | false | false |  |
 | python-os-config | 0 | 0 | false | false | false |  |
 | python-oslogin | 0 | 2 | false | false | false |  |
 | python-phishingprotection | 0 | 0 | true | false | true |  |
@@ -359,7 +359,7 @@
 | python-resource-manager | 0 | 0 | true | false | true |  |
 | python-resource-settings | 0 | 0 | true | false | true |  |
 | python-retail | 0 | 1 | false | false | false |  |
-| python-run | 0 | 1 | false | false | false |  |
+| python-run | 0 | 0 | false | false | false |  |
 | python-scheduler | 0 | 0 | false | false | false |  |
 | python-secret-manager | 0 | 0 | true | false | true |  |
 | python-securitycenter | 0 | 0 | true | false | true |  |
@@ -379,9 +379,9 @@
 | python-videointelligence | 3 | 1 | false | false | false |  |
 | python-video-live-stream | 0 | 1 | false | false | false |  |
 | python-video-stitcher | 0 | 1 | false | false | false |  |
-| python-video-transcoder | 0 | 0 | false | false | false |  |
+| python-video-transcoder | 0 | 1 | false | false | false |  |
 | python-vm-migration | 0 | 0 | true | false | true |  |
 | python-vpc-access | 0 | 0 | true | false | true |  |
 | python-webrisk | 0 | 0 | true | false | true |  |
 | python-websecurityscanner | 0 | 0 | true | false | true |  |
-| python-workflows | 0 | 1 | false | false | false |  |
+| python-workflows | 0 | 0 | false | false | false |  |
