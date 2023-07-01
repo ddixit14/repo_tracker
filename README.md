@@ -331,7 +331,7 @@
 | python-iap | 1 | 0 | true | false | true |  |
 | python-ids | 0 | 0 | true | false | true |  |
 | python-iot | 0 | 1 | false | false | false |  |
-| python-kms | 0 | 0 | false | false | false |  |
+| python-kms | 0 | 1 | false | false | false |  |
 | python-language | 0 | 0 | false | false | false |  |
 | python-life-sciences | 0 | 0 | true | false | true |  |
 | python-managed-identities | 0 | 0 | true | false | true |  |
