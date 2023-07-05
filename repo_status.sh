@@ -12,16 +12,19 @@ set -e
 language=$1
 repositories=$language.txt
 code_exists=true
+archived_count=0
+total_count=0
+filename="$language-results.md"
 # Define the column headers
 echo "# $language" > $language-results.md
-echo "| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived | Code Deleted |" >> $language-results.md
+echo "| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |" >> $language-results.md
 echo "|------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|" >> $language-results.md
 
 for repository in $(cat $repositories); do
 
   open_issues_count=$(gh issue list -R googleapis/${repository} -L 100 -s open | wc -l)
   open_pull_requests=$(gh pr list -R googleapis/${repository} -L 100 -s open | wc -l)
-
+  total_count=$((total_count + 1))
   if [[ $language == "python" ]]; then
       output_readme=$(curl -s https://raw.githubusercontent.com/googleapis/${repository}/main/README.rst)
       if [[ $output_readme == *"This github repository is archived"* ]]; then
@@ -64,6 +67,17 @@ for repository in $(cat $repositories); do
       is_public_archive=false
   fi
 
-  echo "| $repository | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $is_public_archive | $code_deleted |" >> $language-results.md
+  if [[ "$open_issues_count" -eq 0 && "$open_pull_requests" -eq 0 && "$is_present_readme" == "true" && "$is_present_about" == "true" && "$code_deleted" == "true" && "$is_public_archive" == "true" ]]; then
+    echo "$repository is DONEEEEEEEEEEEE"
+    archived_count=$((archived_count + 1))
+  fi
+
+  echo "| $repository | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $code_deleted | $is_public_archive |" >> $filename
 
 done
+
+temp_file=$(mktemp)
+line="$archived_count out of $total_count repositories archived successfully"
+echo "$line" > $temp_file
+cat $filename >> $temp_file
+mv $temp_file $filename
