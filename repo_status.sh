@@ -68,16 +68,16 @@ for repository in $(cat $repositories); do
   fi
 
   if [[ "$open_issues_count" -eq 0 && "$open_pull_requests" -eq 0 && "$is_present_readme" == "true" && "$is_present_about" == "true" && "$code_deleted" == "true" && "$is_public_archive" == "true" ]]; then
-    echo "$repository is DONEEEEEEEEEEEE"
-    archived_count=$((archived_count + 1))
+     echo "| $repository (success) | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $code_deleted | $is_public_archive |" >> $filename
+     archived_count=$((archived_count + 1))
+  else
+     echo "| $repository (failure) | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $code_deleted | $is_public_archive |" >> $filename
   fi
-
-  echo "| $repository | $open_issues_count | $open_pull_requests | $is_present_readme | $is_present_about | $code_deleted | $is_public_archive |" >> $filename
 
 done
 
 temp_file=$(mktemp)
-line="$archived_count out of $total_count repositories archived successfully"
+line="$archived_count out of $total_count repositories archived successfully."
 echo "$line" > $temp_file
 cat $filename >> $temp_file
 mv $temp_file $filename
