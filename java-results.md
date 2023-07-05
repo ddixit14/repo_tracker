@@ -1,143 +1,143 @@
-1 out of 139 repositories archived successfully
+2 out of 139 repositories archived successfully.
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| api-common-java | 0 | 3 | true | true | false | false |
-| gax-java | 1 | 7 | true | true | false | false |
-| java-accessapproval | 0 | 1 | true | true | false | false |
-| java-accesscontextmanager | 2 | 0 | true | true | true | false |
-| java-aiplatform | 0 | 1 | true | true | true | false |
-| java-analytics-admin | 0 | 2 | true | true | true | false |
-| java-analytics-data | 0 | 1 | true | true | true | false |
-| java-api-gateway | 0 | 1 | true | true | true | false |
-| java-apigee-connect | 0 | 0 | true | true | true | true |
-| java-apigee-registry | 0 | 1 | true | true | true | false |
-| java-apikeys | 0 | 2 | true | true | true | false |
-| java-appengine-admin | 0 | 2 | true | true | true | false |
-| java-area120-tables | 0 | 0 | true | true | true | false |
-| java-artifact-registry | 0 | 1 | true | true | true | false |
-| java-asset | 0 | 9 | true | true | true | false |
-| java-assured-workloads | 0 | 2 | true | true | true | false |
-| java-automl | 0 | 1 | true | true | true | false |
-| java-bare-metal-solution | 0 | 2 | true | true | true | false |
-| java-batch | 0 | 1 | true | true | false | false |
-| java-beyondcorp-appconnections | 0 | 1 | true | true | false | false |
-| java-beyondcorp-appconnectors | 0 | 1 | true | true | false | false |
-| java-beyondcorp-appgateways | 0 | 3 | true | true | false | false |
-| java-beyondcorp-clientconnectorservices | 0 | 2 | true | true | false | false |
-| java-beyondcorp-clientgateways | 0 | 2 | true | true | false | false |
-| java-bigquery-data-exchange | 0 | 0 | true | true | false | false |
-| java-bigqueryconnection | 0 | 3 | true | true | false | false |
-| java-bigquerydatapolicy | 0 | 10 | true | true | true | false |
-| java-bigquerydatatransfer | 0 | 1 | true | true | false | false |
-| java-bigquerymigration | 0 | 0 | true | true | false | true |
-| java-bigqueryreservation | 0 | 2 | true | true | false | false |
-| java-billing | 0 | 1 | true | true | false | false |
-| java-billingbudgets | 0 | 1 | true | true | false | false |
-| java-binary-authorization | 0 | 1 | true | true | false | false |
-| java-certificate-manager | 0 | 1 | true | true | false | false |
-| java-channel | 0 | 1 | true | true | false | false |
-| java-cloudbuild | 0 | 2 | true | true | false | false |
-| java-cloudcommerceconsumerprocurement | 0 | 2 | true | true | false | false |
-| java-compute | 0 | 3 | true | true | false | false |
-| java-common-protos | 0 | 5 | true | true | false | false |
-| java-contact-center-insights | 0 | 1 | true | true | false | false |
-| java-container | 0 | 4 | true | true | false | false |
-| java-containeranalysis | 0 | 1 | true | true | false | false |
-| java-data-fusion | 0 | 1 | true | true | false | false |
-| java-datacatalog | 0 | 2 | true | true | false | false |
-| java-dataflow | 0 | 0 | true | true | false | false |
-| java-dataform | 0 | 1 | true | true | false | false |
-| java-datalabeling | 0 | 2 | true | true | false | false |
-| java-dataplex | 0 | 1 | true | true | false | false |
-| java-dataproc-metastore | 0 | 1 | true | true | false | false |
-| java-dataproc | 0 | 3 | true | true | false | false |
-| java-datastream | 0 | 1 | true | true | false | false |
-| java-debugger-client | 0 | 0 | true | true | false | false |
-| java-deploy | 0 | 2 | true | true | false | false |
-| java-dialogflow-cx | 0 | 0 | true | true | false | false |
-| java-dialogflow | 0 | 3 | true | true | false | false |
-| java-distributedcloudedge | 0 | 3 | true | true | false | false |
-| java-dlp | 0 | 2 | true | true | false | false |
-| java-dms | 0 | 1 | true | true | false | false |
-| java-dns | 0 | 1 | true | true | false | false |
-| java-document-ai | 0 | 1 | true | true | false | false |
-| java-domains | 0 | 2 | true | true | false | false |
-| java-errorreporting | 0 | 0 | true | true | false | false |
-| java-essential-contacts | 0 | 0 | true | true | false | false |
-| java-eventarc-publishing | 0 | 1 | true | true | false | false |
-| java-eventarc | 0 | 0 | true | true | false | false |
-| java-filestore | 0 | 0 | true | true | false | false |
-| java-functions | 0 | 2 | true | true | false | false |
-| java-game-servers | 0 | 2 | true | true | false | false |
-| java-gke-backup | 0 | 1 | true | true | false | false |
-| java-gke-connect-gateway | 0 | 1 | true | true | false | false |
-| java-gke-multi-cloud | 0 | 1 | true | true | false | false |
-| java-gkehub | 0 | 1 | true | true | false | false |
-| java-grafeas | 0 | 2 | true | true | false | false |
-| java-gsuite-addons | 0 | 0 | true | true | false | false |
-| java-iam-admin | 0 | 0 | true | true | false | false |
-| java-iam | 0 | 5 | true | true | false | false |
-| java-iamcredentials | 0 | 2 | true | true | false | false |
-| java-ids | 0 | 0 | true | true | false | false |
-| java-iot | 0 | 2 | true | true | false | false |
-| java-kms | 0 | 2 | true | true | false | false |
-| java-language | 0 | 1 | true | true | false | false |
-| java-life-sciences | 0 | 1 | true | true | false | false |
-| java-managed-identities | 0 | 1 | true | true | false | false |
-| java-mediatranslation | 0 | 2 | true | true | false | false |
-| java-memcache | 0 | 3 | true | true | false | false |
-| java-monitoring-dashboards | 0 | 2 | true | true | false | false |
-| java-monitoring | 0 | 5 | true | true | false | false |
-| java-network-management | 0 | 2 | true | true | false | false |
-| java-network-security | 0 | 2 | true | true | false | false |
-| java-networkconnectivity | 0 | 2 | true | true | false | false |
-| java-notebooks | 0 | 2 | true | true | false | false |
-| java-notification | 0 | 11 | true | true | false | false |
-| java-optimization | 0 | 2 | true | true | false | false |
-| java-orchestration-airflow | 0 | 3 | true | true | false | false |
-| java-orgpolicy | 0 | 3 | true | true | false | false |
-| java-os-config | 0 | 3 | true | true | false | false |
-| java-os-login | 0 | 3 | true | true | false | false |
-| java-phishingprotection | 0 | 2 | true | true | false | false |
-| java-policy-troubleshooter | 0 | 2 | true | true | false | false |
-| java-private-catalog | 0 | 2 | true | true | false | false |
-| java-profiler | 0 | 2 | true | true | false | false |
-| java-recaptchaenterprise | 0 | 3 | true | true | false | false |
-| java-recommendations-ai | 0 | 2 | true | true | false | false |
-| java-recommender | 0 | 3 | true | true | false | false |
-| java-redis | 0 | 3 | true | true | false | false |
-| java-resource-settings | 0 | 1 | true | true | false | false |
-| java-resourcemanager | 0 | 4 | true | true | false | false |
-| java-retail | 0 | 4 | true | true | false | false |
-| java-run | 0 | 2 | true | true | false | false |
-| java-scheduler | 0 | 3 | true | true | false | false |
-| java-secretmanager | 0 | 3 | true | true | false | false |
-| java-security-private-ca | 0 | 1 | true | true | false | false |
-| java-securitycenter-settings | 0 | 2 | true | true | false | false |
-| java-securitycenter | 0 | 4 | true | true | false | false |
-| java-service-control | 0 | 2 | true | true | false | false |
-| java-service-management | 0 | 2 | true | true | false | false |
-| java-service-usage | 0 | 3 | true | true | false | false |
-| java-servicedirectory | 0 | 3 | true | true | false | false |
-| java-shared-dependencies | 0 | 13 | true | true | false | false |
-| java-shell | 0 | 1 | true | true | false | false |
-| java-speech | 0 | 2 | true | true | false | false |
-| java-storage-transfer | 0 | 2 | true | true | false | false |
-| java-talent | 0 | 3 | true | true | false | false |
-| java-tasks | 0 | 4 | true | true | false | false |
-| java-texttospeech | 0 | 3 | true | true | false | false |
-| java-tpu | 0 | 1 | true | true | false | false |
-| java-trace | 0 | 4 | true | true | false | false |
-| java-translate | 0 | 3 | true | true | false | false |
-| java-video-intelligence | 0 | 3 | true | true | false | false |
-| java-video-live-stream | 0 | 2 | true | true | false | false |
-| java-video-stitcher | 0 | 3 | true | true | false | false |
-| java-video-transcoder | 0 | 2 | true | true | false | false |
-| java-vision | 0 | 3 | true | true | false | false |
-| java-vmmigration | 0 | 2 | true | true | false | false |
-| java-vpcaccess | 0 | 1 | true | true | false | false |
-| java-webrisk | 0 | 3 | true | true | false | false |
-| java-websecurityscanner | 0 | 2 | true | true | false | false |
-| java-workflow-executions | 0 | 2 | true | true | false | false |
-| java-workflows | 0 | 0 | true | true | false | false |
+| api-common-java (failure) | 0 | 3 | true | true | false | false |
+| gax-java (failure) | 1 | 7 | true | true | false | false |
+| java-accessapproval (failure) | 0 | 1 | true | true | false | false |
+| java-accesscontextmanager (failure) | 2 | 0 | true | true | true | true |
+| java-aiplatform (failure) | 0 | 1 | true | true | true | true |
+| java-analytics-admin (failure) | 0 | 2 | true | true | true | true |
+| java-analytics-data (failure) | 0 | 1 | true | true | true | true |
+| java-api-gateway (failure) | 0 | 1 | true | true | true | true |
+| java-apigee-connect (success) | 0 | 0 | true | true | true | true |
+| java-apigee-registry (failure) | 0 | 1 | true | true | true | true |
+| java-apikeys (failure) | 0 | 2 | true | true | true | true |
+| java-appengine-admin (failure) | 0 | 2 | true | true | true | true |
+| java-area120-tables (success) | 0 | 0 | true | true | true | true |
+| java-artifact-registry (failure) | 0 | 1 | true | true | true | true |
+| java-asset (failure) | 0 | 9 | true | true | true | true |
+| java-assured-workloads (failure) | 0 | 2 | true | true | true | true |
+| java-automl (failure) | 0 | 1 | true | true | true | true |
+| java-bare-metal-solution (failure) | 0 | 2 | true | true | true | true |
+| java-batch (failure) | 0 | 1 | true | true | false | false |
+| java-beyondcorp-appconnections (failure) | 0 | 1 | true | true | false | false |
+| java-beyondcorp-appconnectors (failure) | 0 | 1 | true | true | false | false |
+| java-beyondcorp-appgateways (failure) | 0 | 3 | true | true | false | false |
+| java-beyondcorp-clientconnectorservices (failure) | 0 | 2 | true | true | false | false |
+| java-beyondcorp-clientgateways (failure) | 0 | 2 | true | true | false | false |
+| java-bigquery-data-exchange (failure) | 0 | 0 | true | true | false | false |
+| java-bigqueryconnection (failure) | 0 | 3 | true | true | false | false |
+| java-bigquerydatapolicy (failure) | 0 | 10 | true | true | true | false |
+| java-bigquerydatatransfer (failure) | 0 | 1 | true | true | false | false |
+| java-bigquerymigration (failure) | 0 | 0 | true | true | false | true |
+| java-bigqueryreservation (failure) | 0 | 2 | true | true | false | false |
+| java-billing (failure) | 0 | 1 | true | true | false | false |
+| java-billingbudgets (failure) | 0 | 1 | true | true | false | false |
+| java-binary-authorization (failure) | 0 | 1 | true | true | false | false |
+| java-certificate-manager (failure) | 0 | 1 | true | true | false | false |
+| java-channel (failure) | 0 | 1 | true | true | false | false |
+| java-cloudbuild (failure) | 0 | 2 | true | true | false | false |
+| java-cloudcommerceconsumerprocurement (failure) | 0 | 2 | true | true | false | false |
+| java-compute (failure) | 0 | 3 | true | true | false | false |
+| java-common-protos (failure) | 0 | 5 | true | true | false | false |
+| java-contact-center-insights (failure) | 0 | 1 | true | true | false | false |
+| java-container (failure) | 0 | 4 | true | true | false | false |
+| java-containeranalysis (failure) | 0 | 1 | true | true | false | false |
+| java-data-fusion (failure) | 0 | 1 | true | true | false | false |
+| java-datacatalog (failure) | 0 | 2 | true | true | false | false |
+| java-dataflow (failure) | 0 | 0 | true | true | false | false |
+| java-dataform (failure) | 0 | 1 | true | true | false | false |
+| java-datalabeling (failure) | 0 | 2 | true | true | false | false |
+| java-dataplex (failure) | 0 | 1 | true | true | false | false |
+| java-dataproc-metastore (failure) | 0 | 1 | true | true | false | false |
+| java-dataproc (failure) | 0 | 3 | true | true | false | false |
+| java-datastream (failure) | 0 | 1 | true | true | false | false |
+| java-debugger-client (failure) | 0 | 0 | true | true | false | false |
+| java-deploy (failure) | 0 | 2 | true | true | false | false |
+| java-dialogflow-cx (failure) | 0 | 0 | true | true | false | false |
+| java-dialogflow (failure) | 0 | 3 | true | true | false | false |
+| java-distributedcloudedge (failure) | 0 | 3 | true | true | false | false |
+| java-dlp (failure) | 0 | 2 | true | true | false | false |
+| java-dms (failure) | 0 | 1 | true | true | false | false |
+| java-dns (failure) | 0 | 1 | true | true | false | false |
+| java-document-ai (failure) | 0 | 1 | true | true | false | false |
+| java-domains (failure) | 0 | 2 | true | true | false | false |
+| java-errorreporting (failure) | 0 | 0 | true | true | false | false |
+| java-essential-contacts (failure) | 0 | 0 | true | true | false | false |
+| java-eventarc-publishing (failure) | 0 | 1 | true | true | false | false |
+| java-eventarc (failure) | 0 | 0 | true | true | false | false |
+| java-filestore (failure) | 0 | 0 | true | true | false | false |
+| java-functions (failure) | 0 | 2 | true | true | false | false |
+| java-game-servers (failure) | 0 | 2 | true | true | false | false |
+| java-gke-backup (failure) | 0 | 1 | true | true | false | false |
+| java-gke-connect-gateway (failure) | 0 | 1 | true | true | false | false |
+| java-gke-multi-cloud (failure) | 0 | 1 | true | true | false | false |
+| java-gkehub (failure) | 0 | 1 | true | true | false | false |
+| java-grafeas (failure) | 0 | 2 | true | true | false | false |
+| java-gsuite-addons (failure) | 0 | 0 | true | true | false | false |
+| java-iam-admin (failure) | 0 | 0 | true | true | false | false |
+| java-iam (failure) | 0 | 5 | true | true | false | false |
+| java-iamcredentials (failure) | 0 | 2 | true | true | false | false |
+| java-ids (failure) | 0 | 0 | true | true | false | false |
+| java-iot (failure) | 0 | 2 | true | true | false | false |
+| java-kms (failure) | 0 | 2 | true | true | false | false |
+| java-language (failure) | 0 | 1 | true | true | false | false |
+| java-life-sciences (failure) | 0 | 1 | true | true | false | false |
+| java-managed-identities (failure) | 0 | 1 | true | true | false | false |
+| java-mediatranslation (failure) | 0 | 2 | true | true | false | false |
+| java-memcache (failure) | 0 | 3 | true | true | false | false |
+| java-monitoring-dashboards (failure) | 0 | 2 | true | true | false | false |
+| java-monitoring (failure) | 0 | 5 | true | true | false | false |
+| java-network-management (failure) | 0 | 2 | true | true | false | false |
+| java-network-security (failure) | 0 | 2 | true | true | false | false |
+| java-networkconnectivity (failure) | 0 | 2 | true | true | false | false |
+| java-notebooks (failure) | 0 | 2 | true | true | false | false |
+| java-notification (failure) | 0 | 11 | true | true | false | false |
+| java-optimization (failure) | 0 | 2 | true | true | false | false |
+| java-orchestration-airflow (failure) | 0 | 3 | true | true | false | false |
+| java-orgpolicy (failure) | 0 | 3 | true | true | false | false |
+| java-os-config (failure) | 0 | 3 | true | true | false | false |
+| java-os-login (failure) | 0 | 3 | true | true | false | false |
+| java-phishingprotection (failure) | 0 | 2 | true | true | false | false |
+| java-policy-troubleshooter (failure) | 0 | 2 | true | true | false | false |
+| java-private-catalog (failure) | 0 | 2 | true | true | false | false |
+| java-profiler (failure) | 0 | 2 | true | true | false | false |
+| java-recaptchaenterprise (failure) | 0 | 3 | true | true | false | false |
+| java-recommendations-ai (failure) | 0 | 2 | true | true | false | false |
+| java-recommender (failure) | 0 | 3 | true | true | false | false |
+| java-redis (failure) | 0 | 3 | true | true | false | false |
+| java-resource-settings (failure) | 0 | 1 | true | true | false | false |
+| java-resourcemanager (failure) | 0 | 4 | true | true | false | false |
+| java-retail (failure) | 0 | 4 | true | true | false | false |
+| java-run (failure) | 0 | 2 | true | true | false | false |
+| java-scheduler (failure) | 0 | 3 | true | true | false | false |
+| java-secretmanager (failure) | 0 | 3 | true | true | false | false |
+| java-security-private-ca (failure) | 0 | 1 | true | true | false | false |
+| java-securitycenter-settings (failure) | 0 | 2 | true | true | false | false |
+| java-securitycenter (failure) | 0 | 4 | true | true | false | false |
+| java-service-control (failure) | 0 | 2 | true | true | false | false |
+| java-service-management (failure) | 0 | 2 | true | true | false | false |
+| java-service-usage (failure) | 0 | 3 | true | true | false | false |
+| java-servicedirectory (failure) | 0 | 3 | true | true | false | false |
+| java-shared-dependencies (failure) | 0 | 13 | true | true | false | false |
+| java-shell (failure) | 0 | 1 | true | true | false | false |
+| java-speech (failure) | 0 | 2 | true | true | false | false |
+| java-storage-transfer (failure) | 0 | 2 | true | true | false | false |
+| java-talent (failure) | 0 | 3 | true | true | false | false |
+| java-tasks (failure) | 0 | 4 | true | true | false | false |
+| java-texttospeech (failure) | 0 | 3 | true | true | false | false |
+| java-tpu (failure) | 0 | 1 | true | true | false | false |
+| java-trace (failure) | 0 | 4 | true | true | false | false |
+| java-translate (failure) | 0 | 3 | true | true | false | false |
+| java-video-intelligence (failure) | 0 | 3 | true | true | false | false |
+| java-video-live-stream (failure) | 0 | 2 | true | true | false | false |
+| java-video-stitcher (failure) | 0 | 3 | true | true | false | false |
+| java-video-transcoder (failure) | 0 | 2 | true | true | false | false |
+| java-vision (failure) | 0 | 3 | true | true | false | false |
+| java-vmmigration (failure) | 0 | 2 | true | true | false | false |
+| java-vpcaccess (failure) | 0 | 1 | true | true | false | false |
+| java-webrisk (failure) | 0 | 3 | true | true | false | false |
+| java-websecurityscanner (failure) | 0 | 2 | true | true | false | false |
+| java-workflow-executions (failure) | 0 | 2 | true | true | false | false |
+| java-workflows (failure) | 0 | 0 | true | true | false | false |
