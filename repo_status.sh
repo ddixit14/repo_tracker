@@ -115,7 +115,7 @@ line3="- Zero pull requests: $open_pr_stat_count repos"
 line4="- README.md updated $readme_stat_count repos"
 line5="- About updated $about_stat_count repos"
 line6="- Code Deleted $code_deleted_stat_count repos"
-line7="Repositories with desirable state:$desired_count/$total_count"
+line7="Repositories with desirable state : $desired_count/$total_count"
 echo "$line1" >> $temp_file
 echo "$line2" >> $temp_file
 echo "$line3" >> $temp_file
