@@ -1,129 +1,130 @@
+0 out of 126 repositories archived successfully.
 # python
-| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Public Archived | Code Deleted |
+| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| python-access-approval | 0 | 0 | true | false | true |  |
-| python-access-context-manager | 2 | 0 | false | false | false |  |
-| python-analytics-admin | 3 | 2 | false | false | false |  |
-| python-analytics-data | 13 | 2 | false | false | false |  |
-| python-api-gateway | 0 | 0 | true | false | true |  |
-| python-apigee-connect | 0 | 0 | true | false | true |  |
-| python-apigee-registry | 0 | 0 | true | false | true |  |
-| python-api-keys | 0 | 0 | true | false | true |  |
-| python-appengine-admin | 0 | 1 | false | false | false |  |
-| python-area120-tables | 0 | 0 | true | false | true |  |
-| python-artifact-registry | 0 | 0 | true | false | true |  |
-| python-asset | 0 | 2 | false | false | false |  |
-| python-assured-workloads | 0 | 2 | false | false | false |  |
-| python-bare-metal-solution | 0 | 0 | true | false | true |  |
-| python-batch | 0 | 1 | false | false | false |  |
-| python-beyondcorp-appconnections | 0 | 0 | true | false | true |  |
-| python-beyondcorp-appconnectors | 0 | 0 | true | false | true |  |
-| python-beyondcorp-appgateways | 0 | 0 | true | false | true |  |
-| python-beyondcorp-clientconnectorservices | 0 | 0 | true | false | true |  |
-| python-beyondcorp-clientgateways | 0 | 0 | true | false | true |  |
-| python-bigquery-analyticshub | 0 | 0 | true | false | true |  |
-| python-bigquery-connection | 0 | 2 | false | false | false |  |
-| python-bigquery-data-exchange | 0 | 0 | true | false | true |  |
-| python-bigquery-datapolicies | 0 | 0 | true | false | true |  |
-| python-bigquery-datatransfer | 0 | 2 | false | false | false |  |
-| python-bigquery-migration | 1 | 3 | false | false | false |  |
-| python-bigquery-reservation | 0 | 3 | false | false | false |  |
-| python-billing | 0 | 0 | true | false | true |  |
-| python-billingbudgets | 0 | 0 | true | false | true |  |
-| python-binary-authorization | 0 | 1 | false | false | false |  |
-| python-certificate-manager | 0 | 0 | true | false | true |  |
-| python-channel | 0 | 0 | true | false | true |  |
-| python-cloudbuild | 0 | 1 | false | false | false |  |
-| python-compute | 3 | 1 | false | false | false |  |
-| python-contact-center-insights | 0 | 0 | true | false | true |  |
-| python-container | 0 | 1 | false | false | false |  |
-| python-containeranalysis | 0 | 1 | false | false | false |  |
-| python-datacatalog | 0 | 0 | true | false | true |  |
-| python-dataflow-client | 0 | 1 | false | false | false |  |
-| python-dataform | 0 | 0 | true | false | true |  |
-| python-data-fusion | 0 | 0 | true | false | true |  |
-| python-datalabeling | 0 | 0 | true | false | true |  |
-| python-dataplex | 0 | 0 | true | false | true |  |
-| python-dataproc | 1 | 2 | false | false | false |  |
-| python-dataproc-metastore | 0 | 0 | true | false | true |  |
-| python-data-qna | 0 | 0 | true | false | true |  |
-| python-datastream | 0 | 0 | true | false | true |  |
-| python-debugger-client | 0 | 1 | false | false | false |  |
-| python-deploy | 0 | 0 | true | false | true |  |
-| python-dialogflow | 0 | 1 | false | false | false |  |
-| python-dialogflow-cx | 0 | 2 | false | false | false |  |
-| python-dlp | 0 | 1 | false | false | false |  |
-| python-dms | 0 | 0 | true | false | true |  |
-| python-documentai | 0 | 0 | true | false | true |  |
-| python-domains | 0 | 0 | true | false | true |  |
-| python-edgecontainer | 0 | 0 | true | false | true |  |
-| python-essential-contacts | 0 | 0 | true | false | true |  |
-| python-eventarc | 0 | 0 | true | false | true |  |
-| python-eventarc-publishing | 0 | 0 | true | false | true |  |
-| python-filestore | 0 | 1 | false | false | false |  |
-| python-functions | 0 | 0 | true | false | true |  |
-| python-game-servers | 0 | 1 | false | false | false |  |
-| python-gke-backup | 0 | 1 | false | false | false |  |
-| python-gke-connect-gateway | 1 | 2 | true | false | false |  |
-| python-gke-hub | 0 | 1 | false | false | false |  |
-| python-gke-multicloud | 0 | 0 | true | false | true |  |
-| python-grpc-google-iam-v1 | 2 | 1 | false | false | false |  |
-| python-gsuiteaddons | 0 | 1 | false | false | false |  |
-| python-iam | 3 | 1 | false | false | false |  |
-| python-iap | 1 | 0 | true | false | true |  |
-| python-ids | 0 | 0 | true | false | true |  |
-| python-iot | 0 | 2 | false | false | false |  |
-| python-kms | 0 | 1 | false | false | false |  |
-| python-language | 0 | 1 | false | false | false |  |
-| python-life-sciences | 0 | 0 | true | false | true |  |
-| python-managed-identities | 0 | 0 | true | false | true |  |
-| python-media-translation | 0 | 0 | true | false | true |  |
-| python-memcache | 0 | 0 | true | false | true |  |
-| python-monitoring-dashboards | 2 | 1 | false | false | false |  |
-| python-monitoring-metrics-scopes | 0 | 0 | true | false | true |  |
-| python-network-connectivity | 0 | 0 | true | false | true |  |
-| python-network-management | 0 | 0 | true | false | true |  |
-| python-network-security | 0 | 0 | true | false | true |  |
-| python-network-services | 0 | 1 | false | false | false |  |
-| python-notebooks | 0 | 0 | true | false | true |  |
-| python-optimization | 0 | 1 | false | false | false |  |
-| python-orchestration-airflow | 0 | 0 | true | false | true |  |
-| python-org-policy | 1 | 1 | false | false | false |  |
-| python-os-config | 0 | 1 | false | false | false |  |
-| python-oslogin | 0 | 2 | false | false | false |  |
-| python-phishingprotection | 0 | 0 | true | false | true |  |
-| python-policy-troubleshooter | 0 | 0 | true | false | true |  |
-| python-private-catalog | 0 | 0 | true | false | true |  |
-| python-recaptcha-enterprise | 0 | 0 | true | false | true |  |
-| python-recommendations-ai | 0 | 0 | true | false | true |  |
-| python-recommender | 0 | 0 | true | false | true |  |
-| python-redis | 0 | 0 | true | false | true |  |
-| python-resource-manager | 0 | 0 | true | false | true |  |
-| python-resource-settings | 0 | 0 | true | false | true |  |
-| python-retail | 0 | 2 | false | false | false |  |
-| python-run | 0 | 1 | false | false | false |  |
-| python-scheduler | 0 | 1 | false | false | false |  |
-| python-secret-manager | 0 | 0 | true | false | true |  |
-| python-securitycenter | 0 | 0 | true | false | true |  |
-| python-security-private-ca | 0 | 0 | true | false | true |  |
-| python-security-public-ca | 0 | 0 | true | false | true |  |
-| python-service-control | 0 | 0 | true | false | true |  |
-| python-service-directory | 0 | 0 | true | false | true |  |
-| python-service-management | 1 | 1 | false | false | false |  |
-| python-service-usage | 0 | 0 | true | false | true |  |
-| python-shell | 0 | 0 | true | false | true |  |
-| python-storage-transfer | 0 | 1 | false | false | false |  |
-| python-talent | 0 | 0 | true | false | true |  |
-| python-tasks | 0 | 1 | false | false | false |  |
-| python-texttospeech | 2 | 1 | false | false | false |  |
-| python-tpu | 0 | 0 | true | false | true |  |
-| python-trace | 0 | 1 | false | false | false |  |
-| python-videointelligence | 3 | 2 | false | false | false |  |
-| python-video-live-stream | 0 | 2 | false | false | false |  |
-| python-video-stitcher | 0 | 2 | false | false | false |  |
-| python-video-transcoder | 0 | 2 | false | false | false |  |
-| python-vm-migration | 0 | 0 | true | false | true |  |
-| python-vpc-access | 0 | 0 | true | false | true |  |
-| python-webrisk | 0 | 0 | true | false | true |  |
-| python-websecurityscanner | 0 | 0 | true | false | true |  |
-| python-workflows | 0 | 1 | false | false | false |  |
+| python-access-approval (failure) | 0 | 0 | true | false |  | true |
+| python-access-context-manager (failure) | 2 | 0 | false | false |  | false |
+| python-analytics-admin (failure) | 3 | 0 | false | false |  | false |
+| python-analytics-data (failure) | 13 | 0 | false | false |  | false |
+| python-api-gateway (failure) | 0 | 0 | true | false |  | true |
+| python-apigee-connect (failure) | 0 | 0 | true | false |  | true |
+| python-apigee-registry (failure) | 0 | 0 | true | false |  | true |
+| python-api-keys (failure) | 0 | 0 | true | false |  | true |
+| python-appengine-admin (failure) | 0 | 0 | false | false |  | false |
+| python-area120-tables (failure) | 0 | 0 | true | false |  | true |
+| python-artifact-registry (failure) | 0 | 0 | true | false |  | true |
+| python-asset (failure) | 0 | 1 | false | false |  | false |
+| python-assured-workloads (failure) | 0 | 1 | false | false |  | false |
+| python-bare-metal-solution (failure) | 0 | 0 | true | false |  | true |
+| python-batch (failure) | 0 | 0 | false | false |  | false |
+| python-beyondcorp-appconnections (failure) | 0 | 0 | true | false |  | true |
+| python-beyondcorp-appconnectors (failure) | 0 | 0 | true | false |  | true |
+| python-beyondcorp-appgateways (failure) | 0 | 0 | true | false |  | true |
+| python-beyondcorp-clientconnectorservices (failure) | 0 | 0 | true | false |  | true |
+| python-beyondcorp-clientgateways (failure) | 0 | 0 | true | false |  | true |
+| python-bigquery-analyticshub (failure) | 0 | 0 | true | false |  | true |
+| python-bigquery-connection (failure) | 0 | 0 | false | false |  | false |
+| python-bigquery-data-exchange (failure) | 0 | 0 | true | false |  | true |
+| python-bigquery-datapolicies (failure) | 0 | 0 | true | false |  | true |
+| python-bigquery-datatransfer (failure) | 0 | 0 | false | false |  | false |
+| python-bigquery-migration (failure) | 1 | 1 | false | false |  | false |
+| python-bigquery-reservation (failure) | 0 | 2 | false | false |  | false |
+| python-billing (failure) | 0 | 0 | true | false |  | true |
+| python-billingbudgets (failure) | 0 | 0 | true | false |  | true |
+| python-binary-authorization (failure) | 0 | 0 | false | false |  | false |
+| python-certificate-manager (failure) | 0 | 0 | true | false |  | true |
+| python-channel (failure) | 0 | 0 | true | false |  | true |
+| python-cloudbuild (failure) | 0 | 0 | false | false |  | false |
+| python-compute (failure) | 3 | 1 | false | false |  | false |
+| python-contact-center-insights (failure) | 0 | 0 | true | false |  | true |
+| python-container (failure) | 0 | 0 | false | false |  | false |
+| python-containeranalysis (failure) | 0 | 0 | false | false |  | false |
+| python-datacatalog (failure) | 0 | 0 | true | false |  | true |
+| python-dataflow-client (failure) | 0 | 0 | false | false |  | false |
+| python-dataform (failure) | 0 | 0 | true | false |  | true |
+| python-data-fusion (failure) | 0 | 0 | true | false |  | true |
+| python-datalabeling (failure) | 0 | 0 | true | false |  | true |
+| python-dataplex (failure) | 0 | 0 | true | false |  | true |
+| python-dataproc (failure) | 1 | 1 | false | false |  | false |
+| python-dataproc-metastore (failure) | 0 | 0 | true | false |  | true |
+| python-data-qna (failure) | 0 | 0 | true | false |  | true |
+| python-datastream (failure) | 0 | 0 | true | false |  | true |
+| python-debugger-client (failure) | 0 | 1 | false | false |  | false |
+| python-deploy (failure) | 0 | 0 | true | false |  | true |
+| python-dialogflow (failure) | 0 | 0 | false | false |  | false |
+| python-dialogflow-cx (failure) | 0 | 1 | false | false |  | false |
+| python-dlp (failure) | 0 | 0 | false | false |  | false |
+| python-dms (failure) | 0 | 0 | true | false |  | true |
+| python-documentai (failure) | 0 | 0 | true | false |  | true |
+| python-domains (failure) | 0 | 0 | true | false |  | true |
+| python-edgecontainer (failure) | 0 | 0 | true | false |  | true |
+| python-essential-contacts (failure) | 0 | 0 | true | false |  | true |
+| python-eventarc (failure) | 0 | 0 | true | false |  | true |
+| python-eventarc-publishing (failure) | 0 | 0 | true | false |  | true |
+| python-filestore (failure) | 0 | 0 | false | false |  | false |
+| python-functions (failure) | 0 | 0 | true | false |  | true |
+| python-game-servers (failure) | 0 | 0 | false | false |  | false |
+| python-gke-backup (failure) | 0 | 0 | false | false |  | false |
+| python-gke-connect-gateway (failure) | 1 | 2 | true | false |  | false |
+| python-gke-hub (failure) | 0 | 0 | false | false |  | false |
+| python-gke-multicloud (failure) | 0 | 0 | true | false |  | true |
+| python-grpc-google-iam-v1 (failure) | 2 | 1 | false | false |  | false |
+| python-gsuiteaddons (failure) | 0 | 0 | false | false |  | false |
+| python-iam (failure) | 3 | 0 | false | false |  | false |
+| python-iap (failure) | 1 | 0 | true | false |  | true |
+| python-ids (failure) | 0 | 0 | true | false |  | true |
+| python-iot (failure) | 0 | 1 | false | false |  | false |
+| python-kms (failure) | 0 | 0 | false | false |  | false |
+| python-language (failure) | 0 | 0 | false | false |  | false |
+| python-life-sciences (failure) | 0 | 0 | true | false |  | true |
+| python-managed-identities (failure) | 0 | 0 | true | false |  | true |
+| python-media-translation (failure) | 0 | 0 | true | false |  | true |
+| python-memcache (failure) | 0 | 0 | true | false |  | true |
+| python-monitoring-dashboards (failure) | 2 | 0 | false | false |  | false |
+| python-monitoring-metrics-scopes (failure) | 0 | 0 | true | false |  | true |
+| python-network-connectivity (failure) | 0 | 0 | true | false |  | true |
+| python-network-management (failure) | 0 | 0 | true | false |  | true |
+| python-network-security (failure) | 0 | 0 | true | false |  | true |
+| python-network-services (failure) | 0 | 0 | false | false |  | false |
+| python-notebooks (failure) | 0 | 0 | true | false |  | true |
+| python-optimization (failure) | 0 | 0 | false | false |  | false |
+| python-orchestration-airflow (failure) | 0 | 0 | true | false |  | true |
+| python-org-policy (failure) | 1 | 0 | false | false |  | false |
+| python-os-config (failure) | 0 | 0 | false | false |  | false |
+| python-oslogin (failure) | 0 | 2 | false | false |  | false |
+| python-phishingprotection (failure) | 0 | 0 | true | false |  | true |
+| python-policy-troubleshooter (failure) | 0 | 0 | true | false |  | true |
+| python-private-catalog (failure) | 0 | 0 | true | false |  | true |
+| python-recaptcha-enterprise (failure) | 0 | 0 | true | false |  | true |
+| python-recommendations-ai (failure) | 0 | 0 | true | false |  | true |
+| python-recommender (failure) | 0 | 0 | true | false |  | true |
+| python-redis (failure) | 0 | 0 | true | false |  | true |
+| python-resource-manager (failure) | 0 | 0 | true | false |  | true |
+| python-resource-settings (failure) | 0 | 0 | true | false |  | true |
+| python-retail (failure) | 0 | 1 | false | false |  | false |
+| python-run (failure) | 0 | 0 | false | false |  | false |
+| python-scheduler (failure) | 0 | 0 | false | false |  | false |
+| python-secret-manager (failure) | 0 | 0 | true | false |  | true |
+| python-securitycenter (failure) | 0 | 0 | true | false |  | true |
+| python-security-private-ca (failure) | 0 | 0 | true | false |  | true |
+| python-security-public-ca (failure) | 0 | 0 | true | false |  | true |
+| python-service-control (failure) | 0 | 0 | true | false |  | true |
+| python-service-directory (failure) | 0 | 0 | true | false |  | true |
+| python-service-management (failure) | 1 | 1 | false | false |  | false |
+| python-service-usage (failure) | 0 | 0 | true | false |  | true |
+| python-shell (failure) | 0 | 0 | true | false |  | true |
+| python-storage-transfer (failure) | 0 | 0 | false | false |  | false |
+| python-talent (failure) | 0 | 0 | true | false |  | true |
+| python-tasks (failure) | 0 | 0 | false | false |  | false |
+| python-texttospeech (failure) | 2 | 1 | false | false |  | false |
+| python-tpu (failure) | 0 | 0 | true | false |  | true |
+| python-trace (failure) | 0 | 0 | false | false |  | false |
+| python-videointelligence (failure) | 3 | 1 | false | false |  | false |
+| python-video-live-stream (failure) | 0 | 0 | false | false |  | false |
+| python-video-stitcher (failure) | 0 | 0 | false | false |  | false |
+| python-video-transcoder (failure) | 0 | 0 | false | false |  | false |
+| python-vm-migration (failure) | 0 | 0 | true | false |  | true |
+| python-vpc-access (failure) | 0 | 0 | true | false |  | true |
+| python-webrisk (failure) | 0 | 0 | true | false |  | true |
+| python-websecurityscanner (failure) | 0 | 0 | true | false |  | true |
+| python-workflows (failure) | 0 | 0 | false | false |  | false |
