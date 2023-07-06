@@ -5,7 +5,6 @@ Repositories with desirable state:0/126
 - About updated 0 repos
 - Code Deleted 75 repos
   
-Repositories with desirable state:0/126
 # python
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
