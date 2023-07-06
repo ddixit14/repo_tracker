@@ -1,0 +1,4 @@
+.repo-metadata.json
+LICENSE
+README.rst
+SECURITY.md

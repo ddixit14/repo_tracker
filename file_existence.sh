@@ -2,6 +2,7 @@
 
 set -e
 repo=$1
+language=$2
 
 response=$(gh api "/repos/googleapis/$repo/git/trees/main?recursive=true" -q '.tree[]|.path')
 
@@ -12,7 +13,15 @@ done
 sort -o files_in_repo.txt files_in_repo.txt
 
 file_1=files_in_repo.txt
-file_2=expected-files-java.txt
+
+if [[ "$language" == "java" ]] ; then
+  file_2=expected-files-java.txt
+  elif [[ "$language" == "nodejs" ]] ; then
+    file_2=expected-files-nodejs.txt
+  elif [[ "$language" == "python" ]] ; then
+    file_2=expected-files-python.txt
+fi
+
 # Read the contents of the first file
 contents_1=$(cat $file_1)
 #echo "files in repo are:" $contents_1
