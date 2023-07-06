@@ -1,10 +1,10 @@
 Repositories with desirable state:0/126
 - Zero open issues: 112 repos
-- Zero pull requests: 111 repos
-- README.md updated 75 repos
-- About updated 0 repos
-- Code Deleted 75 repos
-  
+- Zero pull requests: 110 repos
+- README.md updated: 75 repos
+- About updated: 0 repos
+- Code Deleted: 75 repos
+- Public Archived: 75 repos
 # python
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
@@ -108,7 +108,7 @@ Repositories with desirable state:0/126
 | python-resource-manager (failure) |        0 |        0 | true | false | true | true |
 | python-resource-settings (failure) |        0 |        0 | true | false | true | true |
 | python-retail (failure) |        0 |        0 | false | false | false | false |
-| python-run (failure) |        0 |        0 | false | false | false | false |
+| python-run (failure) |        0 |        1 | false | false | false | false |
 | python-scheduler (failure) |        0 |        0 | false | false | false | false |
 | python-secret-manager (failure) |        0 |        0 | true | false | true | true |
 | python-securitycenter (failure) |        0 |        0 | true | false | true | true |
