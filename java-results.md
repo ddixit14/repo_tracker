@@ -1,10 +1,10 @@
 Repositories with desirable state:2/139
 - Zero open issues: 135 repos
 - Zero pull requests: 17 repos
-- README.md updated 139 repos
-- About updated 139 repos
-- Code Deleted 122 repos
-
+- README.md updated: 139 repos
+- About updated: 139 repos
+- Code Deleted: 122 repos
+- Public Archived: 16 repos
 # java
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
