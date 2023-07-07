@@ -23,7 +23,7 @@ desired_count=0
 filename="$language-results.md"
 
 # Define the column headers
-echo "# $language" > $language-results.md
+echo "### Repository state" > $language-results.md
 echo "| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |" >> $language-results.md
 echo "|------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|" >> $language-results.md
 
@@ -117,6 +117,7 @@ line5="- About updated: $about_stat_count repos"
 line6="- Code Deleted: $code_deleted_stat_count repos"
 line7="- Public Archived: $archived_stat_count repos"
 
+echo "# $language" >> $temp_file
 echo "$line1" >> $temp_file
 echo "$line2" >> $temp_file
 echo "$line3" >> $temp_file
