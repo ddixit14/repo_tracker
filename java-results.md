@@ -1,11 +1,12 @@
+# java
 Repositories with desirable state:2/139
-- Zero open issues: 135 repos
+- Zero open issues: 136 repos
 - Zero pull requests: 17 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Code Deleted: 122 repos
 - Public Archived: 16 repos
-# java
+### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | api-common-java (failure) | 0 | 3 | true | true | false | false |
@@ -126,11 +127,11 @@ Repositories with desirable state:2/139
 | java-service-management (failure) | 0 | 2 | true | true | true | false |
 | java-service-usage (failure) | 0 | 3 | true | true | true | false |
 | java-servicedirectory (failure) | 0 | 3 | true | true | true | false |
-| java-shared-dependencies (failure) | 1 | 13 | true | true | false | false |
+| java-shared-dependencies (failure) | 0 | 13 | true | true | false | false |
 | java-shell (failure) | 0 | 1 | true | true | true | false |
 | java-speech (failure) | 0 | 2 | true | true | true | false |
 | java-storage-transfer (failure) | 0 | 2 | true | true | true | false |
-| java-talent (failure) | 1 | 3 | true | true | true | false |
+| java-talent (failure) | 2 | 3 | true | true | true | false |
 | java-tasks (failure) | 0 | 4 | true | true | true | false |
 | java-texttospeech (failure) | 0 | 3 | true | true | true | false |
 | java-tpu (failure) | 0 | 1 | true | true | true | false |
