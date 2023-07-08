@@ -1,3 +1,4 @@
+# nodejs
 Repositories with desirable state:0/113
 - Zero open issues: 111 repos
 - Zero pull requests: 111 repos
@@ -5,7 +6,7 @@ Repositories with desirable state:0/113
 - About updated: 0 repos
 - Code Deleted: 0 repos
 - Public Archived: 111 repos
-# nodejs
+### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | nodejs-vision (failure) | 0 | 0 | true | false | false | true |
@@ -15,7 +16,7 @@ Repositories with desirable state:0/113
 | nodejs-tasks (failure) | 0 | 0 | true | false | false | true |
 | nodejs-speech (failure) | 0 | 0 | true | false | false | true |
 | nodejs-redis (failure) | 0 | 0 | true | false | false | true |
-| nodejs-pubsub (failure) | 22 | 4 | false | false | false | false |
+| nodejs-pubsub (failure) | 21 | 1 | false | false | false | false |
 | nodejs-os-login (failure) | 0 | 0 | true | false | false | true |
 | nodejs-monitoring (failure) | 0 | 0 | true | false | false | true |
 | nodejs-language (failure) | 0 | 0 | true | false | false | true |
