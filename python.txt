@@ -59,7 +59,6 @@ python-eventarc
 python-eventarc-publishing
 python-filestore
 python-functions
-python-game-servers
 python-gke-backup
 python-gke-connect-gateway
 python-gke-hub
