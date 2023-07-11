@@ -16,7 +16,7 @@ Repositories with desirable state:0/113
 | nodejs-tasks (failure) | 0 | 0 | true | false | false | true |
 | nodejs-speech (failure) | 0 | 0 | true | false | false | true |
 | nodejs-redis (failure) | 0 | 0 | true | false | false | true |
-| nodejs-pubsub (failure) | 21 | 1 | false | false | false | false |
+| nodejs-pubsub (failure) | 21 | 2 | false | false | false | false |
 | nodejs-os-login (failure) | 0 | 0 | true | false | false | true |
 | nodejs-monitoring (failure) | 0 | 0 | true | false | false | true |
 | nodejs-language (failure) | 0 | 0 | true | false | false | true |
