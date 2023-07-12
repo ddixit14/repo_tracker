@@ -1,6 +1,6 @@
 # java
 Repositories with desirable state:5/139
-- Zero open issues: 135 repos
+- Zero open issues: 136 repos
 - Zero pull requests: 127 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
@@ -127,7 +127,7 @@ Repositories with desirable state:5/139
 | java-service-management (failure) | 0 | 0 | true | true | true | false |
 | java-service-usage (failure) | 0 | 0 | true | true | true | false |
 | java-servicedirectory (failure) | 0 | 0 | true | true | true | false |
-| java-shared-dependencies (failure) | 1 | 0 | true | true | false | false |
+| java-shared-dependencies (failure) | 0 | 0 | true | true | false | false |
 | java-shell (failure) | 0 | 0 | true | true | true | false |
 | java-speech (failure) | 0 | 0 | true | true | true | false |
 | java-storage-transfer (failure) | 0 | 0 | true | true | true | false |
