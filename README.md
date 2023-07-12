@@ -1,6 +1,6 @@
 # java
 Repositories with desirable state:5/139
-- Zero open issues: 135 repos
+- Zero open issues: 136 repos
 - Zero pull requests: 127 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
@@ -127,7 +127,7 @@ Repositories with desirable state:5/139
 | java-service-management (failure) | 0 | 0 | true | true | true | false |
 | java-service-usage (failure) | 0 | 0 | true | true | true | false |
 | java-servicedirectory (failure) | 0 | 0 | true | true | true | false |
-| java-shared-dependencies (failure) | 1 | 0 | true | true | false | false |
+| java-shared-dependencies (failure) | 0 | 0 | true | true | false | false |
 | java-shell (failure) | 0 | 0 | true | true | true | false |
 | java-speech (failure) | 0 | 0 | true | true | true | false |
 | java-storage-transfer (failure) | 0 | 0 | true | true | true | false |
@@ -315,8 +315,8 @@ Repositories with desirable state:78/125
 | python-binary-authorization (failure) | 0 | 0 | false | false | false | false |
 | python-certificate-manager (success) | 0 | 0 | true | true | true | true |
 | python-channel (success) | 0 | 0 | true | true | true | true |
-| python-cloudbuild (failure) | 0 | 0 | false | false | false | false |
-| python-compute (failure) | 3 | 1 | false | false | false | false |
+| python-cloudbuild (failure) | 0 | 1 | false | false | false | false |
+| python-compute (failure) | 3 | 0 | false | false | false | false |
 | python-contact-center-insights (success) | 0 | 0 | true | true | true | true |
 | python-container (failure) | 0 | 1 | false | false | false | false |
 | python-containeranalysis (failure) | 0 | 0 | false | false | false | false |
@@ -333,7 +333,7 @@ Repositories with desirable state:78/125
 | python-debugger-client (failure) | 0 | 0 | false | false | false | false |
 | python-deploy (success) | 0 | 0 | true | true | true | true |
 | python-dialogflow (failure) | 0 | 0 | false | false | false | false |
-| python-dialogflow-cx (failure) | 0 | 2 | false | false | false | false |
+| python-dialogflow-cx (failure) | 0 | 1 | false | false | false | false |
 | python-dlp (failure) | 0 | 0 | false | false | false | false |
 | python-dms (success) | 0 | 0 | true | true | true | true |
 | python-documentai (success) | 0 | 0 | true | true | true | true |
@@ -353,7 +353,7 @@ Repositories with desirable state:78/125
 | python-iam (failure) | 3 | 0 | false | false | false | false |
 | python-iap (success) | 0 | 0 | true | true | true | true |
 | python-ids (success) | 0 | 0 | true | true | true | true |
-| python-iot (failure) | 0 | 0 | false | false | false | false |
+| python-iot (failure) | 0 | 1 | false | false | false | false |
 | python-kms (failure) | 0 | 0 | false | false | false | false |
 | python-language (success) | 0 | 0 | true | true | true | true |
 | python-life-sciences (success) | 0 | 0 | true | true | true | true |
@@ -402,7 +402,7 @@ Repositories with desirable state:78/125
 | python-videointelligence (failure) | 3 | 1 | false | false | false | false |
 | python-video-live-stream (failure) | 0 | 1 | false | false | false | false |
 | python-video-stitcher (failure) | 0 | 0 | false | false | false | false |
-| python-video-transcoder (failure) | 0 | 1 | false | false | false | false |
+| python-video-transcoder (failure) | 0 | 0 | false | false | false | false |
 | python-vm-migration (success) | 0 | 0 | true | true | true | true |
 | python-vpc-access (success) | 0 | 0 | true | true | true | true |
 | python-webrisk (success) | 0 | 0 | true | true | true | true |
