@@ -1,10 +1,10 @@
 # java
-Repositories with desirable state:5/139
+Repositories with desirable state:6/139
 - Zero open issues: 136 repos
-- Zero pull requests: 127 repos
+- Zero pull requests: 129 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Code Deleted: 122 repos
+- Code Deleted: 123 repos
 - Public Archived: 8 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
@@ -12,7 +12,7 @@ Repositories with desirable state:5/139
 | api-common-java (failure) | 0 | 0 | true | true | false | false |
 | gax-java (failure) | 2 | 0 | true | true | false | true |
 | java-accessapproval (failure) | 0 | 0 | true | true | false | false |
-| java-accesscontextmanager (failure) | 2 | 0 | true | true | true | true |
+| java-accesscontextmanager (success) | 0 | 0 | true | true | true | true |
 | java-aiplatform (success) | 0 | 0 | true | true | true | true |
 | java-analytics-admin (success) | 0 | 0 | true | true | true | true |
 | java-analytics-data (success) | 0 | 0 | true | true | true | true |
@@ -23,7 +23,7 @@ Repositories with desirable state:5/139
 | java-appengine-admin (failure) | 0 | 0 | true | true | true | false |
 | java-area120-tables (success) | 0 | 0 | true | true | true | true |
 | java-artifact-registry (failure) | 0 | 0 | true | true | true | false |
-| java-asset (failure) | 0 | 1 | true | true | true | false |
+| java-asset (failure) | 0 | 0 | true | true | true | false |
 | java-assured-workloads (failure) | 0 | 0 | true | true | true | false |
 | java-automl (failure) | 0 | 0 | true | true | true | false |
 | java-bare-metal-solution (failure) | 0 | 0 | true | true | true | false |
@@ -58,7 +58,7 @@ Repositories with desirable state:5/139
 | java-datalabeling (failure) | 0 | 0 | true | true | true | false |
 | java-dataplex (failure) | 0 | 0 | true | true | false | false |
 | java-dataproc-metastore (failure) | 0 | 0 | true | true | true | false |
-| java-dataproc (failure) | 0 | 1 | true | true | true | false |
+| java-dataproc (failure) | 0 | 0 | true | true | true | false |
 | java-datastream (failure) | 0 | 0 | true | true | true | false |
 | java-debugger-client (failure) | 0 | 0 | true | true | true | false |
 | java-deploy (failure) | 0 | 0 | true | true | true | false |
@@ -127,7 +127,7 @@ Repositories with desirable state:5/139
 | java-service-management (failure) | 0 | 0 | true | true | true | false |
 | java-service-usage (failure) | 0 | 0 | true | true | true | false |
 | java-servicedirectory (failure) | 0 | 0 | true | true | true | false |
-| java-shared-dependencies (failure) | 0 | 0 | true | true | false | false |
+| java-shared-dependencies (failure) | 1 | 0 | true | true | false | false |
 | java-shell (failure) | 0 | 0 | true | true | true | false |
 | java-speech (failure) | 0 | 0 | true | true | true | false |
 | java-storage-transfer (failure) | 0 | 0 | true | true | true | false |
@@ -135,7 +135,7 @@ Repositories with desirable state:5/139
 | java-tasks (failure) | 0 | 0 | true | true | true | false |
 | java-texttospeech (failure) | 0 | 0 | true | true | true | false |
 | java-tpu (failure) | 0 | 0 | true | true | true | false |
-| java-trace (failure) | 0 | 3 | true | true | false | false |
+| java-trace (failure) | 0 | 1 | true | true | true | false |
 | java-translate (failure) | 0 | 0 | true | true | true | false |
 | java-video-intelligence (failure) | 0 | 0 | true | true | true | false |
 | java-video-live-stream (failure) | 0 | 0 | true | true | true | false |
