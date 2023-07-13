@@ -1,6 +1,6 @@
 # python
 Repositories with desirable state:78/125
-- Zero open issues: 112 repos
+- Zero open issues: 111 repos
 - Zero pull requests: 109 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
@@ -12,7 +12,7 @@ Repositories with desirable state:78/125
 | python-access-approval (success) | 0 | 0 | true | true | true | true |
 | python-access-context-manager (failure) | 2 | 0 | false | false | false | false |
 | python-analytics-admin (failure) | 3 | 1 | false | false | false | false |
-| python-analytics-data (failure) | 13 | 1 | false | false | false | false |
+| python-analytics-data (failure) | 13 | 0 | false | false | false | false |
 | python-api-gateway (success) | 0 | 0 | true | true | true | true |
 | python-apigee-connect (success) | 0 | 0 | true | true | true | true |
 | python-apigee-registry (success) | 0 | 0 | true | true | true | true |
@@ -33,7 +33,7 @@ Repositories with desirable state:78/125
 | python-bigquery-connection (failure) | 0 | 0 | false | false | false | false |
 | python-bigquery-data-exchange (success) | 0 | 0 | true | true | true | true |
 | python-bigquery-datapolicies (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-datatransfer (failure) | 0 | 0 | false | false | false | false |
+| python-bigquery-datatransfer (failure) | 0 | 1 | false | false | false | false |
 | python-bigquery-migration (failure) | 1 | 1 | false | false | false | false |
 | python-bigquery-reservation (failure) | 0 | 0 | false | false | false | false |
 | python-billing (success) | 0 | 0 | true | true | true | true |
@@ -107,7 +107,7 @@ Repositories with desirable state:78/125
 | python-redis (success) | 0 | 0 | true | true | true | true |
 | python-resource-manager (success) | 0 | 0 | true | true | true | true |
 | python-resource-settings (success) | 0 | 0 | true | true | true | true |
-| python-retail (failure) | 0 | 0 | false | false | false | false |
+| python-retail (failure) | 1 | 0 | false | false | false | false |
 | python-run (failure) | 0 | 0 | false | false | false | false |
 | python-scheduler (failure) | 0 | 0 | false | false | false | false |
 | python-secret-manager (success) | 0 | 0 | true | true | true | true |
