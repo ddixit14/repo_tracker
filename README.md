@@ -1,10 +1,10 @@
 # java
-Repositories with desirable state:5/139
+Repositories with desirable state:6/139
 - Zero open issues: 136 repos
-- Zero pull requests: 127 repos
+- Zero pull requests: 129 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Code Deleted: 122 repos
+- Code Deleted: 123 repos
 - Public Archived: 8 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
@@ -12,7 +12,7 @@ Repositories with desirable state:5/139
 | api-common-java (failure) | 0 | 0 | true | true | false | false |
 | gax-java (failure) | 2 | 0 | true | true | false | true |
 | java-accessapproval (failure) | 0 | 0 | true | true | false | false |
-| java-accesscontextmanager (failure) | 2 | 0 | true | true | true | true |
+| java-accesscontextmanager (success) | 0 | 0 | true | true | true | true |
 | java-aiplatform (success) | 0 | 0 | true | true | true | true |
 | java-analytics-admin (success) | 0 | 0 | true | true | true | true |
 | java-analytics-data (success) | 0 | 0 | true | true | true | true |
@@ -23,7 +23,7 @@ Repositories with desirable state:5/139
 | java-appengine-admin (failure) | 0 | 0 | true | true | true | false |
 | java-area120-tables (success) | 0 | 0 | true | true | true | true |
 | java-artifact-registry (failure) | 0 | 0 | true | true | true | false |
-| java-asset (failure) | 0 | 1 | true | true | true | false |
+| java-asset (failure) | 0 | 0 | true | true | true | false |
 | java-assured-workloads (failure) | 0 | 0 | true | true | true | false |
 | java-automl (failure) | 0 | 0 | true | true | true | false |
 | java-bare-metal-solution (failure) | 0 | 0 | true | true | true | false |
@@ -58,7 +58,7 @@ Repositories with desirable state:5/139
 | java-datalabeling (failure) | 0 | 0 | true | true | true | false |
 | java-dataplex (failure) | 0 | 0 | true | true | false | false |
 | java-dataproc-metastore (failure) | 0 | 0 | true | true | true | false |
-| java-dataproc (failure) | 0 | 1 | true | true | true | false |
+| java-dataproc (failure) | 0 | 0 | true | true | true | false |
 | java-datastream (failure) | 0 | 0 | true | true | true | false |
 | java-debugger-client (failure) | 0 | 0 | true | true | true | false |
 | java-deploy (failure) | 0 | 0 | true | true | true | false |
@@ -127,7 +127,7 @@ Repositories with desirable state:5/139
 | java-service-management (failure) | 0 | 0 | true | true | true | false |
 | java-service-usage (failure) | 0 | 0 | true | true | true | false |
 | java-servicedirectory (failure) | 0 | 0 | true | true | true | false |
-| java-shared-dependencies (failure) | 0 | 0 | true | true | false | false |
+| java-shared-dependencies (failure) | 1 | 0 | true | true | false | false |
 | java-shell (failure) | 0 | 0 | true | true | true | false |
 | java-speech (failure) | 0 | 0 | true | true | true | false |
 | java-storage-transfer (failure) | 0 | 0 | true | true | true | false |
@@ -135,7 +135,7 @@ Repositories with desirable state:5/139
 | java-tasks (failure) | 0 | 0 | true | true | true | false |
 | java-texttospeech (failure) | 0 | 0 | true | true | true | false |
 | java-tpu (failure) | 0 | 0 | true | true | true | false |
-| java-trace (failure) | 0 | 3 | true | true | false | false |
+| java-trace (failure) | 0 | 1 | true | true | true | false |
 | java-translate (failure) | 0 | 0 | true | true | true | false |
 | java-video-intelligence (failure) | 0 | 0 | true | true | true | false |
 | java-video-live-stream (failure) | 0 | 0 | true | true | true | false |
@@ -151,17 +151,17 @@ Repositories with desirable state:5/139
 # nodejs
 Repositories with desirable state:0/113
 - Zero open issues: 111 repos
-- Zero pull requests: 111 repos
+- Zero pull requests: 108 repos
 - README.md updated: 112 repos
 - About updated: 0 repos
 - Code Deleted: 0 repos
-- Public Archived: 111 repos
+- Public Archived: 109 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | nodejs-vision (failure) | 0 | 0 | true | false | false | true |
 | nodejs-video-intelligence (failure) | 0 | 0 | true | false | false | true |
-| nodejs-translate (failure) | 0 | 0 | true | false | false | true |
+| nodejs-translate (failure) | 0 | 0 | true | false | false | false |
 | nodejs-text-to-speech (failure) | 0 | 0 | true | false | false | true |
 | nodejs-tasks (failure) | 0 | 0 | true | false | false | true |
 | nodejs-speech (failure) | 0 | 0 | true | false | false | true |
@@ -190,10 +190,10 @@ Repositories with desirable state:0/113
 | nodejs-cloudbuild (failure) | 0 | 0 | true | false | false | true |
 | nodejs-grafeas (failure) | 0 | 0 | true | false | false | true |
 | nodejs-phishing-protection (failure) | 0 | 0 | true | false | false | true |
-| nodejs-monitoring-dashboards (failure) | 0 | 0 | true | false | false | true |
+| nodejs-monitoring-dashboards (failure) | 0 | 1 | true | false | false | true |
 | nodejs-billing-budgets (failure) | 0 | 0 | true | false | false | true |
 | nodejs-recommender (failure) | 0 | 0 | true | false | false | true |
-| nodejs-secret-manager (failure) | 0 | 0 | true | false | false | true |
+| nodejs-secret-manager (failure) | 0 | 0 | true | false | false | false |
 | nodejs-talent (failure) | 0 | 0 | true | false | false | true |
 | nodejs-billing (failure) | 0 | 0 | true | false | false | true |
 | nodejs-game-servers (failure) | 0 | 0 | true | false | false | true |
@@ -257,11 +257,11 @@ Repositories with desirable state:0/113
 | nodejs-orchestration-airflow (failure) | 0 | 0 | true | false | false | true |
 | nodejs-datastream (failure) | 0 | 0 | true | false | false | true |
 | nodejs-deploy (failure) | 0 | 0 | true | false | false | true |
-| nodejs-network-security (failure) | 0 | 0 | true | false | false | true |
+| nodejs-network-security (failure) | 0 | 1 | true | false | false | true |
 | nodejs-data-fusion (failure) | 0 | 0 | true | false | false | true |
 | nodejs-access-context-manager (failure) | 0 | 0 | true | false | false | true |
 | nodejs-vmmigration (failure) | 0 | 0 | true | false | false | true |
-| nodejs-ids (failure) | 0 | 0 | true | false | false | true |
+| nodejs-ids (failure) | 0 | 1 | true | false | false | true |
 | nodejs-dataplex (failure) | 0 | 0 | true | false | false | true |
 | nodejs-video-live-stream (failure) | 0 | 0 | true | false | false | true |
 | nodejs-eventarc-publishing (failure) | 0 | 0 | true | false | false | true |
@@ -274,7 +274,7 @@ Repositories with desirable state:0/113
 | nodejs-video-stitcher (failure) | 0 | 0 | true | false | false | true |
 # python
 Repositories with desirable state:78/125
-- Zero open issues: 112 repos
+- Zero open issues: 111 repos
 - Zero pull requests: 109 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
@@ -286,7 +286,7 @@ Repositories with desirable state:78/125
 | python-access-approval (success) | 0 | 0 | true | true | true | true |
 | python-access-context-manager (failure) | 2 | 0 | false | false | false | false |
 | python-analytics-admin (failure) | 3 | 1 | false | false | false | false |
-| python-analytics-data (failure) | 13 | 1 | false | false | false | false |
+| python-analytics-data (failure) | 13 | 0 | false | false | false | false |
 | python-api-gateway (success) | 0 | 0 | true | true | true | true |
 | python-apigee-connect (success) | 0 | 0 | true | true | true | true |
 | python-apigee-registry (success) | 0 | 0 | true | true | true | true |
@@ -307,7 +307,7 @@ Repositories with desirable state:78/125
 | python-bigquery-connection (failure) | 0 | 0 | false | false | false | false |
 | python-bigquery-data-exchange (success) | 0 | 0 | true | true | true | true |
 | python-bigquery-datapolicies (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-datatransfer (failure) | 0 | 0 | false | false | false | false |
+| python-bigquery-datatransfer (failure) | 0 | 1 | false | false | false | false |
 | python-bigquery-migration (failure) | 1 | 1 | false | false | false | false |
 | python-bigquery-reservation (failure) | 0 | 0 | false | false | false | false |
 | python-billing (success) | 0 | 0 | true | true | true | true |
@@ -381,7 +381,7 @@ Repositories with desirable state:78/125
 | python-redis (success) | 0 | 0 | true | true | true | true |
 | python-resource-manager (success) | 0 | 0 | true | true | true | true |
 | python-resource-settings (success) | 0 | 0 | true | true | true | true |
-| python-retail (failure) | 0 | 0 | false | false | false | false |
+| python-retail (failure) | 1 | 0 | false | false | false | false |
 | python-run (failure) | 0 | 0 | false | false | false | false |
 | python-scheduler (failure) | 0 | 0 | false | false | false | false |
 | python-secret-manager (success) | 0 | 0 | true | true | true | true |
