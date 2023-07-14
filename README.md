@@ -1,10 +1,10 @@
 # java
 Repositories with desirable state:6/139
-- Zero open issues: 136 repos
-- Zero pull requests: 129 repos
+- Zero open issues: 134 repos
+- Zero pull requests: 127 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Code Deleted: 123 repos
+- Code Deleted: 121 repos
 - Public Archived: 8 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
@@ -34,9 +34,9 @@ Repositories with desirable state:6/139
 | java-beyondcorp-clientconnectorservices (failure) | 0 | 0 | true | true | true | false |
 | java-beyondcorp-clientgateways (failure) | 0 | 0 | true | true | true | false |
 | java-bigquery-data-exchange (failure) | 0 | 0 | true | true | true | false |
-| java-bigqueryconnection (failure) | 0 | 0 | true | true | true | false |
+| java-bigqueryconnection (failure) | 0 | 1 | true | true | false | false |
 | java-bigquerydatapolicy (failure) | 0 | 0 | true | true | true | false |
-| java-bigquerydatatransfer (failure) | 0 | 0 | true | true | true | false |
+| java-bigquerydatatransfer (failure) | 0 | 1 | true | true | false | false |
 | java-bigquerymigration (failure) | 0 | 0 | true | true | false | true |
 | java-bigqueryreservation (failure) | 0 | 1 | true | true | true | false |
 | java-billing (failure) | 0 | 0 | true | true | false | false |
@@ -94,7 +94,7 @@ Repositories with desirable state:6/139
 | java-managed-identities (failure) | 0 | 0 | true | true | true | false |
 | java-mediatranslation (failure) | 0 | 0 | true | true | true | false |
 | java-memcache (failure) | 0 | 0 | true | true | true | false |
-| java-monitoring-dashboards (failure) | 0 | 1 | true | true | true | false |
+| java-monitoring-dashboards (failure) | 1 | 1 | true | true | true | false |
 | java-monitoring (failure) | 0 | 2 | true | true | true | false |
 | java-network-management (failure) | 0 | 0 | true | true | true | false |
 | java-network-security (failure) | 0 | 0 | true | true | true | false |
@@ -115,7 +115,7 @@ Repositories with desirable state:6/139
 | java-recommender (failure) | 0 | 0 | true | true | true | false |
 | java-redis (failure) | 0 | 0 | true | true | true | false |
 | java-resource-settings (failure) | 0 | 0 | true | true | true | false |
-| java-resourcemanager (failure) | 0 | 1 | true | true | true | false |
+| java-resourcemanager (failure) | 1 | 1 | true | true | true | false |
 | java-retail (failure) | 0 | 1 | true | true | true | false |
 | java-run (failure) | 0 | 0 | true | true | true | false |
 | java-scheduler (failure) | 0 | 0 | true | true | true | false |
@@ -150,8 +150,8 @@ Repositories with desirable state:6/139
 | java-workflows (failure) | 0 | 0 | true | true | true | false |
 # nodejs
 Repositories with desirable state:0/113
-- Zero open issues: 111 repos
-- Zero pull requests: 108 repos
+- Zero open issues: 109 repos
+- Zero pull requests: 107 repos
 - README.md updated: 112 repos
 - About updated: 0 repos
 - Code Deleted: 0 repos
@@ -161,7 +161,7 @@ Repositories with desirable state:0/113
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | nodejs-vision (failure) | 0 | 0 | true | false | false | true |
 | nodejs-video-intelligence (failure) | 0 | 0 | true | false | false | true |
-| nodejs-translate (failure) | 0 | 0 | true | false | false | false |
+| nodejs-translate (failure) | 1 | 3 | true | false | false | false |
 | nodejs-text-to-speech (failure) | 0 | 0 | true | false | false | true |
 | nodejs-tasks (failure) | 0 | 0 | true | false | false | true |
 | nodejs-speech (failure) | 0 | 0 | true | false | false | true |
@@ -193,7 +193,7 @@ Repositories with desirable state:0/113
 | nodejs-monitoring-dashboards (failure) | 0 | 1 | true | false | false | true |
 | nodejs-billing-budgets (failure) | 0 | 0 | true | false | false | true |
 | nodejs-recommender (failure) | 0 | 0 | true | false | false | true |
-| nodejs-secret-manager (failure) | 0 | 0 | true | false | false | false |
+| nodejs-secret-manager (failure) | 1 | 0 | true | false | false | false |
 | nodejs-talent (failure) | 0 | 0 | true | false | false | true |
 | nodejs-billing (failure) | 0 | 0 | true | false | false | true |
 | nodejs-game-servers (failure) | 0 | 0 | true | false | false | true |
@@ -275,7 +275,7 @@ Repositories with desirable state:0/113
 # python
 Repositories with desirable state:78/125
 - Zero open issues: 111 repos
-- Zero pull requests: 109 repos
+- Zero pull requests: 96 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Code Deleted: 78 repos
@@ -291,11 +291,11 @@ Repositories with desirable state:78/125
 | python-apigee-connect (success) | 0 | 0 | true | true | true | true |
 | python-apigee-registry (success) | 0 | 0 | true | true | true | true |
 | python-api-keys (success) | 0 | 0 | true | true | true | true |
-| python-appengine-admin (failure) | 0 | 0 | false | false | false | false |
+| python-appengine-admin (failure) | 0 | 1 | false | false | false | false |
 | python-area120-tables (success) | 0 | 0 | true | true | true | true |
 | python-artifact-registry (success) | 0 | 0 | true | true | true | true |
-| python-asset (failure) | 0 | 1 | false | false | false | false |
-| python-assured-workloads (failure) | 0 | 1 | false | false | false | false |
+| python-asset (failure) | 0 | 2 | false | false | false | false |
+| python-assured-workloads (failure) | 0 | 2 | false | false | false | false |
 | python-bare-metal-solution (success) | 0 | 0 | true | true | true | true |
 | python-batch (success) | 0 | 0 | true | true | true | true |
 | python-beyondcorp-appconnections (success) | 0 | 0 | true | true | true | true |
@@ -304,37 +304,37 @@ Repositories with desirable state:78/125
 | python-beyondcorp-clientconnectorservices (success) | 0 | 0 | true | true | true | true |
 | python-beyondcorp-clientgateways (success) | 0 | 0 | true | true | true | true |
 | python-bigquery-analyticshub (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-connection (failure) | 0 | 0 | false | false | false | false |
+| python-bigquery-connection (failure) | 0 | 1 | false | false | false | false |
 | python-bigquery-data-exchange (success) | 0 | 0 | true | true | true | true |
 | python-bigquery-datapolicies (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-datatransfer (failure) | 0 | 1 | false | false | false | false |
+| python-bigquery-datatransfer (failure) | 0 | 2 | false | false | false | false |
 | python-bigquery-migration (failure) | 1 | 1 | false | false | false | false |
 | python-bigquery-reservation (failure) | 0 | 0 | false | false | false | false |
 | python-billing (success) | 0 | 0 | true | true | true | true |
 | python-billingbudgets (success) | 0 | 0 | true | true | true | true |
-| python-binary-authorization (failure) | 0 | 0 | false | false | false | false |
+| python-binary-authorization (failure) | 0 | 1 | false | false | false | false |
 | python-certificate-manager (success) | 0 | 0 | true | true | true | true |
 | python-channel (success) | 0 | 0 | true | true | true | true |
-| python-cloudbuild (failure) | 0 | 1 | false | false | false | false |
-| python-compute (failure) | 3 | 0 | false | false | false | false |
+| python-cloudbuild (failure) | 0 | 2 | false | false | false | false |
+| python-compute (failure) | 3 | 1 | false | false | false | false |
 | python-contact-center-insights (success) | 0 | 0 | true | true | true | true |
 | python-container (failure) | 0 | 1 | false | false | false | false |
 | python-containeranalysis (failure) | 0 | 0 | false | false | false | false |
 | python-datacatalog (success) | 0 | 0 | true | true | true | true |
-| python-dataflow-client (failure) | 0 | 0 | false | false | false | false |
+| python-dataflow-client (failure) | 0 | 1 | false | false | false | false |
 | python-dataform (success) | 0 | 0 | true | true | true | true |
 | python-data-fusion (success) | 0 | 0 | true | true | true | true |
 | python-datalabeling (success) | 0 | 0 | true | true | true | true |
 | python-dataplex (success) | 0 | 0 | true | true | true | true |
-| python-dataproc (failure) | 1 | 1 | false | false | false | false |
+| python-dataproc (failure) | 1 | 2 | false | false | false | false |
 | python-dataproc-metastore (success) | 0 | 0 | true | true | true | true |
 | python-data-qna (success) | 0 | 0 | true | true | true | true |
 | python-datastream (success) | 0 | 0 | true | true | true | true |
 | python-debugger-client (failure) | 0 | 0 | false | false | false | false |
 | python-deploy (success) | 0 | 0 | true | true | true | true |
-| python-dialogflow (failure) | 0 | 0 | false | false | false | false |
-| python-dialogflow-cx (failure) | 0 | 1 | false | false | false | false |
-| python-dlp (failure) | 0 | 0 | false | false | false | false |
+| python-dialogflow (failure) | 0 | 1 | false | false | false | false |
+| python-dialogflow-cx (failure) | 0 | 2 | false | false | false | false |
+| python-dlp (failure) | 0 | 1 | false | false | false | false |
 | python-dms (success) | 0 | 0 | true | true | true | true |
 | python-documentai (success) | 0 | 0 | true | true | true | true |
 | python-domains (success) | 0 | 0 | true | true | true | true |
@@ -346,14 +346,14 @@ Repositories with desirable state:78/125
 | python-functions (success) | 0 | 0 | true | true | true | true |
 | python-gke-backup (failure) | 0 | 1 | false | false | false | false |
 | python-gke-connect-gateway (success) | 0 | 0 | true | true | true | true |
-| python-gke-hub (failure) | 0 | 0 | false | false | false | false |
+| python-gke-hub (failure) | 0 | 1 | false | false | false | false |
 | python-gke-multicloud (success) | 0 | 0 | true | true | true | true |
 | python-grpc-google-iam-v1 (failure) | 2 | 1 | false | false | false | false |
-| python-gsuiteaddons (failure) | 0 | 0 | false | false | false | false |
+| python-gsuiteaddons (failure) | 0 | 1 | false | false | false | false |
 | python-iam (failure) | 3 | 0 | false | false | false | false |
 | python-iap (success) | 0 | 0 | true | true | true | true |
 | python-ids (success) | 0 | 0 | true | true | true | true |
-| python-iot (failure) | 0 | 1 | false | false | false | false |
+| python-iot (failure) | 0 | 2 | false | false | false | false |
 | python-kms (failure) | 0 | 0 | false | false | false | false |
 | python-language (success) | 0 | 0 | true | true | true | true |
 | python-life-sciences (success) | 0 | 0 | true | true | true | true |
@@ -365,12 +365,12 @@ Repositories with desirable state:78/125
 | python-network-connectivity (success) | 0 | 0 | true | true | true | true |
 | python-network-management (success) | 0 | 0 | true | true | true | true |
 | python-network-security (success) | 0 | 0 | true | true | true | true |
-| python-network-services (failure) | 0 | 0 | false | false | false | false |
+| python-network-services (failure) | 0 | 1 | false | false | false | false |
 | python-notebooks (success) | 0 | 0 | true | true | true | true |
-| python-optimization (failure) | 0 | 0 | false | false | false | false |
+| python-optimization (failure) | 0 | 1 | false | false | false | false |
 | python-orchestration-airflow (success) | 0 | 0 | true | true | true | true |
 | python-org-policy (failure) | 1 | 0 | false | false | false | false |
-| python-os-config (failure) | 0 | 0 | false | false | false | false |
+| python-os-config (failure) | 0 | 1 | false | false | false | false |
 | python-oslogin (failure) | 0 | 0 | false | false | false | false |
 | python-phishingprotection (success) | 0 | 0 | true | true | true | true |
 | python-policy-troubleshooter (success) | 0 | 0 | true | true | true | true |
@@ -382,7 +382,7 @@ Repositories with desirable state:78/125
 | python-resource-manager (success) | 0 | 0 | true | true | true | true |
 | python-resource-settings (success) | 0 | 0 | true | true | true | true |
 | python-retail (failure) | 1 | 0 | false | false | false | false |
-| python-run (failure) | 0 | 0 | false | false | false | false |
+| python-run (failure) | 0 | 1 | false | false | false | false |
 | python-scheduler (failure) | 0 | 0 | false | false | false | false |
 | python-secret-manager (success) | 0 | 0 | true | true | true | true |
 | python-securitycenter (success) | 0 | 0 | true | true | true | true |
