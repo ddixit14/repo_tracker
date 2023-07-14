@@ -1,10 +1,10 @@
 # java
 Repositories with desirable state:6/139
-- Zero open issues: 136 repos
-- Zero pull requests: 129 repos
+- Zero open issues: 134 repos
+- Zero pull requests: 127 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Code Deleted: 123 repos
+- Code Deleted: 121 repos
 - Public Archived: 8 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
@@ -34,9 +34,9 @@ Repositories with desirable state:6/139
 | java-beyondcorp-clientconnectorservices (failure) | 0 | 0 | true | true | true | false |
 | java-beyondcorp-clientgateways (failure) | 0 | 0 | true | true | true | false |
 | java-bigquery-data-exchange (failure) | 0 | 0 | true | true | true | false |
-| java-bigqueryconnection (failure) | 0 | 0 | true | true | true | false |
+| java-bigqueryconnection (failure) | 0 | 1 | true | true | false | false |
 | java-bigquerydatapolicy (failure) | 0 | 0 | true | true | true | false |
-| java-bigquerydatatransfer (failure) | 0 | 0 | true | true | true | false |
+| java-bigquerydatatransfer (failure) | 0 | 1 | true | true | false | false |
 | java-bigquerymigration (failure) | 0 | 0 | true | true | false | true |
 | java-bigqueryreservation (failure) | 0 | 1 | true | true | true | false |
 | java-billing (failure) | 0 | 0 | true | true | false | false |
@@ -94,7 +94,7 @@ Repositories with desirable state:6/139
 | java-managed-identities (failure) | 0 | 0 | true | true | true | false |
 | java-mediatranslation (failure) | 0 | 0 | true | true | true | false |
 | java-memcache (failure) | 0 | 0 | true | true | true | false |
-| java-monitoring-dashboards (failure) | 0 | 1 | true | true | true | false |
+| java-monitoring-dashboards (failure) | 1 | 1 | true | true | true | false |
 | java-monitoring (failure) | 0 | 2 | true | true | true | false |
 | java-network-management (failure) | 0 | 0 | true | true | true | false |
 | java-network-security (failure) | 0 | 0 | true | true | true | false |
@@ -115,7 +115,7 @@ Repositories with desirable state:6/139
 | java-recommender (failure) | 0 | 0 | true | true | true | false |
 | java-redis (failure) | 0 | 0 | true | true | true | false |
 | java-resource-settings (failure) | 0 | 0 | true | true | true | false |
-| java-resourcemanager (failure) | 0 | 1 | true | true | true | false |
+| java-resourcemanager (failure) | 1 | 1 | true | true | true | false |
 | java-retail (failure) | 0 | 1 | true | true | true | false |
 | java-run (failure) | 0 | 0 | true | true | true | false |
 | java-scheduler (failure) | 0 | 0 | true | true | true | false |
