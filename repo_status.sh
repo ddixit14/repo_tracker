@@ -42,8 +42,8 @@ done < document_reference_count.tsv
 
 # Define the column headers
 echo "### Repository state" > $filename
-echo "| Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document Count | Code Deleted | Public Archived |" >> $filename
-echo "|------------|-------------|--------------------|--------------------|---------------|----------------|--------------|-----------------|" >> $filename
+echo "| Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |" >> $filename
+echo "|------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|" >> $filename
 
 for repository in $(cat $repositories); do
 
