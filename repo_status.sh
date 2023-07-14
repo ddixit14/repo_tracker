@@ -17,6 +17,7 @@ open_issues_stat_count=0
 open_pr_stat_count=0
 readme_stat_count=0
 about_stat_count=0
+zero_document_reference_count=0
 code_deleted_stat_count=0
 archived_stat_count=0
 total_count=0
@@ -111,7 +112,11 @@ for repository in $(cat $repositories); do
   document_reference_count="${document_count["$repository"]}"
   if [ -z "${document_reference_count}" ]; then
       document_reference_count=0
+      zero_document_reference_count=$((zero_document_reference_count + 1))
+  else
+      document_reference_count="[${document_reference_count}](./document_reference_count.tsv)"
   fi
+
 
   status=$(gh repo view googleapis/${repository} --json isArchived -q '.isArchived')
   if [[ $status == "true" ]]; then
@@ -134,24 +139,19 @@ for repository in $(cat $repositories); do
 done
 
 temp_file=$(mktemp)
-line1="Repositories with desirable state:$desired_count/$total_count"
-line2="- Zero open issues: $open_issues_stat_count repos"
-line3="- Zero pull requests: $open_pr_stat_count repos"
-line4="- README.md updated: $readme_stat_count repos"
-line5="- About updated: $about_stat_count repos"
-line6="- Code Deleted: $code_deleted_stat_count repos"
-line7="- Public Archived: $archived_stat_count repos"
+cat << EOL > $temp_file
+# $language
 
-echo "# $language" >> $temp_file
-echo >> $temp_file
-echo "$line1" >> $temp_file
-echo "$line2" >> $temp_file
-echo "$line3" >> $temp_file
-echo "$line4" >> $temp_file
-echo "$line5" >> $temp_file
-echo "$line6" >> $temp_file
-echo "$line7" >> $temp_file
-echo >> $temp_file
+Repositories with desirable state:$desired_count/$total_count
+- Zero open issues: $open_issues_stat_count repos
+- Zero pull requests: $open_pr_stat_count repos
+- README.md updated: $readme_stat_count repos
+- About updated: $about_stat_count repos
+- Zero document references: $zero_document_reference_count repos
+- Code Deleted: $code_deleted_stat_count repos
+- Public Archived: $archived_stat_count repos
+
+EOL
 cat $filename >> $temp_file
 mv $temp_file $filename
 echo "Wrote $filename"
