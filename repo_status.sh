@@ -142,7 +142,8 @@ temp_file=$(mktemp)
 cat << EOL > $temp_file
 # $language
 
-Repositories with desirable state:$desired_count/$total_count
+Repositories with desirable state:$desired_count/$total_count repos (the higher, the better):
+
 - Zero open issues: $open_issues_stat_count repos
 - Zero pull requests: $open_pr_stat_count repos
 - README.md updated: $readme_stat_count repos
