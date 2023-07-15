@@ -1,17 +1,17 @@
 # nodejs
 Repositories with desirable state:0/113
-- Zero open issues: 109 repos
-- Zero pull requests: 107 repos
+- Zero open issues: 111 repos
+- Zero pull requests: 108 repos
 - README.md updated: 112 repos
 - About updated: 0 repos
 - Code Deleted: 0 repos
-- Public Archived: 109 repos
+- Public Archived: 111 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | nodejs-vision (failure) | 0 | 0 | true | false | false | true |
 | nodejs-video-intelligence (failure) | 0 | 0 | true | false | false | true |
-| nodejs-translate (failure) | 1 | 3 | true | false | false | false |
+| nodejs-translate (failure) | 0 | 0 | true | false | false | true |
 | nodejs-text-to-speech (failure) | 0 | 0 | true | false | false | true |
 | nodejs-tasks (failure) | 0 | 0 | true | false | false | true |
 | nodejs-speech (failure) | 0 | 0 | true | false | false | true |
@@ -43,7 +43,7 @@ Repositories with desirable state:0/113
 | nodejs-monitoring-dashboards (failure) | 0 | 1 | true | false | false | true |
 | nodejs-billing-budgets (failure) | 0 | 0 | true | false | false | true |
 | nodejs-recommender (failure) | 0 | 0 | true | false | false | true |
-| nodejs-secret-manager (failure) | 1 | 0 | true | false | false | false |
+| nodejs-secret-manager (failure) | 0 | 0 | true | false | false | true |
 | nodejs-talent (failure) | 0 | 0 | true | false | false | true |
 | nodejs-billing (failure) | 0 | 0 | true | false | false | true |
 | nodejs-game-servers (failure) | 0 | 0 | true | false | false | true |
