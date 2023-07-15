@@ -1,7 +1,7 @@
 # java
 Repositories with desirable state:6/139
 - Zero open issues: 134 repos
-- Zero pull requests: 127 repos
+- Zero pull requests: 124 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Code Deleted: 121 repos
@@ -11,7 +11,7 @@ Repositories with desirable state:6/139
 |------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | api-common-java (failure) | 0 | 0 | true | true | false | false |
 | gax-java (failure) | 2 | 0 | true | true | false | true |
-| java-accessapproval (failure) | 0 | 0 | true | true | false | false |
+| java-accessapproval (failure) | 0 | 1 | true | true | false | false |
 | java-accesscontextmanager (success) | 0 | 0 | true | true | true | true |
 | java-aiplatform (success) | 0 | 0 | true | true | true | true |
 | java-analytics-admin (success) | 0 | 0 | true | true | true | true |
@@ -39,8 +39,8 @@ Repositories with desirable state:6/139
 | java-bigquerydatatransfer (failure) | 0 | 1 | true | true | false | false |
 | java-bigquerymigration (failure) | 0 | 0 | true | true | false | true |
 | java-bigqueryreservation (failure) | 0 | 1 | true | true | true | false |
-| java-billing (failure) | 0 | 0 | true | true | false | false |
-| java-billingbudgets (failure) | 0 | 0 | true | true | false | false |
+| java-billing (failure) | 0 | 1 | true | true | false | false |
+| java-billingbudgets (failure) | 0 | 1 | true | true | false | false |
 | java-binary-authorization (failure) | 0 | 0 | true | true | true | false |
 | java-certificate-manager (failure) | 0 | 0 | true | true | true | false |
 | java-channel (failure) | 0 | 0 | true | true | true | false |
@@ -103,7 +103,7 @@ Repositories with desirable state:6/139
 | java-notification (failure) | 0 | 0 | true | true | true | false |
 | java-optimization (failure) | 0 | 0 | true | true | true | false |
 | java-orchestration-airflow (failure) | 0 | 0 | true | true | true | false |
-| java-orgpolicy (failure) | 0 | 1 | true | true | false | false |
+| java-orgpolicy (failure) | 0 | 2 | true | true | false | false |
 | java-os-config (failure) | 0 | 0 | true | true | true | false |
 | java-os-login (failure) | 0 | 0 | true | true | true | false |
 | java-phishingprotection (failure) | 0 | 0 | true | true | true | false |
