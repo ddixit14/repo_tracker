@@ -4,7 +4,7 @@ Repositories with desirable state:6/139
 - Zero pull requests: 124 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Code Deleted: 121 repos
+- Code Deleted: 120 repos
 - Public Archived: 8 repos
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
@@ -38,7 +38,7 @@ Repositories with desirable state:6/139
 | java-bigquerydatapolicy (failure) | 0 | 0 | true | true | true | false |
 | java-bigquerydatatransfer (failure) | 0 | 1 | true | true | false | false |
 | java-bigquerymigration (failure) | 0 | 0 | true | true | false | true |
-| java-bigqueryreservation (failure) | 0 | 1 | true | true | true | false |
+| java-bigqueryreservation (failure) | 0 | 2 | true | true | false | false |
 | java-billing (failure) | 0 | 1 | true | true | false | false |
 | java-billingbudgets (failure) | 0 | 1 | true | true | false | false |
 | java-binary-authorization (failure) | 0 | 0 | true | true | true | false |
