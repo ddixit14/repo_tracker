@@ -1,136 +1,140 @@
 # python
-Repositories with desirable state:78/125
+
+Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
+
 - Zero open issues: 111 repos
 - Zero pull requests: 90 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
+- Zero document references: 117 repos
 - Code Deleted: 78 repos
 - Public Archived: 78 repos
+
 ### Repository state
-| Repository | Open Issues | Open Pull Requests | README.MD updated | About updated | Code Deleted | Public Archived |
-|------------|-------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| python-access-approval (success) | 0 | 0 | true | true | true | true |
-| python-access-context-manager (failure) | 2 | 1 | false | false | false | false |
-| python-analytics-admin (failure) | 3 | 1 | false | false | false | false |
-| python-analytics-data (failure) | 13 | 0 | false | false | false | false |
-| python-api-gateway (success) | 0 | 0 | true | true | true | true |
-| python-apigee-connect (success) | 0 | 0 | true | true | true | true |
-| python-apigee-registry (success) | 0 | 0 | true | true | true | true |
-| python-api-keys (success) | 0 | 0 | true | true | true | true |
-| python-appengine-admin (failure) | 0 | 0 | false | false | false | false |
-| python-area120-tables (success) | 0 | 0 | true | true | true | true |
-| python-artifact-registry (success) | 0 | 0 | true | true | true | true |
-| python-asset (failure) | 0 | 2 | false | false | false | false |
-| python-assured-workloads (failure) | 0 | 1 | false | false | false | false |
-| python-bare-metal-solution (success) | 0 | 0 | true | true | true | true |
-| python-batch (success) | 0 | 0 | true | true | true | true |
-| python-beyondcorp-appconnections (success) | 0 | 0 | true | true | true | true |
-| python-beyondcorp-appconnectors (success) | 0 | 0 | true | true | true | true |
-| python-beyondcorp-appgateways (success) | 0 | 0 | true | true | true | true |
-| python-beyondcorp-clientconnectorservices (success) | 0 | 0 | true | true | true | true |
-| python-beyondcorp-clientgateways (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-analyticshub (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-connection (failure) | 0 | 1 | false | false | false | false |
-| python-bigquery-data-exchange (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-datapolicies (success) | 0 | 0 | true | true | true | true |
-| python-bigquery-datatransfer (failure) | 0 | 1 | false | false | false | false |
-| python-bigquery-migration (failure) | 1 | 1 | false | false | false | false |
-| python-bigquery-reservation (failure) | 0 | 1 | false | false | false | false |
-| python-billing (success) | 0 | 0 | true | true | true | true |
-| python-billingbudgets (success) | 0 | 0 | true | true | true | true |
-| python-binary-authorization (failure) | 0 | 0 | false | false | false | false |
-| python-certificate-manager (success) | 0 | 0 | true | true | true | true |
-| python-channel (success) | 0 | 0 | true | true | true | true |
-| python-cloudbuild (failure) | 0 | 3 | false | false | false | false |
-| python-compute (failure) | 3 | 0 | false | false | false | false |
-| python-contact-center-insights (success) | 0 | 0 | true | true | true | true |
-| python-container (failure) | 0 | 2 | false | false | false | false |
-| python-containeranalysis (failure) | 0 | 1 | false | false | false | false |
-| python-datacatalog (success) | 0 | 0 | true | true | true | true |
-| python-dataflow-client (failure) | 0 | 0 | false | false | false | false |
-| python-dataform (success) | 0 | 0 | true | true | true | true |
-| python-data-fusion (success) | 0 | 0 | true | true | true | true |
-| python-datalabeling (success) | 0 | 0 | true | true | true | true |
-| python-dataplex (success) | 0 | 0 | true | true | true | true |
-| python-dataproc (failure) | 1 | 2 | false | false | false | false |
-| python-dataproc-metastore (success) | 0 | 0 | true | true | true | true |
-| python-data-qna (success) | 0 | 0 | true | true | true | true |
-| python-datastream (success) | 0 | 0 | true | true | true | true |
-| python-debugger-client (failure) | 0 | 0 | false | false | false | false |
-| python-deploy (success) | 0 | 0 | true | true | true | true |
-| python-dialogflow (failure) | 0 | 1 | false | false | false | false |
-| python-dialogflow-cx (failure) | 0 | 1 | false | false | false | false |
-| python-dlp (failure) | 0 | 1 | false | false | false | false |
-| python-dms (success) | 0 | 0 | true | true | true | true |
-| python-documentai (success) | 0 | 0 | true | true | true | true |
-| python-domains (success) | 0 | 0 | true | true | true | true |
-| python-edgecontainer (success) | 0 | 0 | true | true | true | true |
-| python-essential-contacts (success) | 0 | 0 | true | true | true | true |
-| python-eventarc (success) | 0 | 0 | true | true | true | true |
-| python-eventarc-publishing (success) | 0 | 0 | true | true | true | true |
-| python-filestore (failure) | 0 | 0 | false | false | false | false |
-| python-functions (success) | 0 | 0 | true | true | true | true |
-| python-gke-backup (failure) | 0 | 2 | false | false | false | false |
-| python-gke-connect-gateway (success) | 0 | 0 | true | true | true | true |
-| python-gke-hub (failure) | 0 | 0 | false | false | false | false |
-| python-gke-multicloud (success) | 0 | 0 | true | true | true | true |
-| python-grpc-google-iam-v1 (failure) | 2 | 2 | false | false | false | false |
-| python-gsuiteaddons (failure) | 0 | 1 | false | false | false | false |
-| python-iam (failure) | 3 | 1 | false | false | false | false |
-| python-iap (success) | 0 | 0 | true | true | true | true |
-| python-ids (success) | 0 | 0 | true | true | true | true |
-| python-iot (failure) | 0 | 5 | false | false | false | false |
-| python-kms (failure) | 0 | 1 | false | false | false | false |
-| python-language (success) | 0 | 0 | true | true | true | true |
-| python-life-sciences (success) | 0 | 0 | true | true | true | true |
-| python-managed-identities (success) | 0 | 0 | true | true | true | true |
-| python-media-translation (success) | 0 | 0 | true | true | true | true |
-| python-memcache (success) | 0 | 0 | true | true | true | true |
-| python-monitoring-dashboards (failure) | 2 | 1 | false | false | false | false |
-| python-monitoring-metrics-scopes (success) | 0 | 0 | true | true | true | true |
-| python-network-connectivity (success) | 0 | 0 | true | true | true | true |
-| python-network-management (success) | 0 | 0 | true | true | true | true |
-| python-network-security (success) | 0 | 0 | true | true | true | true |
-| python-network-services (failure) | 0 | 2 | false | false | false | false |
-| python-notebooks (success) | 0 | 0 | true | true | true | true |
-| python-optimization (failure) | 0 | 1 | false | false | false | false |
-| python-orchestration-airflow (success) | 0 | 0 | true | true | true | true |
-| python-org-policy (failure) | 1 | 1 | false | false | false | false |
-| python-os-config (failure) | 0 | 1 | false | false | false | false |
-| python-oslogin (failure) | 0 | 1 | false | false | false | false |
-| python-phishingprotection (success) | 0 | 0 | true | true | true | true |
-| python-policy-troubleshooter (success) | 0 | 0 | true | true | true | true |
-| python-private-catalog (success) | 0 | 0 | true | true | true | true |
-| python-recaptcha-enterprise (success) | 0 | 0 | true | true | true | true |
-| python-recommendations-ai (success) | 0 | 0 | true | true | true | true |
-| python-recommender (success) | 0 | 0 | true | true | true | true |
-| python-redis (success) | 0 | 0 | true | true | true | true |
-| python-resource-manager (success) | 0 | 0 | true | true | true | true |
-| python-resource-settings (success) | 0 | 0 | true | true | true | true |
-| python-retail (failure) | 1 | 0 | false | false | false | false |
-| python-run (failure) | 0 | 1 | false | false | false | false |
-| python-scheduler (failure) | 0 | 1 | false | false | false | false |
-| python-secret-manager (success) | 0 | 0 | true | true | true | true |
-| python-securitycenter (success) | 0 | 0 | true | true | true | true |
-| python-security-private-ca (success) | 0 | 0 | true | true | true | true |
-| python-security-public-ca (success) | 0 | 0 | true | true | true | true |
-| python-service-control (success) | 0 | 0 | true | true | true | true |
-| python-service-directory (success) | 0 | 0 | true | true | true | true |
-| python-service-management (failure) | 1 | 1 | false | false | false | false |
-| python-service-usage (success) | 0 | 0 | true | true | true | true |
-| python-shell (success) | 0 | 0 | true | true | true | true |
-| python-storage-transfer (failure) | 0 | 0 | false | false | false | false |
-| python-talent (success) | 0 | 0 | true | true | true | true |
-| python-tasks (failure) | 0 | 1 | false | false | false | false |
-| python-texttospeech (failure) | 2 | 2 | false | false | false | false |
-| python-tpu (success) | 0 | 0 | true | true | true | true |
-| python-trace (failure) | 0 | 1 | false | false | false | false |
-| python-videointelligence (failure) | 3 | 2 | false | false | false | false |
-| python-video-live-stream (failure) | 0 | 1 | false | false | false | false |
-| python-video-stitcher (failure) | 0 | 0 | false | false | false | false |
-| python-video-transcoder (failure) | 0 | 0 | false | false | false | false |
-| python-vm-migration (success) | 0 | 0 | true | true | true | true |
-| python-vpc-access (success) | 0 | 0 | true | true | true | true |
-| python-webrisk (success) | 0 | 0 | true | true | true | true |
-| python-websecurityscanner (success) | 0 | 0 | true | true | true | true |
-| python-workflows (success) | 0 | 0 | true | true | true | true |
+| Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
+|------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
+| python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-access-context-manager  | 2 | 1 | false | false | 0 | false | false |
+| python-analytics-admin  | 3 | 1 | false | false | 0 | false | false |
+| python-analytics-data  | 13 | 0 | false | false | 0 | false | false |
+| python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-api-keys :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-appengine-admin  | 0 | 0 | false | false | 0 | false | false |
+| python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-asset  | 0 | 2 | false | false | 0 | false | false |
+| python-assured-workloads  | 0 | 1 | false | false | 0 | false | false |
+| python-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-batch :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-beyondcorp-appconnections :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-beyondcorp-appconnectors :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-beyondcorp-appgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-bigquery-analyticshub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-bigquery-connection  | 0 | 1 | false | false | [3](./document_reference_count.tsv) | false | false |
+| python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-bigquery-datatransfer  | 0 | 1 | false | false | [26](./document_reference_count.tsv) | false | false |
+| python-bigquery-migration  | 1 | 1 | false | false | [1](./document_reference_count.tsv) | false | false |
+| python-bigquery-reservation  | 0 | 1 | false | false | [8](./document_reference_count.tsv) | false | false |
+| python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
+| python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-cloudbuild  | 0 | 2 | false | false | 0 | false | false |
+| python-compute  | 3 | 0 | false | false | 0 | false | false |
+| python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-container  | 0 | 2 | false | false | 0 | false | false |
+| python-containeranalysis  | 0 | 1 | false | false | 0 | false | false |
+| python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
+| python-dataform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-dataplex :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-dataproc  | 1 | 2 | false | false | 0 | false | false |
+| python-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-debugger-client  | 0 | 0 | false | false | 0 | false | false |
+| python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-dialogflow  | 0 | 1 | false | false | 0 | false | false |
+| python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
+| python-dlp  | 0 | 1 | false | false | 0 | false | false |
+| python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-documentai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-edgecontainer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-essential-contacts :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-eventarc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-eventarc-publishing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-filestore  | 0 | 0 | false | false | 0 | false | false |
+| python-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-gke-backup  | 0 | 2 | false | false | 0 | false | false |
+| python-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-gke-hub  | 0 | 0 | false | false | 0 | false | false |
+| python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-grpc-google-iam-v1  | 2 | 2 | false | false | 0 | false | false |
+| python-gsuiteaddons  | 0 | 1 | false | false | 0 | false | false |
+| python-iam  | 3 | 1 | false | false | 0 | false | false |
+| python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-iot  | 0 | 1 | false | false | [57](./document_reference_count.tsv) | false | false |
+| python-kms  | 0 | 1 | false | false | 0 | false | false |
+| python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-monitoring-dashboards  | 2 | 1 | false | false | 0 | false | false |
+| python-monitoring-metrics-scopes :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-network-services  | 0 | 2 | false | false | 0 | false | false |
+| python-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-optimization  | 0 | 1 | false | false | 0 | false | false |
+| python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-org-policy  | 1 | 1 | false | false | 0 | false | false |
+| python-os-config  | 0 | 1 | false | false | 0 | false | false |
+| python-oslogin  | 0 | 1 | false | false | 0 | false | false |
+| python-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-policy-troubleshooter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-private-catalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-recaptcha-enterprise :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-recommendations-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-recommender :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-retail  | 1 | 0 | false | false | 0 | false | false |
+| python-run  | 0 | 1 | false | false | 0 | false | false |
+| python-scheduler  | 0 | 1 | false | false | 0 | false | false |
+| python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-security-private-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-security-public-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-service-control :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-service-directory :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-service-management  | 1 | 1 | false | false | 0 | false | false |
+| python-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-storage-transfer  | 0 | 0 | false | false | 0 | false | false |
+| python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-tasks  | 0 | 1 | false | false | 0 | false | false |
+| python-texttospeech  | 2 | 2 | false | false | 0 | false | false |
+| python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-trace  | 0 | 1 | false | false | 0 | false | false |
+| python-videointelligence  | 3 | 2 | false | false | [57](./document_reference_count.tsv) | false | false |
+| python-video-live-stream  | 0 | 1 | false | false | [53](./document_reference_count.tsv) | false | false |
+| python-video-stitcher  | 0 | 0 | false | false | 0 | false | false |
+| python-video-transcoder  | 0 | 0 | false | false | 0 | false | false |
+| python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-websecurityscanner :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-workflows :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
