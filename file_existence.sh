@@ -10,7 +10,7 @@ for row in $response; do
     echo "$row">>files_in_repo.txt
 done
 
-sort -o files_in_repo.txt files_in_repo.txt
+sort -d -o files_in_repo.txt files_in_repo.txt
 
 file_1=files_in_repo.txt
 
@@ -27,7 +27,7 @@ contents_1=$(cat $file_1)
 #echo "files in repo are:" $contents_1
 rm files_in_repo.txt
 # Read the contents of the second file
-contents_2=$(cat $file_2)
+contents_2=$(cat $file_2 |sort -d)
 #echo "files that should exist:" $contents_2
 # Check if the contents of the two files are equal
 if [[ "$contents_1" == "$contents_2" ]]; then
