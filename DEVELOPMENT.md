@@ -10,3 +10,9 @@ the repositories than the actual java.txt:
 Wrote java-test-results.md
 ~/repo_tracker$ cat java-test-results.md
 ```
+
+# How to update document_reference_count.tsv
+
+Go to http://go/repo_tracker_document_ref_count.
+Run the query and "Copy results" > "VALUES AS TSV".
+
