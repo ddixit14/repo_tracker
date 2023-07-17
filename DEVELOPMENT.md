@@ -16,3 +16,8 @@ Wrote java-test-results.md
 Go to http://go/repo_tracker_document_ref_count.
 Run the query and "Copy results" > "VALUES AS TSV".
 
+
+# I get error "declare: -A: invalid option"
+
+Please use bash version 4 or higher to use associative array.
+

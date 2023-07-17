@@ -29,7 +29,7 @@ if [ -n "${TEST_REPOS}" ]; then
   filename="$language-test-results.md"
 fi
 
-
+emoji_desirable=":white_check_mark:"
 
 # Loads document reference count
 # document_reference_count.tsv is manually updated
@@ -130,7 +130,7 @@ for repository in $(cat $repositories); do
         "$is_present_readme" == "true" && "$is_present_about" == "true" && \
         "$code_deleted" == "true" && "$is_public_archive" == "true" ]]; then
      desired_count=$((desired_count + 1))
-     repo_status="✅"
+     repo_status="${emoji_desirable}"
   else
      repo_status=""
   fi
@@ -142,7 +142,7 @@ temp_file=$(mktemp)
 cat << EOL > $temp_file
 # $language
 
-Repositories with desirable state:$desired_count/$total_count repos (the higher, the better):
+Repositories with desirable state ${emoji_desirable}: $desired_count / $total_count repos (the higher, the better):
 
 - Zero open issues: $open_issues_stat_count repos
 - Zero pull requests: $open_pr_stat_count repos
