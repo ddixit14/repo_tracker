@@ -20,7 +20,7 @@ Repositories with desirable state :white_check_mark:: 0 / 113 repos (the higher,
 | nodejs-tasks  | 0 | 0 | true | false | 0 | false | true |
 | nodejs-speech  | 0 | 0 | true | false | 0 | false | true |
 | nodejs-redis  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-pubsub  | 21 | 2 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 22 | 2 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login  | 0 | 0 | true | false | 0 | false | true |
 | nodejs-monitoring  | 0 | 0 | true | false | 0 | false | true |
 | nodejs-language  | 0 | 0 | true | false | 0 | false | true |
