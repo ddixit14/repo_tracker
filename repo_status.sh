@@ -33,11 +33,11 @@ emoji_desirable=":white_check_mark:"
 
 # Loads document reference count
 # document_reference_count.tsv is manually updated
-##declare -A document_count
-#while IFS=$'\t' read -r key document_url file
-#do
-#  document_count["$key"]=$((document_count["$key"] + 1))
-#done < document_reference_count.tsv
+declare -A document_count
+while IFS=$'\t' read -r key document_url file
+do
+ document_count["$key"]=$((document_count["$key"] + 1))
+done < document_reference_count.tsv
 
 
 # Define the column headers
