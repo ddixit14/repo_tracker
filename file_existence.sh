@@ -17,6 +17,7 @@ file_1=files_in_repo.txt
 if [[ "$language" == "java" ]] ; then
   file_2=expected-files-java.txt
   elif [[ "$language" == "nodejs" ]] ; then
+    grep -vi ".readme-partials.yml" files_in_repo.txt > temp.txt && mv temp.txt files_in_repo.txt
     file_2=expected-files-nodejs.txt
   elif [[ "$language" == "python" ]] ; then
     file_2=expected-files-python.txt
