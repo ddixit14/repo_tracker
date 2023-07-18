@@ -1,6 +1,6 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 6 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 111 / 139 repos (the higher, the better):
 
 - Zero open issues: 134 repos
 - Zero pull requests: 124 repos
@@ -8,7 +8,7 @@ Repositories with desirable state :white_check_mark:: 6 / 139 repos (the higher,
 - About updated: 139 repos
 - Zero document references: 135 repos
 - Code Deleted: 120 repos
-- Public Archived: 8 repos
+- Public Archived: 113 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -20,135 +20,135 @@ Repositories with desirable state :white_check_mark:: 6 / 139 repos (the higher,
 | java-aiplatform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-analytics-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-analytics-data :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-api-gateway  | 0 | 0 | true | true | 0 | true | false |
+| java-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-apigee-registry  | 0 | 0 | true | true | 0 | true | false |
-| java-apikeys  | 0 | 0 | true | true | 0 | true | false |
-| java-appengine-admin  | 0 | 0 | true | true | 0 | true | false |
+| java-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-apikeys :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-appengine-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-artifact-registry  | 0 | 0 | true | true | 0 | true | false |
-| java-asset  | 0 | 0 | true | true | 0 | true | false |
-| java-assured-workloads  | 0 | 0 | true | true | 0 | true | false |
-| java-automl  | 0 | 0 | true | true | 0 | true | false |
-| java-bare-metal-solution  | 0 | 0 | true | true | 0 | true | false |
-| java-batch  | 0 | 0 | true | true | 0 | true | false |
-| java-beyondcorp-appconnections  | 0 | 0 | true | true | 0 | true | false |
-| java-beyondcorp-appconnectors  | 0 | 0 | true | true | 0 | true | false |
-| java-beyondcorp-appgateways  | 0 | 0 | true | true | 0 | true | false |
-| java-beyondcorp-clientconnectorservices  | 0 | 0 | true | true | 0 | true | false |
-| java-beyondcorp-clientgateways  | 0 | 0 | true | true | 0 | true | false |
-| java-bigquery-data-exchange  | 0 | 0 | true | true | 0 | true | false |
+| java-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-automl :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-batch :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-beyondcorp-appconnections :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-beyondcorp-appconnectors :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-beyondcorp-appgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryconnection  | 0 | 1 | true | true | [25](./document_reference_count.tsv) | false | false |
-| java-bigquerydatapolicy  | 0 | 0 | true | true | 0 | true | false |
+| java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
 | java-bigquerymigration  | 0 | 0 | true | true | 0 | false | true |
 | java-bigqueryreservation  | 0 | 2 | true | true | [2](./document_reference_count.tsv) | false | false |
 | java-billing  | 0 | 1 | true | true | 0 | false | false |
 | java-billingbudgets  | 0 | 1 | true | true | 0 | false | false |
-| java-binary-authorization  | 0 | 0 | true | true | 0 | true | false |
-| java-certificate-manager  | 0 | 0 | true | true | 0 | true | false |
-| java-channel  | 0 | 0 | true | true | 0 | true | false |
-| java-cloudbuild  | 0 | 0 | true | true | 0 | true | false |
-| java-cloudcommerceconsumerprocurement  | 0 | 0 | true | true | 0 | true | false |
+| java-binary-authorization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-cloudbuild :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-cloudcommerceconsumerprocurement :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-compute  | 0 | 0 | true | true | 0 | false | false |
 | java-common-protos  | 0 | 0 | true | true | 0 | false | false |
-| java-contact-center-insights  | 0 | 0 | true | true | 0 | true | false |
-| java-container  | 0 | 0 | true | true | 0 | true | false |
-| java-containeranalysis  | 0 | 0 | true | true | 0 | true | false |
-| java-data-fusion  | 0 | 0 | true | true | 0 | true | false |
-| java-datacatalog  | 0 | 0 | true | true | 0 | true | false |
-| java-dataflow  | 0 | 0 | true | true | 0 | true | false |
+| java-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-containeranalysis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-dataflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataform  | 0 | 0 | true | true | 0 | false | false |
-| java-datalabeling  | 0 | 0 | true | true | 0 | true | false |
+| java-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataplex  | 0 | 0 | true | true | 0 | false | false |
-| java-dataproc-metastore  | 0 | 0 | true | true | 0 | true | false |
-| java-dataproc  | 0 | 0 | true | true | 0 | true | false |
-| java-datastream  | 0 | 0 | true | true | 0 | true | false |
-| java-debugger-client  | 0 | 0 | true | true | 0 | true | false |
-| java-deploy  | 0 | 0 | true | true | 0 | true | false |
-| java-dialogflow-cx  | 0 | 0 | true | true | 0 | true | false |
+| java-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-dataproc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-debugger-client :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dialogflow  | 0 | 2 | true | true | 0 | true | false |
-| java-distributedcloudedge  | 0 | 0 | true | true | 0 | true | false |
+| java-distributedcloudedge :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dlp  | 0 | 0 | true | true | 0 | false | false |
-| java-dms  | 0 | 0 | true | true | 0 | true | false |
-| java-dns  | 0 | 0 | true | true | 0 | true | false |
-| java-document-ai  | 0 | 0 | true | true | 0 | true | false |
-| java-domains  | 0 | 0 | true | true | 0 | true | false |
-| java-errorreporting  | 0 | 0 | true | true | 0 | true | false |
-| java-essential-contacts  | 0 | 0 | true | true | 0 | true | false |
+| java-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-dns :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-document-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-errorreporting :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-essential-contacts :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-eventarc-publishing  | 0 | 0 | true | true | 0 | false | false |
-| java-eventarc  | 0 | 0 | true | true | 0 | true | false |
-| java-filestore  | 0 | 0 | true | true | 0 | true | false |
-| java-functions  | 0 | 0 | true | true | 0 | true | false |
+| java-eventarc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-filestore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-game-servers  | 0 | 1 | true | true | 0 | true | false |
 | java-gke-backup  | 0 | 0 | true | true | 0 | false | false |
-| java-gke-connect-gateway  | 0 | 0 | true | true | 0 | true | false |
+| java-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-gke-multi-cloud  | 0 | 0 | true | true | 0 | false | false |
-| java-gkehub  | 0 | 0 | true | true | 0 | true | false |
-| java-grafeas  | 0 | 0 | true | true | 0 | true | false |
-| java-gsuite-addons  | 0 | 0 | true | true | 0 | true | false |
-| java-iam-admin  | 0 | 0 | true | true | 0 | true | false |
-| java-iam  | 0 | 0 | true | true | 0 | true | false |
-| java-iamcredentials  | 0 | 0 | true | true | 0 | true | false |
-| java-ids  | 0 | 0 | true | true | 0 | true | false |
-| java-iot  | 0 | 0 | true | true | 0 | true | false |
+| java-gkehub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-grafeas :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-gsuite-addons :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-iam-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-iam :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-iamcredentials :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-iot :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-kms  | 0 | 1 | true | true | 0 | true | false |
-| java-language  | 0 | 0 | true | true | 0 | true | false |
-| java-life-sciences  | 0 | 0 | true | true | 0 | true | false |
-| java-managed-identities  | 0 | 0 | true | true | 0 | true | false |
-| java-mediatranslation  | 0 | 0 | true | true | 0 | true | false |
-| java-memcache  | 0 | 0 | true | true | 0 | true | false |
+| java-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-mediatranslation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-monitoring-dashboards  | 1 | 1 | true | true | 0 | true | false |
 | java-monitoring  | 0 | 2 | true | true | 0 | true | false |
-| java-network-management  | 0 | 0 | true | true | 0 | true | false |
-| java-network-security  | 0 | 0 | true | true | 0 | true | false |
-| java-networkconnectivity  | 0 | 0 | true | true | 0 | true | false |
-| java-notebooks  | 0 | 0 | true | true | 0 | true | false |
-| java-notification  | 0 | 0 | true | true | 0 | true | false |
-| java-optimization  | 0 | 0 | true | true | 0 | true | false |
-| java-orchestration-airflow  | 0 | 0 | true | true | 0 | true | false |
+| java-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-networkconnectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-notification :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-optimization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-orgpolicy  | 0 | 2 | true | true | 0 | false | false |
-| java-os-config  | 0 | 0 | true | true | 0 | true | false |
-| java-os-login  | 0 | 0 | true | true | 0 | true | false |
-| java-phishingprotection  | 0 | 0 | true | true | 0 | true | false |
-| java-policy-troubleshooter  | 0 | 0 | true | true | 0 | true | false |
-| java-private-catalog  | 0 | 0 | true | true | 0 | true | false |
-| java-profiler  | 0 | 0 | true | true | 0 | true | false |
-| java-recaptchaenterprise  | 0 | 0 | true | true | 0 | true | false |
-| java-recommendations-ai  | 0 | 0 | true | true | 0 | true | false |
-| java-recommender  | 0 | 0 | true | true | 0 | true | false |
-| java-redis  | 0 | 0 | true | true | 0 | true | false |
-| java-resource-settings  | 0 | 0 | true | true | 0 | true | false |
+| java-os-config :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-policy-troubleshooter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-private-catalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-profiler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-recaptchaenterprise :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-recommendations-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-recommender :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-resourcemanager  | 1 | 1 | true | true | 0 | true | false |
 | java-retail  | 0 | 1 | true | true | 0 | true | false |
-| java-run  | 0 | 0 | true | true | 0 | true | false |
-| java-scheduler  | 0 | 0 | true | true | 0 | true | false |
-| java-secretmanager  | 0 | 0 | true | true | 0 | true | false |
-| java-security-private-ca  | 0 | 0 | true | true | 0 | true | false |
-| java-securitycenter-settings  | 0 | 0 | true | true | 0 | true | false |
-| java-securitycenter  | 0 | 0 | true | true | 0 | true | false |
-| java-service-control  | 0 | 0 | true | true | 0 | true | false |
-| java-service-management  | 0 | 0 | true | true | 0 | true | false |
-| java-service-usage  | 0 | 0 | true | true | 0 | true | false |
-| java-servicedirectory  | 0 | 0 | true | true | 0 | true | false |
+| java-run :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-secretmanager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-security-private-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-securitycenter-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-service-control :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-service-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-servicedirectory :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-shared-dependencies  | 1 | 0 | true | true | 0 | false | false |
-| java-shell  | 0 | 0 | true | true | 0 | true | false |
-| java-speech  | 0 | 0 | true | true | 0 | true | false |
-| java-storage-transfer  | 0 | 0 | true | true | 0 | true | false |
+| java-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-talent  | 2 | 0 | true | true | [2](./document_reference_count.tsv) | true | false |
-| java-tasks  | 0 | 0 | true | true | 0 | true | false |
-| java-texttospeech  | 0 | 0 | true | true | 0 | true | false |
-| java-tpu  | 0 | 0 | true | true | 0 | true | false |
+| java-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-texttospeech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-trace  | 0 | 1 | true | true | 0 | true | false |
-| java-translate  | 0 | 0 | true | true | 0 | true | false |
-| java-video-intelligence  | 0 | 0 | true | true | 0 | true | false |
-| java-video-live-stream  | 0 | 0 | true | true | 0 | true | false |
-| java-video-stitcher  | 0 | 0 | true | true | 0 | true | false |
-| java-video-transcoder  | 0 | 0 | true | true | 0 | true | false |
-| java-vision  | 0 | 0 | true | true | 0 | true | false |
-| java-vmmigration  | 0 | 0 | true | true | 0 | true | false |
-| java-vpcaccess  | 0 | 0 | true | true | 0 | true | false |
-| java-webrisk  | 0 | 0 | true | true | 0 | true | false |
-| java-websecurityscanner  | 0 | 0 | true | true | 0 | true | false |
-| java-workflow-executions  | 0 | 0 | true | true | 0 | true | false |
-| java-workflows  | 0 | 0 | true | true | 0 | true | false |
+| java-translate :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-video-intelligence :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-video-live-stream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-video-transcoder :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-vision :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-vmmigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-vpcaccess :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-websecurityscanner :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-workflow-executions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-workflows :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
