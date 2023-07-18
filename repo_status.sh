@@ -33,11 +33,11 @@ emoji_desirable=":white_check_mark:"
 
 # Loads document reference count
 # document_reference_count.tsv is manually updated
-declare -A document_count
-while IFS=$'\t' read -r key document_url file
-do
-  document_count["$key"]=$((document_count["$key"] + 1))
-done < document_reference_count.tsv
+##declare -A document_count
+#while IFS=$'\t' read -r key document_url file
+#do
+#  document_count["$key"]=$((document_count["$key"] + 1))
+#done < document_reference_count.tsv
 
 
 # Define the column headers
@@ -109,6 +109,11 @@ for repository in $(cat $repositories); do
       is_present_about=false
   fi
 
+  if [[ $language == "nodejs" ]] && [[ $output_about == *"repository is deprecated"* ]]; then
+     is_present_about=true
+     about_stat_count=$((about_stat_count + 1))
+  fi
+
   document_reference_count="${document_count["$repository"]}"
   if [ -z "${document_reference_count}" ]; then
       document_reference_count=0
@@ -116,7 +121,6 @@ for repository in $(cat $repositories); do
   else
       document_reference_count="[${document_reference_count}](./document_reference_count.tsv)"
   fi
-
 
   status=$(gh repo view googleapis/${repository} --json isArchived -q '.isArchived')
   if [[ $status == "true" ]]; then
