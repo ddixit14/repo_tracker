@@ -1,21 +1,21 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 111 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 113 / 139 repos (the higher, the better):
 
-- Zero open issues: 134 repos
+- Zero open issues: 135 repos
 - Zero pull requests: 124 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
-- Code Deleted: 120 repos
-- Public Archived: 113 repos
+- Code Deleted: 123 repos
+- Public Archived: 114 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
-| api-common-java  | 0 | 0 | true | true | 0 | false | false |
-| gax-java  | 2 | 0 | true | true | 0 | false | true |
-| java-accessapproval  | 0 | 1 | true | true | 0 | false | false |
+| api-common-java :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| gax-java :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-accessapproval  | 0 | 1 | true | true | 0 | true | false |
 | java-accesscontextmanager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-aiplatform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-analytics-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
