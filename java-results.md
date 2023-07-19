@@ -1,21 +1,21 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 113 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 114 / 139 repos (the higher, the better):
 
 - Zero open issues: 135 repos
-- Zero pull requests: 124 repos
+- Zero pull requests: 126 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
 - Code Deleted: 123 repos
-- Public Archived: 114 repos
+- Public Archived: 116 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | api-common-java :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | gax-java :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-accessapproval  | 0 | 1 | true | true | 0 | true | false |
+| java-accessapproval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-accesscontextmanager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-aiplatform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-analytics-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -43,7 +43,7 @@ Repositories with desirable state :white_check_mark:: 113 / 139 repos (the highe
 | java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
 | java-bigquerymigration  | 0 | 0 | true | true | 0 | false | true |
 | java-bigqueryreservation  | 0 | 2 | true | true | [2](./document_reference_count.tsv) | false | false |
-| java-billing  | 0 | 1 | true | true | 0 | false | false |
+| java-billing  | 0 | 0 | true | true | 0 | false | true |
 | java-billingbudgets  | 0 | 1 | true | true | 0 | false | false |
 | java-binary-authorization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
