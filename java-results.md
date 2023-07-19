@@ -1,14 +1,14 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 114 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 117 / 139 repos (the higher, the better):
 
-- Zero open issues: 135 repos
-- Zero pull requests: 126 repos
+- Zero open issues: 134 repos
+- Zero pull requests: 128 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
-- Code Deleted: 123 repos
-- Public Archived: 116 repos
+- Code Deleted: 127 repos
+- Public Archived: 119 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -38,20 +38,20 @@ Repositories with desirable state :white_check_mark:: 114 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 1 | true | true | [25](./document_reference_count.tsv) | false | false |
+| java-bigqueryconnection  | 0 | 0 | true | true | [25](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
 | java-bigquerymigration  | 0 | 0 | true | true | 0 | false | true |
-| java-bigqueryreservation  | 0 | 2 | true | true | [2](./document_reference_count.tsv) | false | false |
-| java-billing  | 0 | 0 | true | true | 0 | false | true |
-| java-billingbudgets  | 0 | 1 | true | true | 0 | false | false |
+| java-bigqueryreservation  | 0 | 1 | true | true | [2](./document_reference_count.tsv) | false | false |
+| java-billing  | 1 | 0 | true | true | 0 | true | true |
+| java-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-binary-authorization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-cloudbuild :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-cloudcommerceconsumerprocurement :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-compute  | 0 | 0 | true | true | 0 | false | false |
-| java-common-protos  | 0 | 0 | true | true | 0 | false | false |
+| java-compute :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-common-protos :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-containeranalysis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
