@@ -1,14 +1,14 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 118 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 121 / 139 repos (the higher, the better):
 
-- Zero open issues: 135 repos
-- Zero pull requests: 128 repos
+- Zero open issues: 136 repos
+- Zero pull requests: 129 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
-- Code Deleted: 127 repos
-- Public Archived: 119 repos
+- Code Deleted: 130 repos
+- Public Archived: 121 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -38,10 +38,10 @@ Repositories with desirable state :white_check_mark:: 118 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 0 | true | true | [25](./document_reference_count.tsv) | false | false |
+| java-bigqueryconnection  | 0 | 0 | true | true | [18](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
-| java-bigquerymigration  | 0 | 0 | true | true | 0 | false | true |
+| java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryreservation  | 0 | 1 | true | true | [2](./document_reference_count.tsv) | false | false |
 | java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -107,7 +107,7 @@ Repositories with desirable state :white_check_mark:: 118 / 139 repos (the highe
 | java-notification :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-optimization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-orgpolicy  | 0 | 2 | true | true | 0 | false | false |
+| java-orgpolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-os-config :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -131,7 +131,7 @@ Repositories with desirable state :white_check_mark:: 118 / 139 repos (the highe
 | java-service-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-servicedirectory :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-shared-dependencies  | 1 | 0 | true | true | 0 | false | false |
+| java-shared-dependencies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
