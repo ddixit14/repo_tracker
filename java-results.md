@@ -1,8 +1,8 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 117 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 118 / 139 repos (the higher, the better):
 
-- Zero open issues: 134 repos
+- Zero open issues: 135 repos
 - Zero pull requests: 128 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
@@ -43,7 +43,7 @@ Repositories with desirable state :white_check_mark:: 117 / 139 repos (the highe
 | java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
 | java-bigquerymigration  | 0 | 0 | true | true | 0 | false | true |
 | java-bigqueryreservation  | 0 | 1 | true | true | [2](./document_reference_count.tsv) | false | false |
-| java-billing  | 1 | 0 | true | true | 0 | true | true |
+| java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-binary-authorization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
