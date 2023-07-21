@@ -1,6 +1,6 @@
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 108 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 106 / 113 repos (the higher, the better):
 
 - Zero open issues: 112 repos
 - Zero pull requests: 112 repos
@@ -32,7 +32,7 @@ Repositories with desirable state :white_check_mark:: 108 / 113 repos (the highe
 | nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-iot :white_check_mark: | 0 | 0 | true | true | [29](./document_reference_count.tsv) | true | true |
+| nodejs-iot  | 0 | 0 | true | true | [29](./document_reference_count.tsv) | true | true |
 | nodejs-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-security-center :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -51,7 +51,7 @@ Repositories with desirable state :white_check_mark:: 108 / 113 repos (the highe
 | nodejs-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-game-servers :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-service-directory :white_check_mark: | 0 | 0 | true | true | [8](./document_reference_count.tsv) | true | true |
+| nodejs-service-directory  | 0 | 0 | true | true | [8](./document_reference_count.tsv) | true | true |
 | nodejs-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-document-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
