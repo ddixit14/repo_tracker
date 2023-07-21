@@ -132,7 +132,8 @@ for repository in $(cat $repositories); do
 
   if [[ "$open_issues_count" -eq 0 && "$open_pull_requests" -eq 0 && \
         "$is_present_readme" == "true" && "$is_present_about" == "true" && \
-        "$code_deleted" == "true" && "$is_public_archive" == "true" ]]; then
+        "$code_deleted" == "true" && "$is_public_archive" == "true" && \
+        "$document_reference_count" == "0" ]]; then
      desired_count=$((desired_count + 1))
      repo_status="${emoji_desirable}"
   else
