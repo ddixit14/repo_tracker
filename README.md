@@ -154,22 +154,22 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-workflows :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 25 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 106 / 113 repos (the higher, the better):
 
-- Zero open issues: 111 repos
-- Zero pull requests: 108 repos
+- Zero open issues: 112 repos
+- Zero pull requests: 112 repos
 - README.md updated: 112 repos
-- About updated: 42 repos
+- About updated: 109 repos
 - Zero document references: 110 repos
-- Code Deleted: 86 repos
-- Public Archived: 111 repos
+- Code Deleted: 108 repos
+- Public Archived: 112 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
-| nodejs-vision  | 0 | 0 | true | true | 0 | false | true |
+| nodejs-vision :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-video-intelligence :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-translate  | 0 | 0 | true | false | 0 | true | true |
+| nodejs-translate :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-text-to-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -181,114 +181,114 @@ Repositories with desirable state :white_check_mark:: 25 / 113 repos (the higher
 | nodejs-dlp :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-dataproc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-compute :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-cloud-container  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-bigquery-data-transfer  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-dialogflow  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-resource-manager  | 0 | 0 | true | true | 0 | false | true |
+| nodejs-cloud-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-bigquery-data-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-iot  | 0 | 0 | true | true | [29](./document_reference_count.tsv) | false | true |
+| nodejs-iot  | 0 | 0 | true | true | [29](./document_reference_count.tsv) | true | true |
 | nodejs-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-security-center  | 0 | 0 | true | true | 0 | false | true |
+| nodejs-security-center :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-recaptcha-enterprise :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-datacatalog  | 0 | 0 | true | true | 0 | false | true |
+| nodejs-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-datalabeling  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-web-risk  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-containeranalysis  | 0 | 0 | true | true | 0 | false | true |
+| nodejs-web-risk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-containeranalysis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-cloudbuild :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-grafeas  | 0 | 0 | true | true | 0 | false | true |
+| nodejs-grafeas :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-phishing-protection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-monitoring-dashboards  | 0 | 1 | true | true | 0 | false | true |
+| nodejs-monitoring-dashboards :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-billing-budgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-recommender :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-secret-manager  | 0 | 0 | true | false | 0 | true | true |
+| nodejs-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-billing  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-game-servers  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-service-directory :white_check_mark: | 0 | 0 | true | true | [8](./document_reference_count.tsv) | true | true |
+| nodejs-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-game-servers :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-service-directory  | 0 | 0 | true | true | [8](./document_reference_count.tsv) | true | true |
 | nodejs-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-document-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-os-config :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-dialogflow  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-bigquery-connection  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-functions  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-analytics-admin  | 1 | 3 | true | false | 0 | false | false |
-| nodejs-bigquery-reservation  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-dialogflow-cx  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-analytics-data  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-notebooks  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-assured-workloads  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-workflows  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-area120-tables  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-security-private-ca  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-video-transcoder  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-ai-platform  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-data-qna  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-artifact-registry  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-web-security-scanner  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-binary-authorization  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-access-approval  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-channel  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-retail  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-iam-credentials  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-managed-identities  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-gke-hub  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-domains  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-network-connectivity  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-policy-troubleshooter  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-dataproc-metastore  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-org-policy  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-api-gateway  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-service-management  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-service-control  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-appengine-admin  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-service-usage  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-dms  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-resource-manager  | 0 | 0 | true | true | 0 | false | true |
-| nodejs-essential-contacts  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-cloud-tpu  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-apigee-connect  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-cloud-shell  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-vpc-access  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-private-catalog  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-life-sciences  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-gke-connect-gateway  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-contact-center-insights  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-resource-settings  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-dataflow  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-eventarc  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-filestore  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-network-management  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-iap  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-storage-transfer  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-orchestration-airflow  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-datastream  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-deploy  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-network-security  | 0 | 1 | true | false | 0 | false | true |
-| nodejs-data-fusion  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-access-context-manager  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-vmmigration  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-ids  | 0 | 1 | true | false | 0 | false | true |
-| nodejs-dataplex  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-video-live-stream  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-eventarc-publishing  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-certificate-manager  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-cloud-optimization  | 0 | 0 | true | false | 0 | true | true |
-| nodejs-run  | 0 | 0 | true | false | 0 | true | true |
+| nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-bigquery-connection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-analytics-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-bigquery-reservation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-analytics-data :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-workflows :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-security-private-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-video-transcoder :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-ai-platform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-web-security-scanner :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-binary-authorization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-retail :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-iam-credentials :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-gke-hub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-policy-troubleshooter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-org-policy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-service-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-service-control :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-appengine-admin :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-essential-contacts :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-cloud-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-cloud-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-private-catalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-dataflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-eventarc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-filestore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-access-context-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-vmmigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-dataplex :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-video-live-stream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-eventarc-publishing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-cloud-optimization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-run :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-bigquery-data-exchange  | 0 | 0 | true | false | 0 | false | true |
 | nodejs-gke-backup  | 0 | 0 | true | false | 0 | false | true |
 | nodejs-bare-metal-solution  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-video-stitcher  | 0 | 0 | true | false | 0 | true | true |
+| nodejs-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 # python
 
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
 - Zero open issues: 111 repos
-- Zero pull requests: 107 repos
+- Zero pull requests: 88 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
-- Zero document references: 117 repos
+- Zero document references: 118 repos
 - Code Deleted: 78 repos
 - Public Archived: 78 repos
 
@@ -296,8 +296,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
-| python-analytics-admin  | 3 | 0 | false | false | 0 | false | false |
+| python-access-context-manager  | 2 | 1 | false | false | 0 | false | false |
+| python-analytics-admin  | 3 | 1 | false | false | 0 | false | false |
 | python-analytics-data  | 13 | 0 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -306,7 +306,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-appengine-admin  | 0 | 0 | false | false | 0 | false | false |
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-asset  | 0 | 1 | false | false | 0 | false | false |
+| python-asset  | 0 | 2 | false | false | 0 | false | false |
 | python-assured-workloads  | 0 | 1 | false | false | 0 | false | false |
 | python-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-batch :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -316,37 +316,37 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-analyticshub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-connection  | 0 | 0 | false | false | [3](./document_reference_count.tsv) | false | false |
+| python-bigquery-connection  | 0 | 1 | false | false | [2](./document_reference_count.tsv) | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-datatransfer  | 0 | 1 | false | false | [26](./document_reference_count.tsv) | false | false |
-| python-bigquery-migration  | 1 | 0 | false | false | [1](./document_reference_count.tsv) | false | false |
-| python-bigquery-reservation  | 0 | 0 | false | false | [8](./document_reference_count.tsv) | false | false |
+| python-bigquery-datatransfer  | 0 | 2 | false | false | [10](./document_reference_count.tsv) | false | false |
+| python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
+| python-bigquery-reservation  | 0 | 1 | false | false | [8](./document_reference_count.tsv) | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-cloudbuild  | 0 | 1 | false | false | 0 | false | false |
+| python-cloudbuild  | 0 | 2 | false | false | 0 | false | false |
 | python-compute  | 3 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 1 | 0 | false | false | 0 | false | false |
-| python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
+| python-container  | 1 | 1 | false | false | 0 | false | false |
+| python-containeranalysis  | 0 | 1 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
 | python-dataform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataplex :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dataproc  | 1 | 1 | false | false | 0 | false | false |
+| python-dataproc  | 1 | 2 | false | false | 0 | false | false |
 | python-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-debugger-client  | 0 | 0 | false | false | 0 | false | false |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 0 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 1 | false | false | 0 | false | false |
 | python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
-| python-dlp  | 0 | 0 | false | false | 0 | false | false |
+| python-dlp  | 0 | 1 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-documentai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -356,34 +356,34 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-eventarc-publishing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-filestore  | 0 | 0 | false | false | 0 | false | false |
 | python-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-gke-backup  | 0 | 1 | false | false | 0 | false | false |
+| python-gke-backup  | 0 | 2 | false | false | 0 | false | false |
 | python-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-hub  | 0 | 0 | false | false | 0 | false | false |
 | python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-grpc-google-iam-v1  | 2 | 1 | false | false | 0 | false | false |
-| python-gsuiteaddons  | 0 | 0 | false | false | 0 | false | false |
-| python-iam  | 3 | 0 | false | false | 0 | false | false |
+| python-grpc-google-iam-v1  | 2 | 2 | false | false | 0 | false | false |
+| python-gsuiteaddons  | 0 | 1 | false | false | 0 | false | false |
+| python-iam  | 3 | 1 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 0 | 1 | false | false | [57](./document_reference_count.tsv) | false | false |
-| python-kms  | 0 | 0 | false | false | 0 | false | false |
+| python-iot  | 0 | 3 | false | false | [57](./document_reference_count.tsv) | false | false |
+| python-kms  | 0 | 2 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-monitoring-dashboards  | 2 | 0 | false | false | 0 | false | false |
+| python-monitoring-dashboards  | 2 | 1 | false | false | 0 | false | false |
 | python-monitoring-metrics-scopes :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-network-services  | 0 | 1 | false | false | 0 | false | false |
+| python-network-services  | 0 | 2 | false | false | 0 | false | false |
 | python-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-optimization  | 0 | 0 | false | false | 0 | false | false |
+| python-optimization  | 0 | 1 | false | false | 0 | false | false |
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-org-policy  | 1 | 0 | false | false | 0 | false | false |
-| python-os-config  | 0 | 0 | false | false | 0 | false | false |
-| python-oslogin  | 0 | 0 | false | false | 0 | false | false |
+| python-org-policy  | 1 | 1 | false | false | 0 | false | false |
+| python-os-config  | 0 | 1 | false | false | 0 | false | false |
+| python-oslogin  | 0 | 1 | false | false | 0 | false | false |
 | python-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-policy-troubleshooter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-private-catalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -394,8 +394,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 1 | false | false | 0 | false | false |
-| python-run  | 0 | 0 | false | false | 0 | false | false |
-| python-scheduler  | 0 | 0 | false | false | 0 | false | false |
+| python-run  | 0 | 1 | false | false | 0 | false | false |
+| python-scheduler  | 0 | 1 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-security-private-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -407,11 +407,11 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-storage-transfer  | 0 | 0 | false | false | 0 | false | false |
 | python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-tasks  | 0 | 1 | false | false | 0 | false | false |
-| python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
+| python-tasks  | 0 | 2 | false | false | 0 | false | false |
+| python-texttospeech  | 2 | 2 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-trace  | 0 | 0 | false | false | 0 | false | false |
-| python-videointelligence  | 3 | 1 | false | false | [57](./document_reference_count.tsv) | false | false |
+| python-trace  | 0 | 1 | false | false | 0 | false | false |
+| python-videointelligence  | 3 | 2 | false | false | [58](./document_reference_count.tsv) | false | false |
 | python-video-live-stream  | 0 | 2 | false | false | [53](./document_reference_count.tsv) | false | false |
 | python-video-stitcher  | 0 | 1 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 1 | false | false | 0 | false | false |
