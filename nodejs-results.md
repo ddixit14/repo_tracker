@@ -1,13 +1,13 @@
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 106 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 109 / 113 repos (the higher, the better):
 
 - Zero open issues: 112 repos
 - Zero pull requests: 112 repos
 - README.md updated: 112 repos
-- About updated: 109 repos
+- About updated: 112 repos
 - Zero document references: 110 repos
-- Code Deleted: 108 repos
+- Code Deleted: 111 repos
 - Public Archived: 112 repos
 
 ### Repository state
@@ -20,7 +20,7 @@ Repositories with desirable state :white_check_mark:: 106 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 3 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 22 | 4 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -122,7 +122,7 @@ Repositories with desirable state :white_check_mark:: 106 / 113 repos (the highe
 | nodejs-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-cloud-optimization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-run :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-bigquery-data-exchange  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-gke-backup  | 0 | 0 | true | false | 0 | false | true |
-| nodejs-bare-metal-solution  | 0 | 0 | true | false | 0 | false | true |
+| nodejs-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-gke-backup :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| nodejs-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
