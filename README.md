@@ -38,9 +38,9 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 0 | true | true | [18](./document_reference_count.tsv) | false | false |
+| java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
+| java-bigquerydatatransfer  | 0 | 1 | true | true | [55](./document_reference_count.tsv) | false | false |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryreservation  | 0 | 1 | true | true | [2](./document_reference_count.tsv) | false | false |
 | java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -174,7 +174,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 4 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 21 | 3 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -186,7 +186,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-iot  | 0 | 0 | true | true | [29](./document_reference_count.tsv) | true | true |
+| nodejs-iot  | 0 | 0 | true | true | [12](./document_reference_count.tsv) | true | true |
 | nodejs-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-security-center :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -288,7 +288,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 - Zero pull requests: 109 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
-- Zero document references: 118 repos
+- Zero document references: 120 repos
 - Code Deleted: 78 repos
 - Public Archived: 78 repos
 
@@ -316,10 +316,10 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-analyticshub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-connection  | 0 | 0 | false | false | [2](./document_reference_count.tsv) | false | false |
+| python-bigquery-connection  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-datatransfer  | 0 | 0 | false | false | [10](./document_reference_count.tsv) | false | false |
+| python-bigquery-datatransfer  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
 | python-bigquery-reservation  | 0 | 0 | false | false | [8](./document_reference_count.tsv) | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -365,7 +365,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 0 | 1 | false | false | [57](./document_reference_count.tsv) | false | false |
+| python-iot  | 0 | 1 | false | false | [34](./document_reference_count.tsv) | false | false |
 | python-kms  | 0 | 1 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -411,8 +411,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 0 | false | false | 0 | false | false |
-| python-videointelligence  | 3 | 1 | false | false | [58](./document_reference_count.tsv) | false | false |
-| python-video-live-stream  | 0 | 1 | false | false | [53](./document_reference_count.tsv) | false | false |
+| python-videointelligence  | 3 | 1 | false | false | [45](./document_reference_count.tsv) | false | false |
+| python-video-live-stream  | 0 | 1 | false | false | [52](./document_reference_count.tsv) | false | false |
 | python-video-stitcher  | 0 | 0 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 0 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
