@@ -38,9 +38,9 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 0 | true | true | [18](./document_reference_count.tsv) | false | false |
+| java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigquerydatatransfer  | 0 | 1 | true | true | [58](./document_reference_count.tsv) | false | false |
+| java-bigquerydatatransfer  | 0 | 1 | true | true | [55](./document_reference_count.tsv) | false | false |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryreservation  | 0 | 1 | true | true | [2](./document_reference_count.tsv) | false | false |
 | java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
