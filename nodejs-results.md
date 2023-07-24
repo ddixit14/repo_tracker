@@ -20,7 +20,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 4 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 21 | 3 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -32,7 +32,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-iot  | 0 | 0 | true | true | [29](./document_reference_count.tsv) | true | true |
+| nodejs-iot  | 0 | 0 | true | true | [12](./document_reference_count.tsv) | true | true |
 | nodejs-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-security-center :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
