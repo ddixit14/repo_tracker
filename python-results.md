@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
 - Zero open issues: 111 repos
-- Zero pull requests: 109 repos
+- Zero pull requests: 110 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 120 repos
@@ -48,7 +48,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-cloudbuild  | 0 | 1 | false | false | 0 | false | false |
 | python-compute  | 3 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 1 | 1 | false | false | 0 | false | false |
+| python-container  | 1 | 0 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
