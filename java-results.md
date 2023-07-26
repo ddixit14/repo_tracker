@@ -3,11 +3,11 @@
 Repositories with desirable state :white_check_mark:: 121 / 139 repos (the higher, the better):
 
 - Zero open issues: 136 repos
-- Zero pull requests: 129 repos
+- Zero pull requests: 125 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
-- Code Deleted: 130 repos
+- Code Deleted: 132 repos
 - Public Archived: 121 repos
 
 ### Repository state
@@ -58,9 +58,9 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dataform  | 0 | 0 | true | true | 0 | false | false |
+| java-dataform  | 0 | 1 | true | true | 0 | false | false |
 | java-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dataplex  | 0 | 0 | true | true | 0 | false | false |
+| java-dataplex  | 0 | 1 | true | true | 0 | false | false |
 | java-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataproc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -69,21 +69,21 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dialogflow  | 0 | 2 | true | true | 0 | true | false |
 | java-distributedcloudedge :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dlp  | 0 | 0 | true | true | 0 | false | false |
+| java-dlp  | 0 | 0 | true | true | 0 | true | false |
 | java-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dns :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-document-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-errorreporting :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-essential-contacts :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-eventarc-publishing  | 0 | 0 | true | true | 0 | false | false |
+| java-eventarc-publishing  | 0 | 0 | true | true | 0 | true | false |
 | java-eventarc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-filestore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-game-servers  | 0 | 1 | true | true | 0 | true | false |
-| java-gke-backup  | 0 | 0 | true | true | 0 | false | false |
+| java-gke-backup  | 0 | 1 | true | true | 0 | false | false |
 | java-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-gke-multi-cloud  | 0 | 0 | true | true | 0 | false | false |
+| java-gke-multi-cloud  | 0 | 1 | true | true | 0 | false | false |
 | java-gkehub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-grafeas :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-gsuite-addons :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
