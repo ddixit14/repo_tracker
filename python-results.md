@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
 - Zero open issues: 111 repos
-- Zero pull requests: 88 repos
+- Zero pull requests: 90 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 120 repos
@@ -15,7 +15,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 2 | false | false | 0 | false | false |
-| python-analytics-admin  | 3 | 2 | false | false | 0 | false | false |
+| python-analytics-admin  | 3 | 3 | false | false | 0 | false | false |
 | python-analytics-data  | 13 | 1 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -39,7 +39,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 2 | false | false | 0 | false | false |
 | python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
-| python-bigquery-reservation  | 0 | 1 | false | false | [8](./document_reference_count.tsv) | false | false |
+| python-bigquery-reservation  | 0 | 2 | false | false | [8](./document_reference_count.tsv) | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
@@ -78,9 +78,9 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-hub  | 0 | 0 | false | false | 0 | false | false |
 | python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-grpc-google-iam-v1  | 2 | 2 | false | false | 0 | false | false |
+| python-grpc-google-iam-v1  | 2 | 1 | false | false | 0 | false | false |
 | python-gsuiteaddons  | 0 | 1 | false | false | 0 | false | false |
-| python-iam  | 3 | 1 | false | false | 0 | false | false |
+| python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-iot  | 0 | 3 | false | false | [34](./document_reference_count.tsv) | false | false |
@@ -113,7 +113,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 0 | false | false | 0 | false | false |
 | python-run  | 0 | 1 | false | false | 0 | false | false |
-| python-scheduler  | 0 | 1 | false | false | 0 | false | false |
+| python-scheduler  | 0 | 0 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-security-private-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
