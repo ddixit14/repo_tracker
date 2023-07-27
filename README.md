@@ -1,14 +1,14 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 121 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 129 / 139 repos (the higher, the better):
 
-- Zero open issues: 136 repos
-- Zero pull requests: 125 repos
+- Zero open issues: 138 repos
+- Zero pull requests: 132 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
-- Code Deleted: 132 repos
-- Public Archived: 121 repos
+- Code Deleted: 136 repos
+- Public Archived: 129 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -58,9 +58,9 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dataform  | 0 | 1 | true | true | 0 | false | false |
+| java-dataform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dataplex  | 0 | 1 | true | true | 0 | false | false |
+| java-dataplex :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dataproc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -69,21 +69,21 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dialogflow  | 0 | 2 | true | true | 0 | true | false |
 | java-distributedcloudedge :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dlp  | 0 | 0 | true | true | 0 | true | false |
+| java-dlp :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dns :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-document-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-errorreporting :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-essential-contacts :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-eventarc-publishing  | 0 | 0 | true | true | 0 | true | false |
+| java-eventarc-publishing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-eventarc :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-filestore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-game-servers  | 0 | 1 | true | true | 0 | true | false |
-| java-gke-backup  | 0 | 1 | true | true | 0 | false | false |
+| java-game-servers :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-gke-backup :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-gke-multi-cloud  | 0 | 1 | true | true | 0 | false | false |
+| java-gke-multi-cloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-gkehub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-grafeas :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-gsuite-addons :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -98,8 +98,8 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-mediatranslation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-monitoring-dashboards  | 1 | 1 | true | true | 0 | true | false |
-| java-monitoring  | 0 | 2 | true | true | 0 | true | false |
+| java-monitoring-dashboards :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-monitoring  | 0 | 0 | true | true | 0 | true | false |
 | java-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-networkconnectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -135,7 +135,7 @@ Repositories with desirable state :white_check_mark:: 121 / 139 repos (the highe
 | java-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-talent  | 2 | 0 | true | true | [2](./document_reference_count.tsv) | true | false |
+| java-talent  | 0 | 0 | true | true | [2](./document_reference_count.tsv) | true | false |
 | java-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-texttospeech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -174,7 +174,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 21 | 4 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 22 | 2 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -285,7 +285,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
 - Zero open issues: 111 repos
-- Zero pull requests: 88 repos
+- Zero pull requests: 90 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 120 repos
@@ -297,7 +297,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 2 | false | false | 0 | false | false |
-| python-analytics-admin  | 3 | 2 | false | false | 0 | false | false |
+| python-analytics-admin  | 3 | 3 | false | false | 0 | false | false |
 | python-analytics-data  | 13 | 1 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -321,7 +321,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 2 | false | false | 0 | false | false |
 | python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
-| python-bigquery-reservation  | 0 | 1 | false | false | [8](./document_reference_count.tsv) | false | false |
+| python-bigquery-reservation  | 0 | 2 | false | false | [8](./document_reference_count.tsv) | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
@@ -360,9 +360,9 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-hub  | 0 | 0 | false | false | 0 | false | false |
 | python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-grpc-google-iam-v1  | 2 | 2 | false | false | 0 | false | false |
+| python-grpc-google-iam-v1  | 2 | 1 | false | false | 0 | false | false |
 | python-gsuiteaddons  | 0 | 1 | false | false | 0 | false | false |
-| python-iam  | 3 | 1 | false | false | 0 | false | false |
+| python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-iot  | 0 | 3 | false | false | [34](./document_reference_count.tsv) | false | false |
@@ -395,7 +395,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 0 | false | false | 0 | false | false |
 | python-run  | 0 | 1 | false | false | 0 | false | false |
-| python-scheduler  | 0 | 1 | false | false | 0 | false | false |
+| python-scheduler  | 0 | 0 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-security-private-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
