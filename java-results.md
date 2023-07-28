@@ -2,12 +2,12 @@
 
 Repositories with desirable state :white_check_mark:: 129 / 139 repos (the higher, the better):
 
-- Zero open issues: 138 repos
+- Zero open issues: 137 repos
 - Zero pull requests: 132 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 135 repos
-- Code Deleted: 136 repos
+- Code Deleted: 137 repos
 - Public Archived: 129 repos
 
 ### Repository state
@@ -40,7 +40,7 @@ Repositories with desirable state :white_check_mark:: 129 / 139 repos (the highe
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigquerydatatransfer  | 0 | 1 | true | true | [55](./document_reference_count.tsv) | false | false |
+| java-bigquerydatatransfer  | 0 | 1 | true | true | [55](./document_reference_count.tsv) | true | false |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryreservation  | 0 | 1 | true | true | [2](./document_reference_count.tsv) | false | false |
 | java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -135,7 +135,7 @@ Repositories with desirable state :white_check_mark:: 129 / 139 repos (the highe
 | java-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-talent  | 0 | 0 | true | true | [2](./document_reference_count.tsv) | true | false |
+| java-talent  | 1 | 0 | true | true | [2](./document_reference_count.tsv) | true | false |
 | java-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-texttospeech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
