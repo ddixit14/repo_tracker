@@ -6,7 +6,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 - Zero pull requests: 107 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
-- Zero document references: 120 repos
+- Zero document references: 121 repos
 - Code Deleted: 78 repos
 - Public Archived: 78 repos
 
@@ -39,7 +39,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 1 | false | false | 0 | false | false |
 | python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
-| python-bigquery-reservation  | 0 | 1 | false | false | [8](./document_reference_count.tsv) | false | false |
+| python-bigquery-reservation  | 0 | 1 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
