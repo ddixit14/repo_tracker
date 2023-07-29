@@ -1,14 +1,14 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 130 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 131 / 139 repos (the higher, the better):
 
-- Zero open issues: 137 repos
+- Zero open issues: 138 repos
 - Zero pull requests: 134 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 137 repos
 - Code Deleted: 138 repos
-- Public Archived: 131 repos
+- Public Archived: 132 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -135,7 +135,7 @@ Repositories with desirable state :white_check_mark:: 130 / 139 repos (the highe
 | java-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-talent  | 1 | 0 | true | true | 0 | true | false |
+| java-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-texttospeech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
