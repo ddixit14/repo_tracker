@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 131 / 139 repos (the higher, the better):
 
 - Zero open issues: 138 repos
-- Zero pull requests: 134 repos
+- Zero pull requests: 135 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 137 repos
@@ -67,7 +67,7 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-debugger-client :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dialogflow  | 0 | 2 | true | true | 0 | true | false |
+| java-dialogflow  | 0 | 0 | true | true | 0 | true | false |
 | java-distributedcloudedge :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dlp :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
