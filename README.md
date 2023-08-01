@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 131 / 139 repos (the higher, the better):
 
 - Zero open issues: 138 repos
-- Zero pull requests: 134 repos
+- Zero pull requests: 135 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 137 repos
@@ -67,7 +67,7 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-debugger-client :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dialogflow  | 0 | 2 | true | true | 0 | true | false |
+| java-dialogflow  | 0 | 0 | true | true | 0 | true | false |
 | java-distributedcloudedge :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dlp :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -285,7 +285,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
 - Zero open issues: 111 repos
-- Zero pull requests: 107 repos
+- Zero pull requests: 108 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 121 repos
@@ -321,7 +321,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 1 | false | false | 0 | false | false |
 | python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
-| python-bigquery-reservation  | 0 | 1 | false | false | 0 | false | false |
+| python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
