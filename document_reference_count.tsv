@@ -21,7 +21,6 @@ java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/samples/bigquer
 java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/samples/bigquerydatatransfer-delete-transfer	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/DeleteTransferConfig.java
 java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/working-with-transfers	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/DeleteTransferConfig.java
 java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/samples/bigquerydatatransfer-disable-transfer	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/DisableTransferConfig.java
-java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/working-with-transfers	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/DisableTransferConfig.java
 java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/samples/bigquerydatatransfer-get-config-info	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/GetTransferConfigInfo.java
 java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/samples/bigquerydatatransfer-list-configs	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/ListTransferConfigs.java
 java-bigquerydatatransfer	https://cloud.google.com/bigquery/docs/samples/bigquerydatatransfer-quickstart	googleapis/java-bigquerydatatransfer/samples/snippets/src/main/java/com/example/bigquerydatatransfer/QuickstartSample.java
@@ -272,6 +271,7 @@ python-iot	https://cloud.google.com/iot/docs/samples/iot-set-iam-policy	googleap
 python-iot	https://cloud.google.com/iot/docs/samples/iot-unbind-device-from-gateway	googleapis/python-iot/samples/api-client/manager/manager.py
 python-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/python-iot/samples/api-client/mqtt_example/cloudiot_mqtt_example.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/create_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-channel	googleapis/python-video-live-stream/samples/snippets/create_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/create_channel_event.py
@@ -282,6 +282,7 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/configu
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-channel-with-backup-input	googleapis/python-video-live-stream/samples/snippets/create_channel_with_backup_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/configure-backup-stream	googleapis/python-video-live-stream/samples/snippets/create_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/create_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-input	googleapis/python-video-live-stream/samples/snippets/create_input.py
@@ -304,6 +305,7 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livest
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/get_channel_event.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-get-channel-event	googleapis/python-video-live-stream/samples/snippets/get_channel_event.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/get_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/get_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-get-input	googleapis/python-video-live-stream/samples/snippets/get_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/list_channel_events.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-list-channel-events	googleapis/python-video-live-stream/samples/snippets/list_channel_events.py
@@ -312,6 +314,7 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livest
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/list_inputs.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-list-inputs	googleapis/python-video-live-stream/samples/snippets/list_inputs.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/start_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/start_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/start_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/start_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-start-channel	googleapis/python-video-live-stream/samples/snippets/start_channel.py
