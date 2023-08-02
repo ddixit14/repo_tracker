@@ -1,14 +1,14 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 131 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 137 / 139 repos (the higher, the better):
 
-- Zero open issues: 138 repos
-- Zero pull requests: 135 repos
+- Zero open issues: 139 repos
+- Zero pull requests: 139 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 137 repos
 - Code Deleted: 138 repos
-- Public Archived: 132 repos
+- Public Archived: 138 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -40,7 +40,7 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigquerydatatransfer  | 0 | 0 | true | true | [23](./document_reference_count.tsv) | true | true |
+| java-bigquerydatatransfer  | 0 | 0 | true | true | [22](./document_reference_count.tsv) | true | true |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryreservation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -67,7 +67,7 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-debugger-client :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-dialogflow  | 0 | 0 | true | true | 0 | true | false |
+| java-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-distributedcloudedge :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dlp :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -92,14 +92,14 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-iamcredentials :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-iot :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-kms  | 0 | 1 | true | true | 0 | true | false |
+| java-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-mediatranslation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-monitoring-dashboards :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-monitoring  | 0 | 0 | true | true | 0 | true | false |
+| java-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-networkconnectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -119,8 +119,8 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-recommender :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-resourcemanager  | 1 | 1 | true | true | 0 | true | false |
-| java-retail  | 0 | 1 | true | true | 0 | true | false |
+| java-resourcemanager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| java-retail :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-run :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-secretmanager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -139,7 +139,7 @@ Repositories with desirable state :white_check_mark:: 131 / 139 repos (the highe
 | java-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-texttospeech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-trace  | 0 | 1 | true | true | 0 | true | false |
+| java-trace :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-translate :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-video-intelligence :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-video-live-stream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
