@@ -34,7 +34,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-analyticshub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-connection  | 0 | 1 | false | false | 0 | false | false |
+| python-bigquery-connection  | 0 | 2 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 2 | false | false | 0 | false | false |
@@ -49,20 +49,20 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-compute  | 3 | 1 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container  | 1 | 1 | false | false | 0 | false | false |
-| python-containeranalysis  | 0 | 1 | false | false | 0 | false | false |
+| python-containeranalysis  | 0 | 2 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
 | python-dataform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataplex :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dataproc  | 1 | 3 | false | false | 0 | false | false |
+| python-dataproc  | 1 | 2 | false | false | 0 | false | false |
 | python-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-debugger-client  | 0 | 0 | false | false | 0 | false | false |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 2 | false | false | 0 | false | false |
 | python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
 | python-dlp  | 0 | 1 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -83,8 +83,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-iam  | 3 | 1 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 0 | 6 | false | false | [34](./document_reference_count.tsv) | false | false |
-| python-kms  | 0 | 1 | false | false | 0 | false | false |
+| python-iot  | 0 | 7 | false | false | [34](./document_reference_count.tsv) | false | false |
+| python-kms  | 0 | 2 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -112,7 +112,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 1 | false | false | 0 | false | false |
-| python-run  | 0 | 1 | false | false | 0 | false | false |
+| python-run  | 0 | 2 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 1 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -125,12 +125,12 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-storage-transfer  | 0 | 0 | false | false | 0 | false | false |
 | python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-tasks  | 0 | 1 | false | false | 0 | false | false |
+| python-tasks  | 0 | 2 | false | false | 0 | false | false |
 | python-texttospeech  | 2 | 2 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 1 | false | false | 0 | false | false |
 | python-videointelligence  | 3 | 2 | false | false | [45](./document_reference_count.tsv) | false | false |
-| python-video-live-stream  | 0 | 1 | false | false | [52](./document_reference_count.tsv) | false | false |
+| python-video-live-stream  | 0 | 1 | false | false | [56](./document_reference_count.tsv) | false | false |
 | python-video-stitcher  | 0 | 1 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 0 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
