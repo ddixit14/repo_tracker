@@ -1,12 +1,12 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 137 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 138 / 139 repos (the higher, the better):
 
 - Zero open issues: 139 repos
 - Zero pull requests: 139 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Zero document references: 137 repos
+- Zero document references: 138 repos
 - Code Deleted: 138 repos
 - Public Archived: 138 repos
 
@@ -40,7 +40,7 @@ Repositories with desirable state :white_check_mark:: 137 / 139 repos (the highe
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigquerydatatransfer  | 0 | 0 | true | true | [22](./document_reference_count.tsv) | true | true |
+| java-bigquerydatatransfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigqueryreservation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
