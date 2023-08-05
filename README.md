@@ -174,7 +174,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 21 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 20 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -285,7 +285,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
 - Zero open issues: 111 repos
-- Zero pull requests: 108 repos
+- Zero pull requests: 107 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 121 repos
@@ -298,7 +298,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
 | python-analytics-admin  | 3 | 1 | false | false | 0 | false | false |
-| python-analytics-data  | 13 | 0 | false | false | 0 | false | false |
+| python-analytics-data  | 13 | 1 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
