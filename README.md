@@ -284,8 +284,8 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
-- Zero open issues: 111 repos
-- Zero pull requests: 107 repos
+- Zero open issues: 109 repos
+- Zero pull requests: 105 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 121 repos
@@ -330,7 +330,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-cloudbuild  | 0 | 1 | false | false | 0 | false | false |
 | python-compute  | 3 | 1 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 2 | 0 | false | false | 0 | false | false |
+| python-container  | 2 | 1 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
@@ -342,7 +342,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-debugger-client  | 0 | 0 | false | false | 0 | false | false |
+| python-debugger-client  | 1 | 0 | false | false | 0 | false | false |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dialogflow  | 0 | 2 | false | false | 0 | false | false |
 | python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
@@ -365,7 +365,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 0 | 2 | false | false | [34](./document_reference_count.tsv) | false | false |
+| python-iot  | 1 | 2 | false | false | [34](./document_reference_count.tsv) | false | false |
 | python-kms  | 0 | 0 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -414,7 +414,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-videointelligence  | 3 | 1 | false | false | [45](./document_reference_count.tsv) | false | false |
 | python-video-live-stream  | 0 | 1 | false | false | [56](./document_reference_count.tsv) | false | false |
 | python-video-stitcher  | 0 | 1 | false | false | 0 | false | false |
-| python-video-transcoder  | 0 | 0 | false | false | 0 | false | false |
+| python-video-transcoder  | 0 | 1 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
