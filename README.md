@@ -174,7 +174,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 2 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 22 | 3 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -284,8 +284,8 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
-- Zero open issues: 109 repos
-- Zero pull requests: 105 repos
+- Zero open issues: 108 repos
+- Zero pull requests: 115 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 121 repos
@@ -297,8 +297,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
-| python-analytics-admin  | 3 | 1 | false | false | 0 | false | false |
-| python-analytics-data  | 13 | 1 | false | false | 0 | false | false |
+| python-analytics-admin  | 3 | 0 | false | false | 0 | false | false |
+| python-analytics-data  | 13 | 0 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -319,7 +319,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-bigquery-connection  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-datatransfer  | 0 | 1 | false | false | 0 | false | false |
+| python-bigquery-datatransfer  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
 | python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -327,10 +327,10 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-cloudbuild  | 0 | 1 | false | false | 0 | false | false |
-| python-compute  | 3 | 1 | false | false | 0 | false | false |
+| python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
+| python-compute  | 3 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 2 | 1 | false | false | 0 | false | false |
+| python-container  | 2 | 0 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
@@ -344,8 +344,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-debugger-client  | 1 | 0 | false | false | 0 | false | false |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 2 | false | false | 0 | false | false |
-| python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 1 | false | false | 0 | false | false |
+| python-dialogflow-cx  | 0 | 2 | false | false | 0 | false | false |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-documentai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -365,7 +365,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 1 | 2 | false | false | [34](./document_reference_count.tsv) | false | false |
+| python-iot  | 1 | 1 | false | false | [34](./document_reference_count.tsv) | false | false |
 | python-kms  | 0 | 0 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -377,7 +377,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-network-services  | 0 | 1 | false | false | 0 | false | false |
+| python-network-services  | 0 | 0 | false | false | 0 | false | false |
 | python-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-optimization  | 0 | 0 | false | false | 0 | false | false |
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -394,7 +394,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 0 | false | false | 0 | false | false |
-| python-run  | 0 | 0 | false | false | 0 | false | false |
+| python-run  | 1 | 0 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 0 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -411,10 +411,10 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 0 | false | false | 0 | false | false |
-| python-videointelligence  | 3 | 1 | false | false | [45](./document_reference_count.tsv) | false | false |
+| python-videointelligence  | 3 | 0 | false | false | [45](./document_reference_count.tsv) | false | false |
 | python-video-live-stream  | 0 | 1 | false | false | [56](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 1 | false | false | 0 | false | false |
-| python-video-transcoder  | 0 | 1 | false | false | 0 | false | false |
+| python-video-stitcher  | 0 | 0 | false | false | 0 | false | false |
+| python-video-transcoder  | 0 | 0 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
