@@ -2,13 +2,13 @@
 
 Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
 
-- Zero open issues: 108 repos
+- Zero open issues: 109 repos
 - Zero pull requests: 115 repos
-- README.md updated: 78 repos
+- README.md updated: 79 repos
 - About updated: 78 repos
 - Zero document references: 121 repos
-- Code Deleted: 78 repos
-- Public Archived: 78 repos
+- Code Deleted: 79 repos
+- Public Archived: 79 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -16,7 +16,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
 | python-analytics-admin  | 3 | 0 | false | false | 0 | false | false |
-| python-analytics-data  | 13 | 0 | false | false | 0 | false | false |
+| python-analytics-data  | 14 | 0 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -48,7 +48,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
 | python-compute  | 3 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 2 | 0 | false | false | 0 | false | false |
+| python-container  | 2 | 1 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
@@ -63,7 +63,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-debugger-client  | 1 | 0 | false | false | 0 | false | false |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dialogflow  | 0 | 1 | false | false | 0 | false | false |
-| python-dialogflow-cx  | 0 | 2 | false | false | 0 | false | false |
+| python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-documentai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -83,7 +83,7 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 1 | 1 | false | false | [34](./document_reference_count.tsv) | false | false |
+| python-iot  | 0 | 0 | true | false | [34](./document_reference_count.tsv) | true | true |
 | python-kms  | 0 | 0 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
