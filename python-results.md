@@ -1,14 +1,14 @@
 # python
 
-Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher, the better):
 
-- Zero open issues: 109 repos
-- Zero pull requests: 115 repos
-- README.md updated: 79 repos
+- Zero open issues: 108 repos
+- Zero pull requests: 113 repos
+- README.md updated: 78 repos
 - About updated: 78 repos
-- Zero document references: 121 repos
-- Code Deleted: 79 repos
-- Public Archived: 79 repos
+- Zero document references: 120 repos
+- Code Deleted: 78 repos
+- Public Archived: 78 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -60,9 +60,8 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-debugger-client  | 1 | 0 | false | false | 0 | false | false |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 1 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 2 | false | false | 0 | false | false |
 | python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -83,7 +82,6 @@ Repositories with desirable state :white_check_mark:: 78 / 125 repos (the higher
 | python-iam  | 3 | 0 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-iot  | 0 | 0 | true | false | [34](./document_reference_count.tsv) | true | true |
 | python-kms  | 0 | 0 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
