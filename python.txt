@@ -45,7 +45,6 @@ python-dataproc
 python-dataproc-metastore
 python-data-qna
 python-datastream
-python-debugger-client
 python-deploy
 python-dialogflow
 python-dialogflow-cx
@@ -68,7 +67,6 @@ python-gsuiteaddons
 python-iam
 python-iap
 python-ids
-python-iot
 python-kms
 python-language
 python-life-sciences
