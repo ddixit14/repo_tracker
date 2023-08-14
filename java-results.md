@@ -6,7 +6,7 @@ Repositories with desirable state :white_check_mark:: 138 / 139 repos (the highe
 - Zero pull requests: 139 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Zero document references: 138 repos
+- Zero document references: 139 repos
 - Code Deleted: 138 repos
 - Public Archived: 138 repos
 
@@ -38,7 +38,7 @@ Repositories with desirable state :white_check_mark:: 138 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
+| java-bigqueryconnection  | 0 | 0 | true | true | 0 | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatatransfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
