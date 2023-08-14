@@ -1,13 +1,4 @@
 repo_name	document_url	file
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/reference/bigqueryconnection/	googleapis/java-bigqueryconnection/README.md
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/connect-to-spanner	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/connect-to-spark	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/connect-to-sql	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/create-cloud-resource-connection	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/omni-aws-create-connection	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/omni-azure-create-connection	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/samples/bigqueryconnection-share-connection	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
-java-bigqueryconnection	https://cloud.google.com/bigquery/docs/working-with-connections	googleapis/java-bigqueryconnection/samples/snippets/src/main/java/com/example/bigqueryconnection/ShareConnection.java
 nodejs-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/nodejs-iot/samples/http_example/cloudiot_http_example.js
 nodejs-iot	https://cloud.google.com/iot/docs/how-tos/commands	googleapis/nodejs-iot/samples/manager/manager.js
 nodejs-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/nodejs-iot/samples/manager/manager.js
