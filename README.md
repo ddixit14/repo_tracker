@@ -6,7 +6,7 @@ Repositories with desirable state :white_check_mark:: 138 / 139 repos (the highe
 - Zero pull requests: 139 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
-- Zero document references: 138 repos
+- Zero document references: 139 repos
 - Code Deleted: 138 repos
 - Public Archived: 138 repos
 
@@ -38,7 +38,7 @@ Repositories with desirable state :white_check_mark:: 138 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 0 | true | true | [9](./document_reference_count.tsv) | false | false |
+| java-bigqueryconnection  | 0 | 0 | true | true | 0 | false | false |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatatransfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -174,7 +174,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 2 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 22 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -284,8 +284,8 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 
 Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher, the better):
 
-- Zero open issues: 108 repos
-- Zero pull requests: 113 repos
+- Zero open issues: 110 repos
+- Zero pull requests: 111 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 120 repos
@@ -307,7 +307,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-asset  | 0 | 2 | false | false | 0 | false | false |
-| python-assured-workloads  | 0 | 1 | false | false | 0 | false | false |
+| python-assured-workloads  | 0 | 0 | false | false | 0 | false | false |
 | python-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-batch :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-appconnections :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -320,7 +320,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 0 | false | false | 0 | false | false |
-| python-bigquery-migration  | 1 | 0 | false | false | 0 | false | false |
+| python-bigquery-migration  | 0 | 1 | false | false | 0 | false | false |
 | python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -328,7 +328,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
-| python-compute  | 3 | 0 | false | false | 0 | false | false |
+| python-compute  | 1 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container  | 2 | 1 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
@@ -343,7 +343,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 2 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 4 | false | false | 0 | false | false |
 | python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -361,7 +361,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-grpc-google-iam-v1  | 2 | 1 | false | false | 0 | false | false |
 | python-gsuiteaddons  | 0 | 0 | false | false | 0 | false | false |
-| python-iam  | 3 | 0 | false | false | 0 | false | false |
+| python-iam  | 0 | 1 | false | false | 0 | false | false |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-kms  | 0 | 0 | false | false | 0 | false | false |
@@ -381,7 +381,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-org-policy  | 1 | 0 | false | false | 0 | false | false |
 | python-os-config  | 0 | 0 | false | false | 0 | false | false |
-| python-oslogin  | 0 | 0 | false | false | 0 | false | false |
+| python-oslogin  | 0 | 1 | false | false | 0 | false | false |
 | python-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-policy-troubleshooter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-private-catalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
