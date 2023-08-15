@@ -17,7 +17,6 @@ nodejs-bigquery-data-transfer
 nodejs-dialogflow
 nodejs-resource-manager
 nodejs-kms
-nodejs-iot
 nodejs-asset
 nodejs-security-center
 nodejs-scheduler
