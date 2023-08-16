@@ -1,14 +1,14 @@
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 109 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 109 / 112 repos (the higher, the better):
 
-- Zero open issues: 112 repos
-- Zero pull requests: 112 repos
-- README.md updated: 112 repos
-- About updated: 112 repos
+- Zero open issues: 111 repos
+- Zero pull requests: 111 repos
+- README.md updated: 111 repos
+- About updated: 111 repos
 - Zero document references: 110 repos
-- Code Deleted: 111 repos
-- Public Archived: 112 repos
+- Code Deleted: 110 repos
+- Public Archived: 111 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -20,7 +20,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 21 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -32,7 +32,6 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-iot  | 0 | 0 | true | true | [12](./document_reference_count.tsv) | true | true |
 | nodejs-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-security-center :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
