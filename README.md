@@ -154,15 +154,15 @@ Repositories with desirable state :white_check_mark:: 138 / 139 repos (the highe
 | java-workflows :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 109 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 109 / 112 repos (the higher, the better):
 
-- Zero open issues: 112 repos
-- Zero pull requests: 112 repos
-- README.md updated: 112 repos
-- About updated: 112 repos
+- Zero open issues: 111 repos
+- Zero pull requests: 111 repos
+- README.md updated: 111 repos
+- About updated: 111 repos
 - Zero document references: 110 repos
-- Code Deleted: 111 repos
-- Public Archived: 112 repos
+- Code Deleted: 110 repos
+- Public Archived: 111 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -174,7 +174,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 22 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
+| nodejs-pubsub  | 21 | 1 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -186,7 +186,6 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 | nodejs-dialogflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-kms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-iot  | 0 | 0 | true | true | [12](./document_reference_count.tsv) | true | true |
 | nodejs-asset :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-security-center :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -285,7 +284,7 @@ Repositories with desirable state :white_check_mark:: 109 / 113 repos (the highe
 Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher, the better):
 
 - Zero open issues: 110 repos
-- Zero pull requests: 111 repos
+- Zero pull requests: 110 repos
 - README.md updated: 78 repos
 - About updated: 78 repos
 - Zero document references: 120 repos
@@ -324,13 +323,13 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
+| python-binary-authorization  | 0 | 1 | false | false | 0 | false | false |
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
 | python-compute  | 1 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 2 | 1 | false | false | 0 | false | false |
+| python-container  | 3 | 1 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
@@ -343,7 +342,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 4 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
 | python-dialogflow-cx  | 0 | 1 | false | false | 0 | false | false |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -381,7 +380,7 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-org-policy  | 1 | 0 | false | false | 0 | false | false |
 | python-os-config  | 0 | 0 | false | false | 0 | false | false |
-| python-oslogin  | 0 | 1 | false | false | 0 | false | false |
+| python-oslogin  | 0 | 0 | false | false | 0 | false | false |
 | python-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-policy-troubleshooter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-private-catalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -410,9 +409,9 @@ Repositories with desirable state :white_check_mark:: 78 / 123 repos (the higher
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 0 | false | false | 0 | false | false |
 | python-videointelligence  | 3 | 0 | false | false | [45](./document_reference_count.tsv) | false | false |
-| python-video-live-stream  | 0 | 1 | false | false | [56](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 0 | false | false | 0 | false | false |
-| python-video-transcoder  | 0 | 0 | false | false | 0 | false | false |
+| python-video-live-stream  | 0 | 0 | false | false | [56](./document_reference_count.tsv) | false | false |
+| python-video-stitcher  | 0 | 1 | false | false | 0 | false | false |
+| python-video-transcoder  | 0 | 1 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
