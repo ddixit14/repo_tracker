@@ -2,7 +2,7 @@
 
 Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher, the better):
 
-- Zero open issues: 111 repos
+- Zero open issues: 112 repos
 - Zero pull requests: 114 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
@@ -15,7 +15,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
-| python-analytics-admin  | 2 | 0 | false | false | 0 | false | false |
+| python-analytics-admin  | 0 | 0 | false | false | 0 | false | false |
 | python-analytics-data  | 7 | 0 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
