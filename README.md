@@ -1,14 +1,14 @@
 # java
 
-Repositories with desirable state :white_check_mark:: 138 / 139 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 139 / 139 repos (the higher, the better):
 
 - Zero open issues: 139 repos
 - Zero pull requests: 139 repos
 - README.md updated: 139 repos
 - About updated: 139 repos
 - Zero document references: 139 repos
-- Code Deleted: 138 repos
-- Public Archived: 138 repos
+- Code Deleted: 139 repos
+- Public Archived: 139 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -38,7 +38,7 @@ Repositories with desirable state :white_check_mark:: 138 / 139 repos (the highe
 | java-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| java-bigqueryconnection  | 0 | 0 | true | true | 0 | false | false |
+| java-bigqueryconnection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatapolicy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerydatatransfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | java-bigquerymigration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
