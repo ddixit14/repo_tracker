@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher, the better):
 
 - Zero open issues: 112 repos
-- Zero pull requests: 114 repos
+- Zero pull requests: 113 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
 - Zero document references: 120 repos
@@ -37,7 +37,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-bigquery-connection  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-datatransfer  | 0 | 0 | false | false | 0 | false | false |
+| python-bigquery-datatransfer  | 0 | 1 | false | false | 0 | false | false |
 | python-bigquery-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
