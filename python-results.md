@@ -56,7 +56,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-data-fusion :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datalabeling :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataplex :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dataproc  | 1 | 1 | false | false | 0 | false | false |
+| python-dataproc  | 1 | 2 | false | false | 0 | false | false |
 | python-dataproc-metastore :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -129,7 +129,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-trace  | 0 | 0 | false | false | 0 | false | false |
 | python-videointelligence  | 0 | 0 | false | false | [45](./document_reference_count.tsv) | false | false |
 | python-video-live-stream  | 0 | 0 | false | false | [56](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 1 | false | false | 0 | false | false |
+| python-video-stitcher  | 0 | 2 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 1 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
