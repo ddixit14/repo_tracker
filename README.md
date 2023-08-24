@@ -284,7 +284,7 @@ Repositories with desirable state :white_check_mark:: 109 / 112 repos (the highe
 Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher, the better):
 
 - Zero open issues: 112 repos
-- Zero pull requests: 113 repos
+- Zero pull requests: 111 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
 - Zero document references: 120 repos
@@ -296,8 +296,8 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
-| python-analytics-admin  | 0 | 0 | false | false | 0 | false | false |
-| python-analytics-data  | 7 | 0 | false | false | 0 | false | false |
+| python-analytics-admin  | 0 | 1 | false | false | 0 | false | false |
+| python-analytics-data  | 8 | 0 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -376,7 +376,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-services  | 0 | 0 | false | false | 0 | false | false |
 | python-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-optimization  | 0 | 0 | false | false | 0 | false | false |
+| python-optimization  | 0 | 1 | false | false | 0 | false | false |
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-org-policy  | 1 | 0 | false | false | 0 | false | false |
 | python-os-config  | 0 | 0 | false | false | 0 | false | false |
