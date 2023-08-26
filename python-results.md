@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher, the better):
 
 - Zero open issues: 112 repos
-- Zero pull requests: 111 repos
+- Zero pull requests: 110 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
 - Zero document references: 120 repos
@@ -48,7 +48,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
 | python-compute  | 1 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 3 | 0 | false | false | 0 | false | false |
+| python-container  | 3 | 1 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
@@ -61,7 +61,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 4 | false | false | 0 | false | false |
 | python-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
