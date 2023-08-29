@@ -61,7 +61,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 4 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
 | python-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -110,7 +110,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 0 | false | false | 0 | false | false |
-| python-run  | 1 | 0 | false | false | 0 | false | false |
+| python-run  | 2 | 0 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 0 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
