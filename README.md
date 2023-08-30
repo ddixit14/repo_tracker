@@ -296,7 +296,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
-| python-analytics-admin  | 0 | 1 | false | false | 0 | false | false |
+| python-analytics-admin  | 0 | 2 | false | false | 0 | false | false |
 | python-analytics-data  | 8 | 0 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -318,7 +318,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-bigquery-connection  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-datatransfer  | 0 | 1 | false | false | 0 | false | false |
+| python-bigquery-datatransfer  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -342,7 +342,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 4 | false | false | 0 | false | false |
 | python-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -363,7 +363,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-iam :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-ids :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-kms  | 0 | 0 | false | false | 0 | false | false |
+| python-kms  | 0 | 1 | false | false | 0 | false | false |
 | python-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-life-sciences :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
