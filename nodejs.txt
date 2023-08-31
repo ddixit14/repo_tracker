@@ -5,7 +5,6 @@ nodejs-text-to-speech
 nodejs-tasks
 nodejs-speech
 nodejs-redis
-nodejs-pubsub
 nodejs-os-login
 nodejs-monitoring
 nodejs-language
