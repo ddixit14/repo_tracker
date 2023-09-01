@@ -154,7 +154,7 @@ Repositories with desirable state :white_check_mark:: 139 / 139 repos (the highe
 | java-workflows :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 109 / 112 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 109 / 111 repos (the higher, the better):
 
 - Zero open issues: 111 repos
 - Zero pull requests: 111 repos
@@ -174,7 +174,6 @@ Repositories with desirable state :white_check_mark:: 109 / 112 repos (the highe
 | nodejs-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-speech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-pubsub  | 21 | 3 | false | false | [150](./document_reference_count.tsv) | false | false |
 | nodejs-os-login :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-monitoring :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-language :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -391,7 +390,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 0 | false | false | 0 | false | false |
-| python-run  | 2 | 0 | false | false | 0 | false | false |
+| python-run  | 3 | 0 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 0 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
