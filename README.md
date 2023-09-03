@@ -283,7 +283,7 @@ Repositories with desirable state :white_check_mark:: 109 / 111 repos (the highe
 Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher, the better):
 
 - Zero open issues: 113 repos
-- Zero pull requests: 111 repos
+- Zero pull requests: 106 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
 - Zero document references: 120 repos
@@ -295,8 +295,8 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-access-context-manager  | 2 | 0 | false | false | 0 | false | false |
-| python-analytics-admin  | 0 | 1 | false | false | 0 | false | false |
-| python-analytics-data  | 8 | 0 | false | false | 0 | false | false |
+| python-analytics-admin  | 0 | 2 | false | false | 0 | false | false |
+| python-analytics-data  | 8 | 1 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -317,7 +317,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-bigquery-connection  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-datatransfer  | 0 | 0 | false | false | 0 | false | false |
+| python-bigquery-datatransfer  | 0 | 1 | false | false | 0 | false | false |
 | python-bigquery-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-reservation  | 0 | 0 | false | false | 0 | false | false |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -389,7 +389,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-retail  | 0 | 0 | false | false | 0 | false | false |
+| python-retail  | 0 | 1 | false | false | 0 | false | false |
 | python-run  | 3 | 0 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 0 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -407,8 +407,8 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 0 | false | false | 0 | false | false |
-| python-videointelligence  | 0 | 0 | false | false | [45](./document_reference_count.tsv) | false | false |
-| python-video-live-stream  | 0 | 0 | false | false | [56](./document_reference_count.tsv) | false | false |
+| python-videointelligence  | 0 | 1 | false | false | [45](./document_reference_count.tsv) | false | false |
+| python-video-live-stream  | 0 | 1 | false | false | [56](./document_reference_count.tsv) | false | false |
 | python-video-stitcher  | 0 | 2 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 1 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
