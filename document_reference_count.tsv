@@ -90,6 +90,7 @@ nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-flow
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishWithRetrySettings.js
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-retry-settings	googleapis/nodejs-pubsub/samples/publishWithRetrySettings.js
 nodejs-pubsub	https://cloud.google.com/blockchain-node-engine/docs/quickstart-client-libraries	googleapis/nodejs-pubsub/samples/quickstart.js
+nodejs-pubsub	https://cloud.google.com/infrastructure-manager/docs/quickstart-client-libraries	googleapis/nodejs-pubsub/samples/quickstart.js
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/reference/libraries	googleapis/nodejs-pubsub/samples/quickstart.js
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-create-topic	googleapis/nodejs-pubsub/samples/quickstart.js
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/removeDeadLetterPolicy.js
@@ -239,6 +240,8 @@ python-iot	https://cloud.google.com/iot/docs/samples/iot-set-device-config	googl
 python-iot	https://cloud.google.com/iot/docs/samples/iot-set-iam-policy	googleapis/python-iot/samples/api-client/manager/manager.py
 python-iot	https://cloud.google.com/iot/docs/samples/iot-unbind-device-from-gateway	googleapis/python-iot/samples/api-client/manager/manager.py
 python-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/python-iot/samples/api-client/mqtt_example/cloudiot_mqtt_example.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/create_asset.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_asset.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/create_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_channel.py
@@ -255,6 +258,7 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/create_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-input	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/delete_asset.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
@@ -267,6 +271,7 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/delete_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/delete_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-delete-input	googleapis/python-video-live-stream/samples/snippets/delete_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/get_asset.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/get_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/get_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/get_channel.py
@@ -276,6 +281,8 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livest
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/get_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/get_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-get-input	googleapis/python-video-live-stream/samples/snippets/get_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-pools	googleapis/python-video-live-stream/samples/snippets/get_pool.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/list_assets.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/list_channel_events.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-list-channel-events	googleapis/python-video-live-stream/samples/snippets/list_channel_events.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/list_channels.py
@@ -295,6 +302,7 @@ python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-update-channel	googleapis/python-video-live-stream/samples/snippets/update_channel.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/update_input.py
 python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-update-input	googleapis/python-video-live-stream/samples/snippets/update_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-pools	googleapis/python-video-live-stream/samples/snippets/update_pool.py
 python-videointelligence	https://cloud.google.com/video-intelligence/docs/analyze-labels	googleapis/python-videointelligence/samples/analyze/analyze.py
 python-videointelligence	https://cloud.google.com/video-intelligence/docs/analyze-safesearch	googleapis/python-videointelligence/samples/analyze/analyze.py
 python-videointelligence	https://cloud.google.com/video-intelligence/docs/analyze-shots	googleapis/python-videointelligence/samples/analyze/analyze.py
