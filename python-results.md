@@ -48,7 +48,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-cloudbuild  | 0 | 1 | false | false | 0 | false | false |
 | python-compute  | 2 | 1 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-container  | 3 | 2 | false | false | 0 | false | false |
+| python-container  | 3 | 1 | false | false | 0 | false | false |
 | python-containeranalysis  | 0 | 1 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 1 | false | false | [36](./document_reference_count.tsv) | false | false |
