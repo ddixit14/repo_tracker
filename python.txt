@@ -1,7 +1,4 @@
 python-access-approval
-python-access-context-manager
-python-analytics-admin
-python-analytics-data
 python-api-gateway
 python-apigee-connect
 python-apigee-registry
@@ -9,7 +6,6 @@ python-api-keys
 python-appengine-admin
 python-area120-tables
 python-artifact-registry
-python-asset
 python-assured-workloads
 python-bare-metal-solution
 python-batch
@@ -27,14 +23,12 @@ python-bigquery-migration
 python-bigquery-reservation
 python-billing
 python-billingbudgets
-python-binary-authorization
 python-certificate-manager
 python-channel
 python-cloudbuild
 python-compute
 python-contact-center-insights
 python-container
-python-containeranalysis
 python-datacatalog
 python-dataflow-client
 python-dataform
@@ -60,9 +54,7 @@ python-filestore
 python-functions
 python-gke-backup
 python-gke-connect-gateway
-python-gke-hub
 python-gke-multicloud
-python-grpc-google-iam-v1
 python-gsuiteaddons
 python-iam
 python-iap
@@ -82,9 +74,7 @@ python-network-services
 python-notebooks
 python-optimization
 python-orchestration-airflow
-python-org-policy
 python-os-config
-python-oslogin
 python-phishingprotection
 python-policy-troubleshooter
 python-private-catalog
