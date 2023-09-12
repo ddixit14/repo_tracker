@@ -283,7 +283,7 @@ Repositories with desirable state :white_check_mark:: 109 / 111 repos (the highe
 Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher, the better):
 
 - Zero open issues: 114 repos
-- Zero pull requests: 83 repos
+- Zero pull requests: 84 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
 - Zero document references: 120 repos
@@ -314,7 +314,7 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-beyondcorp-clientconnectorservices :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-clientgateways :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-analyticshub :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-bigquery-connection  | 0 | 1 | false | false | 0 | false | false |
+| python-bigquery-connection  | 0 | 0 | false | false | 0 | false | false |
 | python-bigquery-data-exchange :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datapolicies :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bigquery-datatransfer  | 0 | 2 | false | false | 0 | false | false |
@@ -409,8 +409,8 @@ Repositories with desirable state :white_check_mark:: 81 / 123 repos (the higher
 | python-trace  | 0 | 1 | false | false | 0 | false | false |
 | python-videointelligence  | 0 | 2 | false | false | [45](./document_reference_count.tsv) | false | false |
 | python-video-live-stream  | 0 | 2 | false | false | [63](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 3 | false | false | 0 | false | false |
-| python-video-transcoder  | 0 | 2 | false | false | 0 | false | false |
+| python-video-stitcher  | 0 | 4 | false | false | 0 | false | false |
+| python-video-transcoder  | 0 | 3 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
