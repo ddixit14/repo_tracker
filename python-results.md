@@ -3,7 +3,7 @@
 Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher, the better):
 
 - Zero open issues: 108 repos
-- Zero pull requests: 82 repos
+- Zero pull requests: 83 repos
 - README.md updated: 81 repos
 - About updated: 81 repos
 - Zero document references: 110 repos
@@ -41,7 +41,7 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 1 | false | false | 0 | false | false |
-| python-compute  | 2 | 1 | false | false | 0 | false | false |
+| python-compute  | 2 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container  | 3 | 1 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -55,7 +55,7 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 4 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
 | python-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dlp  | 0 | 1 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -87,7 +87,7 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-services  | 0 | 1 | false | false | 0 | false | false |
 | python-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-optimization  | 0 | 2 | false | false | 0 | false | false |
+| python-optimization  | 0 | 1 | false | false | 0 | false | false |
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-os-config  | 0 | 1 | false | false | 0 | false | false |
 | python-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -100,7 +100,7 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail  | 0 | 3 | false | false | 0 | false | false |
-| python-run  | 3 | 1 | false | false | 0 | false | false |
+| python-run  | 2 | 1 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 1 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -114,12 +114,12 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-storage-transfer  | 0 | 1 | false | false | 0 | false | false |
 | python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-tasks  | 0 | 1 | false | false | 0 | false | false |
-| python-texttospeech  | 2 | 2 | false | false | 0 | false | false |
+| python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 1 | false | false | 0 | false | false |
 | python-videointelligence  | 0 | 2 | false | false | [45](./document_reference_count.tsv) | false | false |
 | python-video-live-stream  | 0 | 2 | false | false | [63](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 4 | false | false | 0 | false | false |
+| python-video-stitcher  | 0 | 3 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 3 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
