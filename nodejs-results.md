@@ -1,12 +1,12 @@
 # nodejs
 
-Repositories with desirable state :white_check_mark:: 109 / 111 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 110 / 111 repos (the higher, the better):
 
 - Zero open issues: 111 repos
 - Zero pull requests: 111 repos
 - README.md updated: 111 repos
 - About updated: 111 repos
-- Zero document references: 110 repos
+- Zero document references: 111 repos
 - Code Deleted: 110 repos
 - Public Archived: 111 repos
 
@@ -49,7 +49,7 @@ Repositories with desirable state :white_check_mark:: 109 / 111 repos (the highe
 | nodejs-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-game-servers :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| nodejs-service-directory  | 0 | 0 | true | true | [8](./document_reference_count.tsv) | true | true |
+| nodejs-service-directory :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-document-ai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | nodejs-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
