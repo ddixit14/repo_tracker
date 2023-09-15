@@ -162,14 +162,6 @@ nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-test-topic-per
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-update-subscription	googleapis/nodejs-pubsub/samples/typescript/updateDeadLetterPolicy.ts
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/updateDeadLetterPolicy.js
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-update-subscription	googleapis/nodejs-pubsub/samples/updateDeadLetterPolicy.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-create-endpoint	googleapis/nodejs-service-directory/samples/createEndpoint.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-create-namespace	googleapis/nodejs-service-directory/samples/createNamespace.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-create-service	googleapis/nodejs-service-directory/samples/createService.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-delete-endpoint	googleapis/nodejs-service-directory/samples/deleteEndpoint.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-delete-namespace	googleapis/nodejs-service-directory/samples/deleteNamespace.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-delete-service	googleapis/nodejs-service-directory/samples/deleteService.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-quickstart	googleapis/nodejs-service-directory/samples/quickstart.js
-nodejs-service-directory	https://cloud.google.com/service-directory/docs/samples/servicedirectory-resolve-service	googleapis/nodejs-service-directory/samples/resolveService.js
 python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-FlexTemplatesService-LaunchFlexTemplate-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_flex_templates_service_launch_flex_template_async.py
 python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-FlexTemplatesService-LaunchFlexTemplate-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_flex_templates_service_launch_flex_template_sync.py
 python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-AggregatedListJobs-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_aggregated_list_jobs_async.py
