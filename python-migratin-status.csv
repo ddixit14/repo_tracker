@@ -1,43 +1,342 @@
-repository,library type,open issues,open pull requests,owlbot.py workaround?,test,samples,ready to migrate?,tracking isuse
-python-access-context-manager,GAPIC_AUTO, migration:issues:open,migration:pr:none, migration:workaround:owlbot migration:workaround:protoplus,, migration:samples:none ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-access-context-manager%22
-python-analytics-admin,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:none, migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-analytics-admin%22
-python-analytics-data,GAPIC_AUTO, migration:issues:open,migration:pr:none, migration:workaround:none, migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-analytics-data%22
-python-appengine-admin,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-appengine-admin%22
-python-asset,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-asset%22
-python-assured-workloads,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:unit, migration:samples:generated ,migration:ready,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-assured-workloads%22
-python-bigquery-connection,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-bigquery-connection%22
-python-bigquery-datatransfer,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-bigquery-datatransfer%22
-python-bigquery-reservation,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-bigquery-reservation%22
-python-binary-authorization,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-binary-authorization%22
-python-cloudbuild,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-cloudbuild%22
-python-compute,GAPIC_AUTO, migration:issues:open,migration:pr:none, migration:workaround:owlbot, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-compute%22
-python-container,GAPIC_AUTO, migration:issues:open,migration:pr:pending, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-container%22
-python-containeranalysis,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-containeranalysis%22
-python-dataflow-client,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-dataflow-client%22
-python-dataproc,GAPIC_AUTO, migration:issues:open,migration:pr:pending, migration:workaround:owlbot, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-dataproc%22
-python-dialogflow,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-dialogflow%22
-python-dlp,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-dlp%22
-python-filestore,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-filestore%22
-python-gke-backup,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:unit, migration:samples:generated ,migration:ready,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-gke-backup%22
-python-gke-hub,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-gke-hub%22
-python-grpc-google-iam-v1,GAPIC_AUTO, migration:issues:open,migration:pr:pending, migration:workaround:owlbot migration:workaround:protoplus,, migration:samples:none ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-grpc-google-iam-v1%22
-python-gsuiteaddons,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-gsuiteaddons%22
-python-kms,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-kms%22
-python-monitoring-dashboards,GAPIC_AUTO, migration:issues:open,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-monitoring-dashboards%22
-python-network-services,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-network-services%22
-python-optimization,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-optimization%22
-python-org-policy,GAPIC_AUTO, migration:issues:open,migration:pr:none, migration:workaround:owlbot migration:workaround:protoplus, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-org-policy%22
-python-os-config,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-os-config%22
-python-oslogin,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-oslogin%22
-python-retail,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-retail%22
-python-run,GAPIC_AUTO, migration:issues:open,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-run%22
-python-scheduler,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-scheduler%22
-python-service-management,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-service-management%22
-python-storage-transfer,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:unit, migration:samples:generated ,migration:ready,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-storage-transfer%22
-python-tasks,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-tasks%22
-python-texttospeech,GAPIC_AUTO, migration:issues:open,migration:pr:pending, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-texttospeech%22
-python-trace,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:owlbot, migration:testing:unit, migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-trace%22
-python-videointelligence,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:system migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-videointelligence%22
-python-video-live-stream,GAPIC_AUTO, migration:issues:none,migration:pr:none, migration:workaround:none, migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-video-live-stream%22
-python-video-stitcher,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:none, migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-video-stitcher%22
-python-video-transcoder,GAPIC_AUTO, migration:issues:none,migration:pr:pending, migration:workaround:none, migration:testing:unit, migration:samples:manual  migration:samples:generated ,,https://github.com/googleapis/google-cloud-python/issues?q=is%3Aissue+in%3Atitle%3A%22Adopt+split+repo+python-video-transcoder%22
+repo_name	document_url	file
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/nodejs-iot/samples/http_example/cloudiot_http_example.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/commands	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/config/getting-state	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/credentials/authenticating-applications	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/devices	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/gateways/create-gateways	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/iam	googleapis/nodejs-iot/samples/manager/manager.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/nodejs-iot/samples/mqtt_example/cloudiot_mqtt_example_nodejs.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/credentials/jwts	googleapis/nodejs-iot/samples/mqtt_example/cloudiot_mqtt_example_nodejs.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/gateways/mqtt-bridge	googleapis/nodejs-iot/samples/mqtt_example/cloudiot_mqtt_example_nodejs.js
+nodejs-iot	https://cloud.google.com/iot/docs/how-tos/mqtt-bridge	googleapis/nodejs-iot/samples/mqtt_example/cloudiot_mqtt_example_nodejs.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-avro-schema	googleapis/nodejs-pubsub/samples/createAvroSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas	googleapis/nodejs-pubsub/samples/createAvroSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/create-bigquery-subscription	googleapis/nodejs-pubsub/samples/createBigQuerySubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-bigquery-subscription	googleapis/nodejs-pubsub/samples/createBigQuerySubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-proto-schema	googleapis/nodejs-pubsub/samples/createProtoSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas	googleapis/nodejs-pubsub/samples/createProtoSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/create-push-subscription	googleapis/nodejs-pubsub/samples/createPushSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-push-subscription	googleapis/nodejs-pubsub/samples/createPushSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/create-subscription	googleapis/nodejs-pubsub/samples/createSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-pull-subscription	googleapis/nodejs-pubsub/samples/createSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/createSubscriptionWithDeadLetterPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-create-subscription	googleapis/nodejs-pubsub/samples/createSubscriptionWithDeadLetterPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/exactly-once-delivery	googleapis/nodejs-pubsub/samples/createSubscriptionWithExactlyOnceDelivery.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-subscription-with-exactly-once-delivery	googleapis/nodejs-pubsub/samples/createSubscriptionWithExactlyOnceDelivery.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-subscription-with-filter	googleapis/nodejs-pubsub/samples/createSubscriptionWithFiltering.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/subscription-message-filter	googleapis/nodejs-pubsub/samples/createSubscriptionWithFiltering.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/ordering	googleapis/nodejs-pubsub/samples/createSubscriptionWithOrdering.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-enable-subscription-ordering	googleapis/nodejs-pubsub/samples/createSubscriptionWithOrdering.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/create-topic	googleapis/nodejs-pubsub/samples/createTopic.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-topic	googleapis/nodejs-pubsub/samples/createTopic.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-topic-with-schema	googleapis/nodejs-pubsub/samples/createTopicWithSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas	googleapis/nodejs-pubsub/samples/createTopicWithSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-delete-schema	googleapis/nodejs-pubsub/samples/deleteSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas	googleapis/nodejs-pubsub/samples/deleteSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/delete-subscriptions	googleapis/nodejs-pubsub/samples/deleteSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-delete-subscription	googleapis/nodejs-pubsub/samples/deleteSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/create-topic	googleapis/nodejs-pubsub/samples/deleteTopic.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-delete-topic	googleapis/nodejs-pubsub/samples/deleteTopic.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/detach-subscriptions	googleapis/nodejs-pubsub/samples/detachSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-detach-subscription	googleapis/nodejs-pubsub/samples/detachSubscription.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-get-schema	googleapis/nodejs-pubsub/samples/getSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas	googleapis/nodejs-pubsub/samples/getSchema.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/access-control	googleapis/nodejs-pubsub/samples/getSubscriptionPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-get-subscription-policy	googleapis/nodejs-pubsub/samples/getSubscriptionPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/access-control	googleapis/nodejs-pubsub/samples/getTopicPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-get-topic-policy	googleapis/nodejs-pubsub/samples/getTopicPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/create-topic	googleapis/nodejs-pubsub/samples/listAllTopics.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-topics	googleapis/nodejs-pubsub/samples/listAllTopics.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-schemas	googleapis/nodejs-pubsub/samples/listSchemas.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas	googleapis/nodejs-pubsub/samples/listSchemas.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/list-subscriptions	googleapis/nodejs-pubsub/samples/listSubscriptions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-subscriptions	googleapis/nodejs-pubsub/samples/listSubscriptions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/list-subscriptions	googleapis/nodejs-pubsub/samples/listTopicSubscriptions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-topic-subscriptions	googleapis/nodejs-pubsub/samples/listTopicSubscriptions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscribe-avro-records	googleapis/nodejs-pubsub/samples/listenForAvroRecords.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas-valid	googleapis/nodejs-pubsub/samples/listenForAvroRecords.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/pull	googleapis/nodejs-pubsub/samples/listenForErrors.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-error-listener	googleapis/nodejs-pubsub/samples/listenForErrors.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publish-receive-messages-client-library	googleapis/nodejs-pubsub/samples/listenForMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/pull	googleapis/nodejs-pubsub/samples/listenForMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-subscriber	googleapis/nodejs-pubsub/samples/listenForMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-async-pull	googleapis/nodejs-pubsub/samples/listenForMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/exactly-once-delivery	googleapis/nodejs-pubsub/samples/listenForMessagesWithExactlyOnceDelivery.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-exactly-once	googleapis/nodejs-pubsub/samples/listenForMessagesWithExactlyOnceDelivery.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscribe-proto-messages	googleapis/nodejs-pubsub/samples/listenForProtobufMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/schemas-valid	googleapis/nodejs-pubsub/samples/listenForProtobufMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/pull	googleapis/nodejs-pubsub/samples/listenWithCustomAttributes.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-async-pull-custom-attributes	googleapis/nodejs-pubsub/samples/listenWithCustomAttributes.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/manage-subscriptions	googleapis/nodejs-pubsub/samples/modifyPushConfig.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-update-push-configuration	googleapis/nodejs-pubsub/samples/modifyPushConfig.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishAvroRecords.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-avro-records	googleapis/nodejs-pubsub/samples/publishAvroRecords.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishBatchedMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-batch-settings	googleapis/nodejs-pubsub/samples/publishBatchedMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publish-receive-messages-client-library	googleapis/nodejs-pubsub/samples/publishMessage.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishMessage.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-with-error-handler	googleapis/nodejs-pubsub/samples/publishMessage.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-publisher	googleapis/nodejs-pubsub/samples/publishMessage.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishMessageWithCustomAttributes.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-custom-attributes	googleapis/nodejs-pubsub/samples/publishMessageWithCustomAttributes.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishOrderedMessage.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-with-ordering-keys	googleapis/nodejs-pubsub/samples/publishOrderedMessage.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishProtobufMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-proto-messages	googleapis/nodejs-pubsub/samples/publishProtobufMessages.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishWithFlowControl.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-flow-control	googleapis/nodejs-pubsub/samples/publishWithFlowControl.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/publishWithRetrySettings.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-retry-settings	googleapis/nodejs-pubsub/samples/publishWithRetrySettings.js
+nodejs-pubsub	https://cloud.google.com/blockchain-node-engine/docs/quickstart-client-libraries	googleapis/nodejs-pubsub/samples/quickstart.js
+nodejs-pubsub	https://cloud.google.com/infrastructure-manager/docs/quickstart-client-libraries	googleapis/nodejs-pubsub/samples/quickstart.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/reference/libraries	googleapis/nodejs-pubsub/samples/quickstart.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-create-topic	googleapis/nodejs-pubsub/samples/quickstart.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/removeDeadLetterPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-remove	googleapis/nodejs-pubsub/samples/removeDeadLetterPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/publisher	googleapis/nodejs-pubsub/samples/resumePublish.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-resume-publish-with-ordering-keys	googleapis/nodejs-pubsub/samples/resumePublish.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/access-control	googleapis/nodejs-pubsub/samples/setSubscriptionPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-set-subscription-policy	googleapis/nodejs-pubsub/samples/setSubscriptionPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/access-control	googleapis/nodejs-pubsub/samples/setTopicPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-set-topic-policy	googleapis/nodejs-pubsub/samples/setTopicPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/flow-control	googleapis/nodejs-pubsub/samples/subscribeWithFlowControlSettings.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-flow-settings	googleapis/nodejs-pubsub/samples/subscribeWithFlowControlSettings.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/pull	googleapis/nodejs-pubsub/samples/synchronousPull.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-sync-pull	googleapis/nodejs-pubsub/samples/synchronousPull.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/synchronousPullWithDeliveryAttempts.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-delivery-attempt	googleapis/nodejs-pubsub/samples/synchronousPullWithDeliveryAttempts.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/lease-management	googleapis/nodejs-pubsub/samples/synchronousPullWithLeaseManagement.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-sync-pull-with-lease	googleapis/nodejs-pubsub/samples/synchronousPullWithLeaseManagement.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/access-control	googleapis/nodejs-pubsub/samples/testSubscriptionPermissions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-test-subscription-permissions	googleapis/nodejs-pubsub/samples/testSubscriptionPermissions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/access-control	googleapis/nodejs-pubsub/samples/testTopicPermissions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-test-topic-permissions	googleapis/nodejs-pubsub/samples/testTopicPermissions.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-avro-schema	googleapis/nodejs-pubsub/samples/typescript/createAvroSchema.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-bigquery-subscription	googleapis/nodejs-pubsub/samples/typescript/createBigQuerySubscription.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-proto-schema	googleapis/nodejs-pubsub/samples/typescript/createProtoSchema.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-push-subscription	googleapis/nodejs-pubsub/samples/typescript/createPushSubscription.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-pull-subscription	googleapis/nodejs-pubsub/samples/typescript/createSubscription.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-create-subscription	googleapis/nodejs-pubsub/samples/typescript/createSubscriptionWithDeadLetterPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/exactly-once-delivery	googleapis/nodejs-pubsub/samples/typescript/createSubscriptionWithExactlyOnceDelivery.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-subscription-with-exactly-once-delivery	googleapis/nodejs-pubsub/samples/typescript/createSubscriptionWithExactlyOnceDelivery.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-subscription-with-filter	googleapis/nodejs-pubsub/samples/typescript/createSubscriptionWithFiltering.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-enable-subscription-ordering	googleapis/nodejs-pubsub/samples/typescript/createSubscriptionWithOrdering.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-topic	googleapis/nodejs-pubsub/samples/typescript/createTopic.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-create-topic-with-schema	googleapis/nodejs-pubsub/samples/typescript/createTopicWithSchema.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-delete-subscription	googleapis/nodejs-pubsub/samples/typescript/deleteSubscription.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-delete-topic	googleapis/nodejs-pubsub/samples/typescript/deleteTopic.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-detach-subscription	googleapis/nodejs-pubsub/samples/typescript/detachSubscription.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-get-subscription-policy	googleapis/nodejs-pubsub/samples/typescript/getSubscriptionPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-get-topic-policy	googleapis/nodejs-pubsub/samples/typescript/getTopicPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-topics	googleapis/nodejs-pubsub/samples/typescript/listAllTopics.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-subscriptions	googleapis/nodejs-pubsub/samples/typescript/listSubscriptions.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-list-topic-subscriptions	googleapis/nodejs-pubsub/samples/typescript/listTopicSubscriptions.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-error-listener	googleapis/nodejs-pubsub/samples/typescript/listenForErrors.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-subscriber	googleapis/nodejs-pubsub/samples/typescript/listenForMessages.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-async-pull	googleapis/nodejs-pubsub/samples/typescript/listenForMessages.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/exactly-once-delivery	googleapis/nodejs-pubsub/samples/typescript/listenForMessagesWithExactlyOnceDelivery.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-exactly-once	googleapis/nodejs-pubsub/samples/typescript/listenForMessagesWithExactlyOnceDelivery.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscribe-proto-messages	googleapis/nodejs-pubsub/samples/typescript/listenForProtobufMessages.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-async-pull-custom-attributes	googleapis/nodejs-pubsub/samples/typescript/listenWithCustomAttributes.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-update-push-configuration	googleapis/nodejs-pubsub/samples/typescript/modifyPushConfig.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-batch-settings	googleapis/nodejs-pubsub/samples/typescript/publishBatchedMessages.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-with-error-handler	googleapis/nodejs-pubsub/samples/typescript/publishMessage.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-publisher	googleapis/nodejs-pubsub/samples/typescript/publishMessage.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-custom-attributes	googleapis/nodejs-pubsub/samples/typescript/publishMessageWithCustomAttributes.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-with-ordering-keys	googleapis/nodejs-pubsub/samples/typescript/publishOrderedMessage.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publish-proto-messages	googleapis/nodejs-pubsub/samples/typescript/publishProtobufMessages.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-flow-control	googleapis/nodejs-pubsub/samples/typescript/publishWithFlowControl.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-publisher-retry-settings	googleapis/nodejs-pubsub/samples/typescript/publishWithRetrySettings.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-quickstart-create-topic	googleapis/nodejs-pubsub/samples/typescript/quickstart.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-remove	googleapis/nodejs-pubsub/samples/typescript/removeDeadLetterPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-resume-publish-with-ordering-keys	googleapis/nodejs-pubsub/samples/typescript/resumePublish.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-set-subscription-policy	googleapis/nodejs-pubsub/samples/typescript/setSubscriptionPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-set-topic-policy	googleapis/nodejs-pubsub/samples/typescript/setTopicPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-flow-settings	googleapis/nodejs-pubsub/samples/typescript/subscribeWithFlowControlSettings.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-subscriber-sync-pull	googleapis/nodejs-pubsub/samples/typescript/synchronousPull.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-delivery-attempt	googleapis/nodejs-pubsub/samples/typescript/synchronousPullWithDeliveryAttempts.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-test-subscription-permissions	googleapis/nodejs-pubsub/samples/typescript/testSubscriptionPermissions.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-test-topic-permissions	googleapis/nodejs-pubsub/samples/typescript/testTopicPermissions.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-update-subscription	googleapis/nodejs-pubsub/samples/typescript/updateDeadLetterPolicy.ts
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/updateDeadLetterPolicy.js
+nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-update-subscription	googleapis/nodejs-pubsub/samples/updateDeadLetterPolicy.js
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-FlexTemplatesService-LaunchFlexTemplate-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_flex_templates_service_launch_flex_template_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-FlexTemplatesService-LaunchFlexTemplate-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_flex_templates_service_launch_flex_template_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-AggregatedListJobs-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_aggregated_list_jobs_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-AggregatedListJobs-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_aggregated_list_jobs_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-CheckActiveJobs-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_check_active_jobs_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-CheckActiveJobs-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_check_active_jobs_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-CreateJob-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_create_job_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-CreateJob-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_create_job_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-GetJob-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_get_job_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-GetJob-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_get_job_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-ListJobs-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_list_jobs_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-ListJobs-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_list_jobs_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-SnapshotJob-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_snapshot_job_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-SnapshotJob-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_snapshot_job_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-UpdateJob-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_update_job_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-JobsV1Beta3-UpdateJob-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_jobs_v1_beta3_update_job_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MessagesV1Beta3-ListJobMessages-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_messages_v1_beta3_list_job_messages_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MessagesV1Beta3-ListJobMessages-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_messages_v1_beta3_list_job_messages_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MetricsV1Beta3-GetJobExecutionDetails-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_metrics_v1_beta3_get_job_execution_details_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MetricsV1Beta3-GetJobExecutionDetails-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_metrics_v1_beta3_get_job_execution_details_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MetricsV1Beta3-GetJobMetrics-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_metrics_v1_beta3_get_job_metrics_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MetricsV1Beta3-GetJobMetrics-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_metrics_v1_beta3_get_job_metrics_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MetricsV1Beta3-GetStageExecutionDetails-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_metrics_v1_beta3_get_stage_execution_details_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-MetricsV1Beta3-GetStageExecutionDetails-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_metrics_v1_beta3_get_stage_execution_details_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-SnapshotsV1Beta3-DeleteSnapshot-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_snapshots_v1_beta3_delete_snapshot_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-SnapshotsV1Beta3-DeleteSnapshot-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_snapshots_v1_beta3_delete_snapshot_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-SnapshotsV1Beta3-GetSnapshot-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_snapshots_v1_beta3_get_snapshot_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-SnapshotsV1Beta3-GetSnapshot-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_snapshots_v1_beta3_get_snapshot_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-SnapshotsV1Beta3-ListSnapshots-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_snapshots_v1_beta3_list_snapshots_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-SnapshotsV1Beta3-ListSnapshots-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_snapshots_v1_beta3_list_snapshots_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-TemplatesService-CreateJobFromTemplate-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_templates_service_create_job_from_template_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-TemplatesService-CreateJobFromTemplate-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_templates_service_create_job_from_template_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-TemplatesService-GetTemplate-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_templates_service_get_template_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-TemplatesService-GetTemplate-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_templates_service_get_template_sync.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-TemplatesService-LaunchTemplate-async	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_templates_service_launch_template_async.py
+python-dataflow-client	https://cloud.google.com/dataflow/docs/samples/dataflow-v1beta3-generated-TemplatesService-LaunchTemplate-sync	googleapis/python-dataflow-client/samples/generated_samples/dataflow_v1beta3_generated_templates_service_launch_template_sync.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/commands	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/config/getting-state	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/credentials/authenticating-applications	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/devices	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/gateway-demo	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/gateways/create-gateways	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/gateways/mqtt-demo	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/iam	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-bind-device-to-gateway	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-create-device	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-create-es-device	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-create-gateway	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-create-registry	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-create-rsa-device	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-create-unauth-device	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-delete-device	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-delete-registry	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-get-device	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-get-device-configs	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-get-device-state	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-get-iam-policy	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-get-registry	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-list-devices	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-list-devices-for-gateway	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-list-gateways	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-list-registries	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-patch-es	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-patch-rsa	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-send-command	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-set-device-config	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-set-iam-policy	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/samples/iot-unbind-device-from-gateway	googleapis/python-iot/samples/api-client/manager/manager.py
+python-iot	https://cloud.google.com/iot/docs/how-tos/config/configuring-devices	googleapis/python-iot/samples/api-client/mqtt_example/cloudiot_mqtt_example.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/create_asset.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_asset.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/create_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-channel	googleapis/python-video-live-stream/samples/snippets/create_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/create_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/create_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-channel-event	googleapis/python-video-live-stream/samples/snippets/create_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/configure-backup-stream	googleapis/python-video-live-stream/samples/snippets/create_channel_with_backup_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-channel-with-backup-input	googleapis/python-video-live-stream/samples/snippets/create_channel_with_backup_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/configure-backup-stream	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-create-input	googleapis/python-video-live-stream/samples/snippets/create_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/delete_asset.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-delete-channel	googleapis/python-video-live-stream/samples/snippets/delete_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/delete_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/delete_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/delete_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-delete-channel-event	googleapis/python-video-live-stream/samples/snippets/delete_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/delete_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/delete_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/delete_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-delete-input	googleapis/python-video-live-stream/samples/snippets/delete_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/get_asset.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/get_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/get_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/get_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-get-channel	googleapis/python-video-live-stream/samples/snippets/get_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/get_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-get-channel-event	googleapis/python-video-live-stream/samples/snippets/get_channel_event.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/get_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/get_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-get-input	googleapis/python-video-live-stream/samples/snippets/get_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-pools	googleapis/python-video-live-stream/samples/snippets/get_pool.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-assets	googleapis/python-video-live-stream/samples/snippets/list_assets.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channel-events	googleapis/python-video-live-stream/samples/snippets/list_channel_events.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-list-channel-events	googleapis/python-video-live-stream/samples/snippets/list_channel_events.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/list_channels.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-list-channels	googleapis/python-video-live-stream/samples/snippets/list_channels.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/list_inputs.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-list-inputs	googleapis/python-video-live-stream/samples/snippets/list_inputs.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/start_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/insert-slate	googleapis/python-video-live-stream/samples/snippets/start_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/start_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/start_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-start-channel	googleapis/python-video-live-stream/samples/snippets/start_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/stop_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-dash	googleapis/python-video-live-stream/samples/snippets/stop_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/quickstarts/quickstart-hls	googleapis/python-video-live-stream/samples/snippets/stop_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-stop-channel	googleapis/python-video-live-stream/samples/snippets/stop_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-channels	googleapis/python-video-live-stream/samples/snippets/update_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-update-channel	googleapis/python-video-live-stream/samples/snippets/update_channel.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-input-endpoints	googleapis/python-video-live-stream/samples/snippets/update_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/samples/livestream-update-input	googleapis/python-video-live-stream/samples/snippets/update_input.py
+python-video-live-stream	https://cloud.google.com/livestream/docs/how-to/create-pools	googleapis/python-video-live-stream/samples/snippets/update_pool.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/analyze-labels	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/analyze-safesearch	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/analyze-shots	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/object-tracking	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-analyze-explicit-content	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-analyze-labels	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-analyze-labels-gcs	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-analyze-shots	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-text	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-text-gcs	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-object-tracking	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-object-tracking-gcs	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-speech-transcription-gcs	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/text-detection	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/transcription	googleapis/python-videointelligence/samples/analyze/analyze.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-streaming-annotation-to-storage-beta	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-streaming-automl-classification-beta	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-streaming-explicit-content-detection-beta	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-streaming-label-detection-beta	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-streaming-object-tracking-beta	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-streaming-shot-change-detection-beta	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/action-recognition	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/automl-object-tracking	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/explicit-content	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/label-analysis	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/object-tracking	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/shot-change	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/streaming-to-storage	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/video-classification	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/face-detection	googleapis/python-videointelligence/samples/analyze/video_detect_faces.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-faces	googleapis/python-videointelligence/samples/analyze/video_detect_faces.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/face-detection	googleapis/python-videointelligence/samples/analyze/video_detect_faces_gcs.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-faces-gcs	googleapis/python-videointelligence/samples/analyze/video_detect_faces_gcs.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/logo-recognition	googleapis/python-videointelligence/samples/analyze/video_detect_logo.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-logo	googleapis/python-videointelligence/samples/analyze/video_detect_logo.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/logo-recognition	googleapis/python-videointelligence/samples/analyze/video_detect_logo_gcs.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-logo-gcs	googleapis/python-videointelligence/samples/analyze/video_detect_logo_gcs.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/people-detection	googleapis/python-videointelligence/samples/analyze/video_detect_person.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-person	googleapis/python-videointelligence/samples/analyze/video_detect_person.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/people-detection	googleapis/python-videointelligence/samples/analyze/video_detect_person_gcs.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-detect-person-gcs	googleapis/python-videointelligence/samples/analyze/video_detect_person_gcs.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/label-tutorial	googleapis/python-videointelligence/samples/labels/labels.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/annotate-video-client-libraries	googleapis/python-videointelligence/samples/quickstart/quickstart.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/samples/video-quickstart	googleapis/python-videointelligence/samples/quickstart/quickstart.py
+python-videointelligence	https://cloud.google.com/video-intelligence/docs/shot-detection	googleapis/python-videointelligence/samples/shotchange/shotchange.py
