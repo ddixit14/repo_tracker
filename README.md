@@ -280,15 +280,15 @@ Repositories with desirable state :white_check_mark:: 109 / 111 repos (the highe
 | nodejs-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 # python
 
-Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher, the better):
 
 - Zero open issues: 108 repos
-- Zero pull requests: 83 repos
-- README.md updated: 81 repos
-- About updated: 81 repos
+- Zero pull requests: 91 repos
+- README.md updated: 85 repos
+- About updated: 85 repos
 - Zero document references: 110 repos
-- Code Deleted: 81 repos
-- Public Archived: 81 repos
+- Code Deleted: 85 repos
+- Public Archived: 85 repos
 
 ### Repository state
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
@@ -301,7 +301,7 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-appengine-admin  | 0 | 1 | false | false | 0 | false | false |
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-assured-workloads  | 0 | 1 | false | false | 0 | false | false |
+| python-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-batch :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-appconnections :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -335,9 +335,9 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 3 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 0 | false | false | 0 | false | false |
 | python-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dlp  | 0 | 1 | false | false | 0 | false | false |
+| python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-documentai :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-domains :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -347,7 +347,7 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-eventarc-publishing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-filestore  | 0 | 1 | false | false | 0 | false | false |
 | python-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-gke-backup  | 0 | 1 | false | false | 0 | false | false |
+| python-gke-backup :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gsuiteaddons  | 0 | 1 | false | false | 0 | false | false |
@@ -365,9 +365,9 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-security :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-network-services  | 0 | 1 | false | false | 0 | false | false |
+| python-network-services :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-notebooks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-optimization  | 0 | 1 | false | false | 0 | false | false |
+| python-optimization :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-orchestration-airflow :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-os-config  | 0 | 1 | false | false | 0 | false | false |
 | python-phishingprotection :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -391,9 +391,9 @@ Repositories with desirable state :white_check_mark:: 81 / 113 repos (the higher
 | python-service-management  | 0 | 1 | false | false | 0 | false | false |
 | python-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-storage-transfer  | 0 | 1 | false | false | 0 | false | false |
+| python-storage-transfer  | 0 | 0 | false | false | 0 | false | false |
 | python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-tasks  | 0 | 1 | false | false | 0 | false | false |
+| python-tasks  | 0 | 0 | false | false | 0 | false | false |
 | python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 1 | false | false | 0 | false | false |
