@@ -379,7 +379,7 @@ Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher
 | python-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-retail  | 0 | 3 | false | false | 0 | false | false |
+| python-retail  | 0 | 1 | false | false | 0 | false | false |
 | python-run  | 2 | 1 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 1 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -397,9 +397,9 @@ Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher
 | python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 1 | false | false | 0 | false | false |
-| python-videointelligence  | 0 | 3 | false | false | [45](./document_reference_count.tsv) | false | false |
-| python-video-live-stream  | 0 | 3 | false | false | [63](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 3 | false | false | 0 | false | false |
+| python-videointelligence  | 0 | 2 | false | false | [45](./document_reference_count.tsv) | false | false |
+| python-video-live-stream  | 0 | 2 | false | false | [63](./document_reference_count.tsv) | false | false |
+| python-video-stitcher  | 0 | 2 | false | false | 0 | false | false |
 | python-video-transcoder  | 0 | 2 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
