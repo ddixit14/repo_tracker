@@ -3,11 +3,11 @@
 Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher, the better):
 
 - Zero open issues: 108 repos
-- Zero pull requests: 91 repos
-- README.md updated: 85 repos
+- Zero pull requests: 94 repos
+- README.md updated: 89 repos
 - About updated: 85 repos
 - Zero document references: 110 repos
-- Code Deleted: 85 repos
+- Code Deleted: 89 repos
 - Public Archived: 85 repos
 
 ### Repository state
@@ -55,7 +55,7 @@ Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher
 | python-data-qna :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datastream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-deploy :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-dialogflow  | 0 | 0 | false | false | 0 | false | false |
+| python-dialogflow  | 0 | 1 | false | false | 0 | false | false |
 | python-dialogflow-cx :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dlp  | 0 | 0 | false | false | 0 | false | false |
 | python-dms :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -99,7 +99,7 @@ Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher
 | python-redis :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-retail  | 0 | 1 | false | false | 0 | false | false |
+| python-retail  | 0 | 0 | true | false | 0 | true | false |
 | python-run  | 2 | 1 | false | false | 0 | false | false |
 | python-scheduler  | 0 | 1 | false | false | 0 | false | false |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -111,16 +111,16 @@ Repositories with desirable state :white_check_mark:: 85 / 113 repos (the higher
 | python-service-management  | 0 | 1 | false | false | 0 | false | false |
 | python-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-storage-transfer  | 0 | 0 | false | false | 0 | false | false |
+| python-storage-transfer  | 0 | 1 | false | false | 0 | false | false |
 | python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-tasks  | 0 | 0 | false | false | 0 | false | false |
 | python-texttospeech  | 2 | 1 | false | false | 0 | false | false |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 1 | false | false | 0 | false | false |
-| python-videointelligence  | 0 | 2 | false | false | [45](./document_reference_count.tsv) | false | false |
-| python-video-live-stream  | 0 | 2 | false | false | [63](./document_reference_count.tsv) | false | false |
-| python-video-stitcher  | 0 | 2 | false | false | 0 | false | false |
-| python-video-transcoder  | 0 | 2 | false | false | 0 | false | false |
+| python-videointelligence  | 0 | 0 | false | false | [45](./document_reference_count.tsv) | false | false |
+| python-video-live-stream  | 0 | 0 | true | false | [63](./document_reference_count.tsv) | true | false |
+| python-video-stitcher  | 0 | 0 | true | false | 0 | true | false |
+| python-video-transcoder  | 0 | 0 | true | false | 0 | true | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
