@@ -41,7 +41,7 @@ Repositories with desirable state :white_check_mark:: 88 / 113 repos (the higher
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 2 | false | false | 0 | false | false |
-| python-compute  | 2 | 1 | false | false | 0 | false | false |
+| python-compute  | 3 | 1 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
