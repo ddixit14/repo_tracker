@@ -380,7 +380,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-run  | 3 | 3 | false | false | 0 | false | false |
+| python-run  | 3 | 2 | false | false | 0 | false | false |
 | python-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
