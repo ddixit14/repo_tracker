@@ -360,7 +360,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-monitoring-dashboards  | 2 | 3 | false | false | 0 | false | false |
+| python-monitoring-dashboards  | 2 | 2 | false | false | 0 | false | false |
 | python-monitoring-metrics-scopes :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-management :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
