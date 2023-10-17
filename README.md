@@ -298,7 +298,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-api-keys :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-appengine-admin  | 0 | 4 | false | false | 0 | false | false |
+| python-appengine-admin  | 0 | 1 | false | false | 0 | false | false |
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -380,7 +380,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-run  | 5 | 4 | false | false | 0 | false | false |
+| python-run  | 4 | 4 | false | false | 0 | false | false |
 | python-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
