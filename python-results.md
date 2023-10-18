@@ -2,7 +2,7 @@
 
 Repositories with desirable state :white_check_mark:: 101 / 113 repos (the higher, the better):
 
-- Zero open issues: 110 repos
+- Zero open issues: 109 repos
 - Zero pull requests: 103 repos
 - README.md updated: 103 repos
 - About updated: 103 repos
@@ -18,7 +18,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-api-keys :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-appengine-admin  | 0 | 1 | false | false | 0 | false | false |
+| python-appengine-admin  | 0 | 2 | false | false | 0 | false | false |
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -40,7 +40,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-cloudbuild  | 0 | 4 | false | false | 0 | false | false |
+| python-cloudbuild  | 1 | 4 | false | false | 0 | false | false |
 | python-compute  | 6 | 3 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
