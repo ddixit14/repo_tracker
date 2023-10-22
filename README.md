@@ -282,8 +282,8 @@ Repositories with desirable state :white_check_mark:: 110 / 111 repos (the highe
 
 Repositories with desirable state :white_check_mark:: 101 / 113 repos (the higher, the better):
 
-- Zero open issues: 111 repos
-- Zero pull requests: 112 repos
+- Zero open issues: 113 repos
+- Zero pull requests: 111 repos
 - README.md updated: 103 repos
 - About updated: 103 repos
 - Zero document references: 110 repos
@@ -298,7 +298,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-api-keys :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-appengine-admin  | 0 | 0 | false | false | 0 | false | false |
+| python-appengine-admin  | 0 | 1 | false | false | 0 | false | false |
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -321,7 +321,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
-| python-compute  | 6 | 3 | false | false | 0 | false | false |
+| python-compute  | 0 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -380,7 +380,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-resource-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-resource-settings :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-retail :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-run  | 4 | 0 | false | false | 0 | false | false |
+| python-run  | 0 | 0 | false | false | 0 | false | false |
 | python-scheduler :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-secret-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-securitycenter :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -388,7 +388,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-security-public-ca :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-service-control :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-service-directory :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-service-management  | 0 | 0 | false | false | 0 | false | false |
+| python-service-management  | 0 | 1 | false | false | 0 | false | false |
 | python-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
