@@ -1,12 +1,12 @@
 # python
 
-Repositories with desirable state :white_check_mark:: 101 / 113 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 101 / 126 repos (the higher, the better):
 
-- Zero open issues: 112 repos
-- Zero pull requests: 111 repos
+- Zero open issues: 125 repos
+- Zero pull requests: 122 repos
 - README.md updated: 103 repos
 - About updated: 103 repos
-- Zero document references: 110 repos
+- Zero document references: 123 repos
 - Code Deleted: 103 repos
 - Public Archived: 103 repos
 
@@ -14,6 +14,8 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | Repository | Open Issues | Open Pull Requests | README.MD updated  | About updated | Document References | Code Deleted | Public Archived |
 |------------|-------------|--------------------|--------------------|---------------|---------------------|--------------|-----------------|
 | python-access-approval :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-analytics-admin  | 0 | 1 | false | false | 0 | false | false |
+| python-analytics-data  | 0 | 1 | false | false | 0 | false | false |
 | python-api-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-connect :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-apigee-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -21,7 +23,9 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-appengine-admin  | 0 | 1 | false | false | 0 | false | false |
 | python-area120-tables :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-artifact-registry :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-asset  | 0 | 0 | false | false | 0 | false | false |
 | python-assured-workloads :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-automl  | 0 | 0 | false | false | 0 | false | false |
 | python-bare-metal-solution :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-batch :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-beyondcorp-appconnections :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -38,12 +42,15 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-bigquery-reservation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billing :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-billingbudgets :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-binary-authorization  | 0 | 0 | false | false | 0 | false | false |
 | python-certificate-manager :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
+| python-cloud-common  | 0 | 0 | false | false | 0 | false | false |
 | python-compute  | 1 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
 | python-datacatalog :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-dataflow-client  | 0 | 0 | false | false | [36](./document_reference_count.tsv) | false | false |
 | python-dataform :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -69,7 +76,9 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-functions :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-backup :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-gke-connect-gateway :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-gke-hub  | 0 | 0 | false | false | 0 | false | false |
 | python-gke-multicloud :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-grafeas  | 0 | 0 | false | false | 0 | false | false |
 | python-gsuiteaddons :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-iam :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-iap :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -80,6 +89,7 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-managed-identities :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-media-translation :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-memcache :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-monitoring  | 0 | 0 | false | false | 0 | false | false |
 | python-monitoring-dashboards  | 0 | 0 | false | false | 0 | false | false |
 | python-monitoring-metrics-scopes :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-network-connectivity :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
@@ -111,16 +121,19 @@ Repositories with desirable state :white_check_mark:: 101 / 113 repos (the highe
 | python-service-management  | 0 | 1 | false | false | 0 | false | false |
 | python-service-usage :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-shell :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-speech  | 0 | 0 | false | false | 0 | false | false |
 | python-storage-transfer :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-talent :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-tasks :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-texttospeech :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace  | 0 | 0 | false | false | 0 | false | false |
+| python-translate  | 0 | 0 | false | false | 0 | false | false |
 | python-videointelligence  | 0 | 0 | true | true | [45](./document_reference_count.tsv) | true | true |
 | python-video-live-stream  | 0 | 0 | true | true | [63](./document_reference_count.tsv) | true | true |
 | python-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-video-transcoder :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
+| python-vision  | 0 | 0 | false | false | 0 | false | false |
 | python-vm-migration :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-vpc-access :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-webrisk :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
