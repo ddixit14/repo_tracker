@@ -2,7 +2,7 @@
 
 Repositories with desirable state :white_check_mark:: 101 / 126 repos (the higher, the better):
 
-- Zero open issues: 125 repos
+- Zero open issues: 126 repos
 - Zero pull requests: 122 repos
 - README.md updated: 103 repos
 - About updated: 103 repos
@@ -47,7 +47,7 @@ Repositories with desirable state :white_check_mark:: 101 / 126 repos (the highe
 | python-channel :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-cloudbuild  | 0 | 0 | false | false | 0 | false | false |
 | python-cloud-common  | 0 | 0 | false | false | 0 | false | false |
-| python-compute  | 1 | 0 | false | false | 0 | false | false |
+| python-compute  | 0 | 0 | false | false | 0 | false | false |
 | python-contact-center-insights :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-container :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-containeranalysis  | 0 | 0 | false | false | 0 | false | false |
