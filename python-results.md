@@ -129,7 +129,7 @@ Repositories with desirable state :white_check_mark:: 125 / 126 repos (the highe
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-translate :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-videointelligence  | 0 | 0 | true | true | [23](./document_reference_count.tsv) | true | true |
+| python-videointelligence  | 0 | 0 | true | true | [1](./document_reference_count.tsv) | true | true |
 | python-video-live-stream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-video-transcoder :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
