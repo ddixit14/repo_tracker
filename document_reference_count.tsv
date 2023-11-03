@@ -150,4 +150,3 @@ nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-test-topic-per
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-update-subscription	googleapis/nodejs-pubsub/samples/typescript/updateDeadLetterPolicy.ts
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/handling-failures	googleapis/nodejs-pubsub/samples/updateDeadLetterPolicy.js
 nodejs-pubsub	https://cloud.google.com/pubsub/docs/samples/pubsub-dead-letter-update-subscription	googleapis/nodejs-pubsub/samples/updateDeadLetterPolicy.js
-python-videointelligence	https://cloud.google.com/video-intelligence/docs/streaming/action-recognition	googleapis/python-videointelligence/samples/analyze/beta_snippets.py
