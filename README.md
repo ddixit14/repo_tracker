@@ -280,13 +280,13 @@ Repositories with desirable state :white_check_mark:: 110 / 111 repos (the highe
 | nodejs-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 # python
 
-Repositories with desirable state :white_check_mark:: 125 / 126 repos (the higher, the better):
+Repositories with desirable state :white_check_mark:: 126 / 126 repos (the higher, the better):
 
 - Zero open issues: 126 repos
 - Zero pull requests: 126 repos
 - README.md updated: 126 repos
 - About updated: 126 repos
-- Zero document references: 125 repos
+- Zero document references: 126 repos
 - Code Deleted: 126 repos
 - Public Archived: 126 repos
 
@@ -409,7 +409,7 @@ Repositories with desirable state :white_check_mark:: 125 / 126 repos (the highe
 | python-tpu :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-trace :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-translate :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
-| python-videointelligence  | 0 | 0 | true | true | [1](./document_reference_count.tsv) | true | true |
+| python-videointelligence :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-video-live-stream :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-video-stitcher :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
 | python-video-transcoder :white_check_mark: | 0 | 0 | true | true | 0 | true | true |
